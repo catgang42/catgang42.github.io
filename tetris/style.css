@@ -1,0 +1,18 @@
+.k {
+	background-color: #FF452F;
+	border: solid 2px #FBB9AD;
+	font-family: lucida grande;
+	cursor: default;
+	color: white;
+	font-weight: bold;
+	display: inline-table;
+	padding: 4px 8px;
+
+	-webkit-user-select: none;
+	-moz-user-select: none;
+
+	-webkit-border-radius: 4px; /* Safari, Chrome */
+ 	-khtml-border-radius: 4px;    /* Konqueror */
+ 	-moz-border-radius: 4px; /* Firefox */
+  	border-radius: 4px;
+}
