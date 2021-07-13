@@ -1,0 +1,65 @@
+{
+  "name": "sandtable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode=production",
+    "start": "webpack-dev-server -d",
+    "deploy": "webpack --mode=production && gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxbittker/sandtable.git"
+  },
+  "keywords": [
+    "webassembly",
+    "wasm",
+    "rust",
+    "webpack"
+  ],
+  "author": "Max Bittker",
+  "license": "(MIT OR Apache-2.0)",
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/plugin-syntax-dynamic-import": "^7.7.4",
+    "@babel/preset-env": "^7.7.7",
+    "@babel/preset-react": "^7.7.4",
+    "@wasm-tool/wasm-pack-plugin": "0.2.1",
+    "babel-loader": "^8.0.6",
+    "copy-webpack-plugin": "^4.6.0",
+    "glslify": "^6.4.1",
+    "glslify-loader": "^1.0.2",
+    "html-webpack-plugin": "^3.2.0",
+    "http-server": "^0.11.1",
+    "raw-loader": "^1.0.0",
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1",
+    "workbox-webpack-plugin": "^4.3.1"
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.7.4",
+    "@babel/plugin-transform-runtime": "^7.13.15",
+    "@sentry/browser": "^6.2.5",
+    "@sentry/tracing": "^6.2.5",
+    "@sentry/wasm": "^6.2.5",
+    "classnames": "^2.2.6",
+    "css-loader": "^5.0.2",
+    "dat.gui": "^0.7.5",
+    "firebase": "^8.2.8",
+    "firebase-admin": "^9.3.0",
+    "firebase-tools": "^7.11.0",
+    "gh-pages": "^2.1.1",
+    "glsl-hsv2rgb": "^1.0.0",
+    "glsl-noise": "0.0.0",
+    "glsl-random": "0.0.5",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-firebaseui": "4.1.0",
+    "react-router-dom": "^5.1.2",
+    "regl": "^1.3.13",
+    "style-loader": "^2.0.0",
+    "timeago.js": "^3.0.2"
+  }
+}
