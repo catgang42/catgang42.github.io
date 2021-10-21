@@ -3,13 +3,12 @@
     <link rel="shortcut icon" href="https://catgang42.github.io/flash/favicon192.png" type="image/x-icon">
 <title>Warfare 1917</title>
 <body>
-	<script>
+<script>
     window.RufflePlayer = window.RufflePlayer || {};
-
-    window.addEventListener("DOMContentLoaded", () => {
-        let ruffle = window.RufflePlayer.newest();
-        let player = ruffle.createPlayer();
-        let container = document.getElementById("container");
+    window.addEventListener("load", (event) => {
+        const ruffle = window.RufflePlayer.newest();
+        const player = ruffle.createPlayer();
+        const container = document.getElementById("container");
         container.appendChild(player);
         player.load("Warfare 1917.swf");
     });
