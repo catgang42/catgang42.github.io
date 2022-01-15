@@ -30,9 +30,7 @@ $('body').terminal({
 }, {
     greetings:'Test message'
 });
-</script>
-
-<script>
+   
   $('#term').terminal(function(command, term) {
     if (command == 'foo') {
         var history = term.history();
@@ -51,6 +49,6 @@ $('body').terminal({
         });
     }
 });
-  </script>
+</script>
 </body>
 </html>
