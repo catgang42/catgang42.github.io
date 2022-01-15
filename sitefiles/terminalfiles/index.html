@@ -31,5 +31,26 @@ $('body').terminal({
     greetings:'Test message'
 });
 </script>
+
+<script>
+  $('#term').terminal(function(command, term) {
+    if (command == 'foo') {
+        var history = term.history();
+        history.disable();
+        term.push(function(command) {
+            if (command.match(/^(y|yes)$/i)) {
+                term.echo('execute your command here');
+                term.pop();
+                history.enable();
+            } else if (command.match(/^(n|no)$/i)) {
+                term.pop();
+                history.enable();
+            }
+        }, {
+            prompt: 'Are you sure? '
+        });
+    }
+});
+  </script>
 </body>
 </html>
