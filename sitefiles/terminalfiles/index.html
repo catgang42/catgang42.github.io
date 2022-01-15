@@ -15,6 +15,28 @@ $('body').terminal({
 }, {
     greetings: 'My First Web Terminal'
 });
+      
+    $('body').terminal({
+    cat: function() {
+        this.echo($('<img src="https://placekitten.com/408/287">'));
+    }
+});
+    
+    ***THIS CODE BELOW ALLOWS FOR YOU TO CHANGE IMAGE SIZE***
+    $('body').terminal({
+    cat: function(width, height) {
+        const img = $('<img src="https://placekitten.com/' +
+                      width + '/' + height + '">');
+        this.echo(img);
+    }
+});
+    
+        },
+    title: function() {
+        return fetch('https://terminal.jcubic.pl')
+            .then(r => r.text())
+            .then(html => html.match(/<title>([^>]+)<\/title>/)[1]);
+});
 </script>
 </body>
 </html>
