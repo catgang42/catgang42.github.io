@@ -5,15 +5,14 @@
 <script src="https://unpkg.com/jquery.terminal/js/jquery.terminal.min.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/jquery.terminal/css/jquery.terminal.min.css"/>
 </head>
+<style>
+    .div-1 {
+              background-color: #37f;
+    }
+</style>
 <body>
-  <style>
-.text {
-background-color: ##37f;
-}
-    </style>
-  <pre id="text">
-<div class="text"
-"    ><<               ><<     ><<<<                                                     
+    <div class="div-1"> 
+        ><<               ><<     ><<<<                                                     
  ><<   ><<            ><<   ><    ><<                                   ><<    ><< ><   
 ><<          ><<    ><>< ><><<           ><<    ><< ><<     ><<       > ><<   ><     ><<
 ><<        ><<  ><<   ><<  ><<         ><<  ><<  ><<  ><< ><<  ><<   >< ><<        ><<  
@@ -21,7 +20,8 @@ background-color: ##37f;
  ><<   ><<><<   ><<   ><<   ><<    >< ><<   ><<  ><<  ><< ><<  ><<><<<< >< ><< ><<      
    ><<<<    ><< ><<<   ><<   ><<<<<     ><< ><<<><<<  ><<     ><<       ><<   ><<<<<<<< 
                                                            ><<                          
-  <script>
+    </div>
+ <script>
 $('body').terminal({
     hello: function(what) {
         this.echo('Hello, ' + what +
