@@ -8,14 +8,9 @@
 <script src="https://unpkg.com/jquery.terminal/js/jquery.terminal.min.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/jquery.terminal/css/jquery.terminal.min.css"/>
 </head>
-<style>
-    .div-1 {
-              background-color: #000;
-      color: #aaa;
-    }
-</style>
 <body>
- <pre id="div-1">
+  <div style="background-color: #000;color: #aaa;">
+    <pre id="div-1">
    ><<               ><<     ><<<<                                                     
  ><<   ><<            ><<   ><    ><<                                   ><<    ><< ><   
 ><<          ><<    ><>< ><><<           ><<    ><< ><<     ><<       > ><<   ><     ><<
@@ -25,6 +20,7 @@
    ><<<<    ><< ><<<   ><<   ><<<<<     ><< ><<<><<<  ><<     ><<       ><<   ><<<<<<<< 
                                                            ><<                          
     </pre>
+    </div>
  <script>
 $('body').terminal({
     hello: function(what) {
