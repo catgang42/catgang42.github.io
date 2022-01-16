@@ -30,26 +30,10 @@ $('body').terminal({
 }, {
     greetings:'Test message'
 });
-</script>
-<script>
-  $('body').terminal({
+$('body').terminal({
     redisasussybaka: function() {
         this.echo($('<img src="https://static.wikia.nocookie.net/among-us-wiki/images/3/31/Red.png/revision/latest?cb=20211122214947">'));
     }
-}, {
-    greetings: 'You can see that the cat is flying!'
-});
-    }
-});
-  </script>
-<script>
-     
-   $('body').terminal({
-    flyingcat: function(width, height) {
-        const img = $('<img src="https://i.pinimg.com/originals/1e/16/d5/1e16d586ae460fb175bc428ffb738592.jpg' +
-                      width + '/' + height + '">');
-        this.echo(img);
-          }
 }, {
     greetings: 'You can see that the cat is flying!'
 });
