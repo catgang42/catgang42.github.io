@@ -32,7 +32,7 @@ jQuery(function($) {
     var id = 1;
     term = $('body').terminal(function(command, term) {
         if (command == 'help') {
-            term.echo("available commands are hello, js, test");
+            term.echo("available commands are hello, cat, js, test");
 			} else if (command == 'hello') {
 			term.echo("Hello person");
 						} else if (command == 'cat') {
@@ -64,7 +64,7 @@ jQuery(function($) {
             term.echo("unknown command " + command);
         }
     }, {
-        greetings: "multiply terminals demo use help to see available commands",
+        greetings: "Welcome to the CatGang42 Terminal, you can use this for random shit",
         onBlur: function() {
             // prevent loosing focus
             return false;
