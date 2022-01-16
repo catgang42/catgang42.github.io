@@ -27,6 +27,7 @@
     </pre>
     </div>
 <script>
+// This code here is just some basic commands
 var term;
 jQuery(function($) {
     var id = 1;
@@ -37,6 +38,9 @@ jQuery(function($) {
 			term.echo("Hello person");
 						} else if (command == 'cat') {
 						term.echo($('<img src="https://placekitten.com/408/287">'));
+} else if (command == 'homepage') {
+	term.echo($('<href="https://catgang42.github.io">'));
+// The code below is more advanced
         } else if (command == 'test'){
             term.push(function(command, term) {
                 if (command == 'help') {
