@@ -10,7 +10,7 @@
 </head>
 <body>
   <div style="background-color: #000;color: #aaa; overflow:auto">
-    <pre id="div-1">
+    <pre>
     ><<               ><<     ><<<<                                                     
  ><<   ><<            ><<   ><    ><<                                   ><<    ><< ><   
 ><<          ><<    ><>< ><><<           ><<    ><< ><<     ><<       > ><<   ><     ><<
@@ -30,8 +30,9 @@ $('body').terminal({
 }, {
     greetings:'Test message'
 });
-   
-$('body').terminal({
+</script>
+<script>
+  $('body').terminal({
     redisasussybaka: function() {
         this.echo($('<img src="https://static.wikia.nocookie.net/among-us-wiki/images/3/31/Red.png/revision/latest?cb=20211122214947">'));
     }
@@ -40,7 +41,9 @@ $('body').terminal({
 });
     }
 });
-   
+  </script>
+<script>
+     
    $('body').terminal({
     flyingcat: function(width, height) {
         const img = $('<img src="https://i.pinimg.com/originals/1e/16/d5/1e16d586ae460fb175bc428ffb738592.jpg' +
@@ -52,6 +55,6 @@ $('body').terminal({
 });
     }
 });
-</script>
+  </script>
 </body>
 </html>
