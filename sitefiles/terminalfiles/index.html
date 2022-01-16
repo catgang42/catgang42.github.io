@@ -1,13 +1,18 @@
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="shortcut icon" href="https://catgang42.github.io/favicon-512x512.png" type="image/x-icon">
-  <title>Catgang42 Terminal
-  </title>
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-<script src="https://unpkg.com/jquery.terminal/js/jquery.terminal.min.js"></script>
-<link rel="stylesheet" href="https://unpkg.com/jquery.terminal/css/jquery.terminal.min.css"/>
-</head>
+	<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+	<link rel="shortcut icon" href="https://catgang42.github.io/favicon-512x512.png" type="image/x-icon">
+    <title>CatGang42 Terminal</title>
+    <meta name="author" content="Catgang42 - catgang42.github.io"/>
+    <meta name="Description" content="Terminal Test."/>
+    <script src="../js/jquery-1.7.1.min.js"></script>
+    <script src="../js/jquery.mousewheel-min.js"></script>
+    <script src="../js/jquery.terminal.min.js"></script>
+    <link href="../css/jquery.terminal.min.css" rel="stylesheet"/>
+    <script src="https://unpkg.com/js-polyfills/keyboard.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
 <body>
   <div style="background-color: #000;color: #aaa; overflow:auto">
     <pre>
@@ -21,15 +26,52 @@
                                                            ><<                          
     </pre>
     </div>
- <script>
-$('body').terminal({
-    hello: function(what) {
-        this.echo('Hello, ' + what +
-                  '. Welcome to this terminal.');
-    }
-}, {
-    greetings:'Test message'
+<script>
+var term;
+jQuery(function($) {
+    var id = 1;
+    term = $('body').terminal(function(command, term) {
+        if (command == 'help') {
+            term.echo("available commands are hello, js, test");
+			} else if (command == 'hello') {
+			term.echo("Hello person");
+						} else if (command == 'cat') {
+						term.echo($('<img src="https://placekitten.com/408/287">'));
+        } else if (command == 'test'){
+            term.push(function(command, term) {
+                if (command == 'help') {
+                    term.echo('if you type ping it will display pong');
+                } else if (command == 'ping') {
+                    term.echo('pong');
+                } else {
+                    term.echo('unknown command ' + command);
+                }
+            }, {
+                prompt: 'test> ',
+                name: 'test'
+            });
+        } else if (command == "js") {
+            term.push(function(command, term) {
+                var result = window.eval(command);
+                if (result != undefined) {
+                    term.echo(String(result));
+                }
+            }, {
+                name: 'js',
+                prompt: 'js> '
+            });
+        } else {
+            term.echo("unknown command " + command);
+        }
+    }, {
+        greetings: "multiply terminals demo use help to see available commands",
+        onBlur: function() {
+            // prevent loosing focus
+            return false;
+        }
+    });
 });
-  </script>
+
+</script>
 </body>
 </html>
