@@ -1,0 +1,2258 @@
+fileFormatVersion: 2
+guid: d5b8e31ca51989f4f824affb0844ea6d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Goomba_1
+    21300002: Goomba_2
+    21300004: Goomba_death
+    21300006: NES - Super Mario Bros 3 - Enemies_3
+    21300008: NES - Super Mario Bros 3 - Enemies_4
+    21300010: NES - Super Mario Bros 3 - Enemies_5
+    21300012: NES - Super Mario Bros 3 - Enemies_6
+    21300014: NES - Super Mario Bros 3 - Enemies_7
+    21300016: NES - Super Mario Bros 3 - Enemies_8
+    21300018: NES - Super Mario Bros 3 - Enemies_9
+    21300020: NES - Super Mario Bros 3 - Enemies_10
+    21300022: NES - Super Mario Bros 3 - Enemies_11
+    21300024: NES - Super Mario Bros 3 - Enemies_12
+    21300026: NES - Super Mario Bros 3 - Enemies_13
+    21300028: NES - Super Mario Bros 3 - Enemies_14
+    21300030: NES - Super Mario Bros 3 - Enemies_15
+    21300032: NES - Super Mario Bros 3 - Enemies_16
+    21300034: NES - Super Mario Bros 3 - Enemies_17
+    21300036: NES - Super Mario Bros 3 - Enemies_18
+    21300038: NES - Super Mario Bros 3 - Enemies_19
+    21300040: NES - Super Mario Bros 3 - Enemies_20
+    21300042: NES - Super Mario Bros 3 - Enemies_21
+    21300044: NES - Super Mario Bros 3 - Enemies_22
+    21300046: NES - Super Mario Bros 3 - Enemies_23
+    21300048: NES - Super Mario Bros 3 - Enemies_24
+    21300050: NES - Super Mario Bros 3 - Enemies_25
+    21300052: NES - Super Mario Bros 3 - Enemies_26
+    21300054: NES - Super Mario Bros 3 - Enemies_27
+    21300056: NES - Super Mario Bros 3 - Enemies_28
+    21300058: NES - Super Mario Bros 3 - Enemies_29
+    21300060: NES - Super Mario Bros 3 - Enemies_30
+    21300062: NES - Super Mario Bros 3 - Enemies_31
+    21300064: NES - Super Mario Bros 3 - Enemies_32
+    21300066: NES - Super Mario Bros 3 - Enemies_33
+    21300068: NES - Super Mario Bros 3 - Enemies_34
+    21300070: NES - Super Mario Bros 3 - Enemies_35
+    21300072: NES - Super Mario Bros 3 - Enemies_36
+    21300074: NES - Super Mario Bros 3 - Enemies_37
+    21300076: NES - Super Mario Bros 3 - Enemies_38
+    21300078: NES - Super Mario Bros 3 - Enemies_39
+    21300080: NES - Super Mario Bros 3 - Enemies_40
+    21300082: NES - Super Mario Bros 3 - Enemies_41
+    21300084: NES - Super Mario Bros 3 - Enemies_42
+    21300086: NES - Super Mario Bros 3 - Enemies_43
+    21300088: NES - Super Mario Bros 3 - Enemies_44
+    21300090: NES - Super Mario Bros 3 - Enemies_45
+    21300092: NES - Super Mario Bros 3 - Enemies_46
+    21300094: NES - Super Mario Bros 3 - Enemies_47
+    21300096: NES - Super Mario Bros 3 - Enemies_48
+    21300098: NES - Super Mario Bros 3 - Enemies_49
+    21300100: NES - Super Mario Bros 3 - Enemies_50
+    21300102: NES - Super Mario Bros 3 - Enemies_51
+    21300104: NES - Super Mario Bros 3 - Enemies_52
+    21300106: NES - Super Mario Bros 3 - Enemies_53
+    21300108: NES - Super Mario Bros 3 - Enemies_54
+    21300110: NES - Super Mario Bros 3 - Enemies_55
+    21300112: NES - Super Mario Bros 3 - Enemies_56
+    21300114: NES - Super Mario Bros 3 - Enemies_57
+    21300116: NES - Super Mario Bros 3 - Enemies_58
+    21300118: NES - Super Mario Bros 3 - Enemies_59
+    21300120: NES - Super Mario Bros 3 - Enemies_60
+    21300122: NES - Super Mario Bros 3 - Enemies_61
+    21300124: NES - Super Mario Bros 3 - Enemies_62
+    21300126: NES - Super Mario Bros 3 - Enemies_63
+    21300128: NES - Super Mario Bros 3 - Enemies_64
+    21300130: NES - Super Mario Bros 3 - Enemies_65
+    21300132: NES - Super Mario Bros 3 - Enemies_66
+    21300134: NES - Super Mario Bros 3 - Enemies_67
+    21300136: NES - Super Mario Bros 3 - Enemies_68
+    21300138: NES - Super Mario Bros 3 - Enemies_69
+    21300140: NES - Super Mario Bros 3 - Enemies_70
+    21300142: NES - Super Mario Bros 3 - Enemies_71
+    21300144: NES - Super Mario Bros 3 - Enemies_72
+    21300146: NES - Super Mario Bros 3 - Enemies_73
+    21300148: NES - Super Mario Bros 3 - Enemies_74
+    21300150: NES - Super Mario Bros 3 - Enemies_75
+    21300152: NES - Super Mario Bros 3 - Enemies_76
+    21300154: NES - Super Mario Bros 3 - Enemies_77
+    21300156: NES - Super Mario Bros 3 - Enemies_78
+    21300158: NES - Super Mario Bros 3 - Enemies_79
+    21300160: NES - Super Mario Bros 3 - Enemies_80
+    21300162: NES - Super Mario Bros 3 - Enemies_81
+    21300164: NES - Super Mario Bros 3 - Enemies_82
+    21300166: NES - Super Mario Bros 3 - Enemies_83
+    21300168: NES - Super Mario Bros 3 - Enemies_84
+    21300170: NES - Super Mario Bros 3 - Enemies_85
+    21300172: NES - Super Mario Bros 3 - Enemies_86
+    21300174: NES - Super Mario Bros 3 - Enemies_87
+    21300176: NES - Super Mario Bros 3 - Enemies_88
+    21300178: NES - Super Mario Bros 3 - Enemies_89
+    21300180: NES - Super Mario Bros 3 - Enemies_90
+    21300182: NES - Super Mario Bros 3 - Enemies_91
+    21300184: NES - Super Mario Bros 3 - Enemies_92
+    21300186: NES - Super Mario Bros 3 - Enemies_93
+    21300188: NES - Super Mario Bros 3 - Enemies_94
+    21300190: NES - Super Mario Bros 3 - Enemies_95
+    21300192: NES - Super Mario Bros 3 - Enemies_96
+    21300194: NES - Super Mario Bros 3 - Enemies_97
+    21300196: NES - Super Mario Bros 3 - Enemies_98
+    21300198: NES - Super Mario Bros 3 - Enemies_99
+    21300200: NES - Super Mario Bros 3 - Enemies_100
+    21300202: NES - Super Mario Bros 3 - Enemies_101
+    21300204: NES - Super Mario Bros 3 - Enemies_102
+    21300206: NES - Super Mario Bros 3 - Enemies_103
+    21300208: NES - Super Mario Bros 3 - Enemies_104
+    21300210: NES - Super Mario Bros 3 - Enemies_105
+    21300212: NES - Super Mario Bros 3 - Enemies_106
+    21300214: NES - Super Mario Bros 3 - Enemies_107
+    21300216: NES - Super Mario Bros 3 - Enemies_108
+    21300218: NES - Super Mario Bros 3 - Enemies_109
+    21300220: NES - Super Mario Bros 3 - Enemies_110
+    21300222: NES - Super Mario Bros 3 - Enemies_111
+    21300224: NES - Super Mario Bros 3 - Enemies_112
+    21300226: NES - Super Mario Bros 3 - Enemies_113
+    21300228: NES - Super Mario Bros 3 - Enemies_114
+    21300230: NES - Super Mario Bros 3 - Enemies_115
+    21300232: NES - Super Mario Bros 3 - Enemies_116
+    21300234: NES - Super Mario Bros 3 - Enemies_117
+    21300236: NES - Super Mario Bros 3 - Enemies_118
+    21300238: NES - Super Mario Bros 3 - Enemies_119
+    21300240: NES - Super Mario Bros 3 - Enemies_120
+    21300242: NES - Super Mario Bros 3 - Enemies_121
+    21300244: NES - Super Mario Bros 3 - Enemies_122
+    21300246: NES - Super Mario Bros 3 - Enemies_123
+    21300248: NES - Super Mario Bros 3 - Enemies_124
+    21300250: NES - Super Mario Bros 3 - Enemies_125
+    21300252: NES - Super Mario Bros 3 - Enemies_126
+    21300254: NES - Super Mario Bros 3 - Enemies_127
+    21300256: NES - Super Mario Bros 3 - Enemies_128
+    21300258: NES - Super Mario Bros 3 - Enemies_129
+    21300260: NES - Super Mario Bros 3 - Enemies_130
+    21300262: NES - Super Mario Bros 3 - Enemies_131
+    21300264: NES - Super Mario Bros 3 - Enemies_132
+    21300266: NES - Super Mario Bros 3 - Enemies_133
+    21300268: NES - Super Mario Bros 3 - Enemies_134
+    21300270: NES - Super Mario Bros 3 - Enemies_135
+    21300272: NES - Super Mario Bros 3 - Enemies_136
+    21300274: NES - Super Mario Bros 3 - Enemies_137
+    21300276: NES - Super Mario Bros 3 - Enemies_138
+    21300278: NES - Super Mario Bros 3 - Enemies_139
+    21300280: NES - Super Mario Bros 3 - Enemies_140
+    21300282: NES - Super Mario Bros 3 - Enemies_141
+    21300284: NES - Super Mario Bros 3 - Enemies_142
+    21300286: NES - Super Mario Bros 3 - Enemies_143
+    21300288: NES - Super Mario Bros 3 - Enemies_144
+    21300290: NES - Super Mario Bros 3 - Enemies_145
+    21300292: NES - Super Mario Bros 3 - Enemies_146
+    21300294: NES - Super Mario Bros 3 - Enemies_147
+    21300296: NES - Super Mario Bros 3 - Enemies_148
+    21300298: NES - Super Mario Bros 3 - Enemies_149
+    21300300: NES - Super Mario Bros 3 - Enemies_150
+    21300302: NES - Super Mario Bros 3 - Enemies_151
+    21300304: NES - Super Mario Bros 3 - Enemies_152
+    21300306: NES - Super Mario Bros 3 - Enemies_153
+    21300308: NES - Super Mario Bros 3 - Enemies_154
+    21300310: NES - Super Mario Bros 3 - Enemies_155
+    21300312: NES - Super Mario Bros 3 - Enemies_156
+    21300314: NES - Super Mario Bros 3 - Enemies_157
+    21300316: NES - Super Mario Bros 3 - Enemies_158
+    21300318: NES - Super Mario Bros 3 - Enemies_159
+    21300320: NES - Super Mario Bros 3 - Enemies_160
+    21300322: NES - Super Mario Bros 3 - Enemies_161
+    21300324: NES - Super Mario Bros 3 - Enemies_162
+    21300326: NES - Super Mario Bros 3 - Enemies_163
+    21300328: NES - Super Mario Bros 3 - Enemies_164
+    21300330: NES - Super Mario Bros 3 - Enemies_165
+    21300332: NES - Super Mario Bros 3 - Enemies_166
+    21300334: NES - Super Mario Bros 3 - Enemies_167
+    21300336: NES - Super Mario Bros 3 - Enemies_168
+    21300338: NES - Super Mario Bros 3 - Enemies_169
+    21300340: NES - Super Mario Bros 3 - Enemies_170
+    21300342: NES - Super Mario Bros 3 - Enemies_171
+    21300344: NES - Super Mario Bros 3 - Enemies_172
+    21300346: NES - Super Mario Bros 3 - Enemies_173
+    21300348: NES - Super Mario Bros 3 - Enemies_174
+    21300350: NES - Super Mario Bros 3 - Enemies_175
+    21300352: NES - Super Mario Bros 3 - Enemies_176
+    21300354: NES - Super Mario Bros 3 - Enemies_177
+    21300356: NES - Super Mario Bros 3 - Enemies_178
+    21300358: NES - Super Mario Bros 3 - Enemies_179
+    21300360: NES - Super Mario Bros 3 - Enemies_180
+    21300362: NES - Super Mario Bros 3 - Enemies_181
+    21300364: NES - Super Mario Bros 3 - Enemies_182
+    21300366: NES - Super Mario Bros 3 - Enemies_183
+    21300368: NES - Super Mario Bros 3 - Enemies_184
+    21300370: NES - Super Mario Bros 3 - Enemies_185
+    21300372: NES - Super Mario Bros 3 - Enemies_186
+    21300374: NES - Super Mario Bros 3 - Enemies_187
+    21300376: NES - Super Mario Bros 3 - Enemies_188
+    21300378: NES - Super Mario Bros 3 - Enemies_189
+    21300380: NES - Super Mario Bros 3 - Enemies_190
+    21300382: NES - Super Mario Bros 3 - Enemies_191
+    21300384: NES - Super Mario Bros 3 - Enemies_192
+    21300386: NES - Super Mario Bros 3 - Enemies_193
+    21300388: NES - Super Mario Bros 3 - Enemies_194
+    21300390: NES - Super Mario Bros 3 - Enemies_195
+    21300392: NES - Super Mario Bros 3 - Enemies_196
+    21300394: NES - Super Mario Bros 3 - Enemies_197
+    21300396: NES - Super Mario Bros 3 - Enemies_198
+    21300398: NES - Super Mario Bros 3 - Enemies_199
+    21300400: NES - Super Mario Bros 3 - Enemies_200
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Goomba_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 870
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goomba_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 870
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goomba_death
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 870
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 870
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 870
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 870
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 870
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 870
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 870
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 870
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 870
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 870
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 870
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 870
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 869
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 869
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 869
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 842
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 842
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 842
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 842
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 842
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 842
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 782
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 782
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 837
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 815
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 815
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 781
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 782
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 782
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 782
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 781
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 781
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 781
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 781
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 744
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 744
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 745
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 745
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 744
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 744
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 744
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 744
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 744
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 744
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 744
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 744
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 698
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 698
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 698
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 698
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 698
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 698
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 698
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 698
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 698
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 698
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 675
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 676
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 675
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 677
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 676
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 676
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 678
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 678
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 678
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 678
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 679
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 647
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 652
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 649
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 615
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 615
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 615
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 616
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 578
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 593
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 596
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 595
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 578
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 578
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 578
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 578
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 578
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 578
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 578
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 517
+        width: 16
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 517
+        width: 16
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 557
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 557
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 557
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 556
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 557
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 517
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 517
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 517
+        width: 16
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 536
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 517
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 517
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 519
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 518
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 517
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 495
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 495
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 495
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 495
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 495
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 458
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 402
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 442
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 442
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 405
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 402
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 425
+        width: 86
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 425
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 425
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 413
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 413
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 411
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 377
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 373
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 378
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 373
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 370
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 367
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 364
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 370
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 367
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 364
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 348
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 348
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 323
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 323
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 323
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 323
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 309
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 309
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 310
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 309
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 286
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 286
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 286
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 286
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 246
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 245
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 274
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 246
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 274
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_154
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 215
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_155
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 215
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_156
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 208
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_157
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 208
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_158
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 208
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_159
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 208
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_160
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 174
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_161
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 174
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_162
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 174
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_163
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 185
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_164
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 185
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_165
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 185
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_166
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_167
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_168
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_169
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_170
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_171
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_172
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 131
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_173
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_174
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_175
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_176
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_177
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 109
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_178
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 109
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_179
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 109
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_180
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 109
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_181
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 109
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_182
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 109
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_183
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 87
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_184
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 87
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_185
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_186
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 65
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_187
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_188
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_189
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_190
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_191
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_192
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_193
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_194
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_195
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 44
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_196
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 26
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_197
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 26
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_198
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_199
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Enemies_200
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

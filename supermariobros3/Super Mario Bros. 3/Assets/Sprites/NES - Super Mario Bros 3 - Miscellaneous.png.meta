@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: ad783b51bee093f46b2644e91de4c7d9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES - Super Mario Bros 3 - Miscellaneous_0
+    21300002: NES - Super Mario Bros 3 - Miscellaneous_1
+    21300004: NES - Super Mario Bros 3 - Miscellaneous_2
+    21300006: NES - Super Mario Bros 3 - Miscellaneous_3
+    21300008: NES - Super Mario Bros 3 - Miscellaneous_4
+    21300010: NES - Super Mario Bros 3 - Miscellaneous_5
+    21300012: NES - Super Mario Bros 3 - Miscellaneous_6
+    21300014: NES - Super Mario Bros 3 - Miscellaneous_7
+    21300016: NES - Super Mario Bros 3 - Miscellaneous_8
+    21300018: NES - Super Mario Bros 3 - Miscellaneous_9
+    21300020: NES - Super Mario Bros 3 - Miscellaneous_10
+    21300022: NES - Super Mario Bros 3 - Miscellaneous_11
+    21300024: NES - Super Mario Bros 3 - Miscellaneous_12
+    21300026: NES - Super Mario Bros 3 - Miscellaneous_13
+    21300028: NES - Super Mario Bros 3 - Miscellaneous_14
+    21300030: NES - Super Mario Bros 3 - Miscellaneous_15
+    21300032: NES - Super Mario Bros 3 - Miscellaneous_16
+    21300034: NES - Super Mario Bros 3 - Miscellaneous_17
+    21300036: NES - Super Mario Bros 3 - Miscellaneous_18
+    21300038: NES - Super Mario Bros 3 - Miscellaneous_19
+    21300040: NES - Super Mario Bros 3 - Miscellaneous_20
+    21300042: NES - Super Mario Bros 3 - Miscellaneous_21
+    21300044: NES - Super Mario Bros 3 - Miscellaneous_22
+    21300046: NES - Super Mario Bros 3 - Miscellaneous_23
+    21300048: NES - Super Mario Bros 3 - Miscellaneous_24
+    21300050: NES - Super Mario Bros 3 - Miscellaneous_25
+    21300052: NES - Super Mario Bros 3 - Miscellaneous_26
+    21300054: NES - Super Mario Bros 3 - Miscellaneous_27
+    21300056: NES - Super Mario Bros 3 - Miscellaneous_28
+    21300058: NES - Super Mario Bros 3 - Miscellaneous_29
+    21300060: NES - Super Mario Bros 3 - Miscellaneous_30
+    21300062: NES - Super Mario Bros 3 - Miscellaneous_31
+    21300064: NES - Super Mario Bros 3 - Miscellaneous_32
+    21300066: NES - Super Mario Bros 3 - Miscellaneous_33
+    21300068: NES - Super Mario Bros 3 - Miscellaneous_34
+    21300070: NES - Super Mario Bros 3 - Miscellaneous_35
+    21300072: NES - Super Mario Bros 3 - Miscellaneous_36
+    21300074: NES - Super Mario Bros 3 - Miscellaneous_37
+    21300076: NES - Super Mario Bros 3 - Miscellaneous_38
+    21300078: NES - Super Mario Bros 3 - Miscellaneous_39
+    21300080: Mushroom
+    21300082: Tanooki
+    21300084: NES - Super Mario Bros 3 - Miscellaneous_42
+    21300086: NES - Super Mario Bros 3 - Miscellaneous_43
+    21300088: NES - Super Mario Bros 3 - Miscellaneous_44
+    21300090: NES - Super Mario Bros 3 - Miscellaneous_45
+    21300092: NES - Super Mario Bros 3 - Miscellaneous_46
+    21300094: NES - Super Mario Bros 3 - Miscellaneous_47
+    21300096: NES - Super Mario Bros 3 - Miscellaneous_48
+    21300098: NES - Super Mario Bros 3 - Miscellaneous_49
+    21300100: NES - Super Mario Bros 3 - Miscellaneous_50
+    21300102: NES - Super Mario Bros 3 - Miscellaneous_51
+    21300104: NES - Super Mario Bros 3 - Miscellaneous_52
+    21300106: NES - Super Mario Bros 3 - Miscellaneous_53
+    21300108: NES - Super Mario Bros 3 - Miscellaneous_54
+    21300110: NES - Super Mario Bros 3 - Miscellaneous_55
+    21300112: NES - Super Mario Bros 3 - Miscellaneous_56
+    21300114: NES - Super Mario Bros 3 - Miscellaneous_57
+    21300116: NES - Super Mario Bros 3 - Miscellaneous_58
+    21300118: NES - Super Mario Bros 3 - Miscellaneous_59
+    21300120: NES - Super Mario Bros 3 - Miscellaneous_60
+    21300122: NES - Super Mario Bros 3 - Miscellaneous_61
+    21300124: NES - Super Mario Bros 3 - Miscellaneous_62
+    21300126: NES - Super Mario Bros 3 - Miscellaneous_63
+    21300128: NES - Super Mario Bros 3 - Miscellaneous_64
+    21300130: NES - Super Mario Bros 3 - Miscellaneous_65
+    21300132: NES - Super Mario Bros 3 - Miscellaneous_66
+    21300134: NES - Super Mario Bros 3 - Miscellaneous_67
+    21300136: NES - Super Mario Bros 3 - Miscellaneous_68
+    21300138: NES - Super Mario Bros 3 - Miscellaneous_69
+    21300140: NES - Super Mario Bros 3 - Miscellaneous_70
+    21300142: NES - Super Mario Bros 3 - Miscellaneous_71
+    21300144: NES - Super Mario Bros 3 - Miscellaneous_72
+    21300146: NES - Super Mario Bros 3 - Miscellaneous_73
+    21300148: Block_item_1
+    21300150: Block_item_2
+    21300152: Block_item_3
+    21300154: Block_item_4
+    21300156: Block_empty
+    21300158: NES - Super Mario Bros 3 - Miscellaneous_79
+    21300160: NES - Super Mario Bros 3 - Miscellaneous_80
+    21300162: NES - Super Mario Bros 3 - Miscellaneous_81
+    21300164: NES - Super Mario Bros 3 - Miscellaneous_82
+    21300166: NES - Super Mario Bros 3 - Miscellaneous_83
+    21300168: NES - Super Mario Bros 3 - Miscellaneous_84
+    21300170: NES - Super Mario Bros 3 - Miscellaneous_85
+    21300172: NES - Super Mario Bros 3 - Miscellaneous_86
+    21300174: NES - Super Mario Bros 3 - Miscellaneous_87
+    21300176: NES - Super Mario Bros 3 - Miscellaneous_88
+    21300178: NES - Super Mario Bros 3 - Miscellaneous_89
+    21300180: NES - Super Mario Bros 3 - Miscellaneous_90
+    21300182: NES - Super Mario Bros 3 - Miscellaneous_91
+    21300184: NES - Super Mario Bros 3 - Miscellaneous_92
+    21300186: NES - Super Mario Bros 3 - Miscellaneous_93
+    21300188: NES - Super Mario Bros 3 - Miscellaneous_94
+    21300190: NES - Super Mario Bros 3 - Miscellaneous_95
+    21300192: NES - Super Mario Bros 3 - Miscellaneous_96
+    21300194: NES - Super Mario Bros 3 - Miscellaneous_97
+    21300196: NES - Super Mario Bros 3 - Miscellaneous_98
+    21300198: NES - Super Mario Bros 3 - Miscellaneous_99
+    21300200: NES - Super Mario Bros 3 - Miscellaneous_100
+    21300202: NES - Super Mario Bros 3 - Miscellaneous_101
+    21300204: NES - Super Mario Bros 3 - Miscellaneous_102
+    21300206: NES - Super Mario Bros 3 - Miscellaneous_103
+    21300208: NES - Super Mario Bros 3 - Miscellaneous_104
+    21300210: NES - Super Mario Bros 3 - Miscellaneous_105
+    21300212: NES - Super Mario Bros 3 - Miscellaneous_106
+    21300214: NES - Super Mario Bros 3 - Miscellaneous_107
+    21300216: NES - Super Mario Bros 3 - Miscellaneous_108
+    21300218: NES - Super Mario Bros 3 - Miscellaneous_109
+    21300220: NES - Super Mario Bros 3 - Miscellaneous_110
+    21300222: NES - Super Mario Bros 3 - Miscellaneous_111
+    21300224: NES - Super Mario Bros 3 - Miscellaneous_112
+    21300226: NES - Super Mario Bros 3 - Miscellaneous_113
+    21300228: NES - Super Mario Bros 3 - Miscellaneous_114
+    21300230: NES - Super Mario Bros 3 - Miscellaneous_115
+    21300232: NES - Super Mario Bros 3 - Miscellaneous_116
+    21300234: NES - Super Mario Bros 3 - Miscellaneous_117
+    21300236: NES - Super Mario Bros 3 - Miscellaneous_118
+    21300238: NES - Super Mario Bros 3 - Miscellaneous_119
+    21300240: NES - Super Mario Bros 3 - Miscellaneous_120
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NES - Super Mario Bros 3 - Miscellaneous_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 357
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 357
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 388
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 392
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 388
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 388
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 357
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 357
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 355
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 355
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 358
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 357
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 300
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 300
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 301
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 301
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 318
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_17
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 318
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 318
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 318
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_21
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 318
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_22
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 318
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_23
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 318
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 296
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 296
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_28
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_29
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_30
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 297
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_31
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 275
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_32
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 297
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_33
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 296
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_34
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 296
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_35
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 296
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 251
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_37
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 251
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 249
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 249
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mushroom
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tanooki
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 275
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_42
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_43
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_44
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_45
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 275
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_46
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_47
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 275
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_48
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_49
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_50
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 252
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_52
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_53
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_54
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_56
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_57
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 252
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_58
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_59
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 197
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_60
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 197
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_61
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_62
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_63
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_64
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_65
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_66
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_67
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_68
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_69
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_70
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 229
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_72
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 197
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_73
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 197
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block_item_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block_item_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block_item_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block_item_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block_empty
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_79
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_80
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_81
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_82
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_83
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_84
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_85
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_86
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_87
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_88
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 140
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_89
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 140
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_90
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_91
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_92
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_93
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_94
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_95
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 171
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_96
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_97
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 140
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_98
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 140
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_99
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 130
+        width: 83
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_100
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 133
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_101
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 133
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_102
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 133
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_103
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 98
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_104
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_105
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 118
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_106
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 62
+        width: 188
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_107
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_108
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_109
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 62
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_110
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 62
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_111
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_112
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_113
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_114
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_115
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_116
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_117
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_118
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_119
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 5
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros 3 - Miscellaneous_120
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 5
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
