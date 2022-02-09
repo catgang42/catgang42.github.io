@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>One Night at Greddy's</title>
+    <link href="https://fonts.googleapis.com/css?family=Press+Start+2P&subset=latin,greek" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="stylesheets/main.css">
+</head>
+<body>
+    <div class="container" id="start-screen">
+        <div class="static"></div>
+        <div class="start">
+            <audio preload="auto" id="menu-start" src="resources/audio/darkness%20music.wav" loop="loop"></audio>
+            <aside class="menu">
+                <h1>One<br> Night <br>at<br> Greddy's</h1>
+                <a href="main.html" id="start-game" onclick="javascript:night=1;">Start Game</a>
+                <a href="main.html" id="continue-game" class="display-0">Continue <p>Night <span id="night-no">2</span></p></a>
+            </aside>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="js/jquery-2.2.4.js"></script>
+    <script type="text/javascript" src="js/scratch-js.js"></script>
+    <script>
+        $(document).ready(function() {
+            console.log("Sound is playing?");
+            $("#menu-start").get(0).play();
+
+            // show continue?
+            var getNight = localStorage.getItem('night');
+            var getTimesPlayed = localStorage.getItem('timesPlayed');
+
+            if (parseInt(getTimesPlayed) > 0) {
+                $('#night-no').html(getNight);
+                $('#continue-game').removeClass('display-0');
+            }
+        });
+    </script>
+</body>
+</html>

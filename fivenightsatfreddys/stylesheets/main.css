@@ -1,0 +1,567 @@
+@import url(https://fonts.googleapis.com/css?family=Press+Start+2P&subset=latin,greek);
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    font-family: 'Press Start 2P', cursive;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+}
+
+.preloader img {
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    top: 0;
+    left: 0;
+    z-index: 999999;
+}
+
+aside {
+    position: relative;
+    width: 50%;
+    height: 100%;
+    opacity: 1;
+}
+
+aside h1 {
+    /*margin-top: 100px;*/
+    font-size: 48px;
+    line-height: 1.6;
+}
+
+aside p {
+    /* font-weight: 700; */
+    position: absolute;
+    top: 141%;
+    left: 2%;
+    font-size: 20px;
+    height: 100px;
+    width: 300px;
+    color: #fff;
+}
+
+aside a:link, a:visited {
+    color: inherit;
+}
+
+.transition img {
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top:0;
+    left:0;
+    z-index: 9999;
+}
+
+.transition h2 {
+    position: absolute;
+    color: #fff;
+    z-index: 9999;
+}
+
+#transition-night {
+    top: 46%;
+    left:46%;
+}
+
+#transition-start {
+    top: 50%;
+    left: 45%;
+}
+
+.animate-in {
+    -webkit-animation: fadeIn 1.9s ease-in;
+    animation: fadeIn 1.9s ease-in;
+}
+
+.animate-out {
+    -webkit-transition: opacity 1.9s;
+    transition: opacity 1.9s;
+    opacity: 0;
+}
+
+@-webkit-keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.container {
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+}
+
+.container:not(#start-screen) {
+    opacity: 0;
+}
+
+.camera-menu .static {
+    opacity: 0.3;
+}
+
+.static {
+    background-image: url(../resources/img/game/static.gif);
+    opacity: 0.4;
+    z-index: 4;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+#start-screen .static {
+    z-index: 0;
+}
+
+.mute-call {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    display: none;
+    margin: 40px;
+}
+
+#start-screen {
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background-image:url(../resources/img/game/main.gif);
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+h1 {
+    font-weight: 700;
+    position: absolute;
+    top: 15%;
+    left: 23%;
+    font-size: 72px;
+    height: 400px;
+    width: 500px;
+    color: #fff;
+}
+
+.start {
+    position: relative;
+    height: 100%;
+    z-index: 3;
+}
+
+#start-game {
+    top: 70%;
+    left: 23%;
+}
+
+#continue-game {
+    top: 79%;
+    left: 23%;
+}
+
+#start-game, #continue-game {
+    font-weight: 100;
+    position: absolute;
+    font-size: 30px;
+    color: #fff;
+    text-decoration: none;
+}
+
+#start-game:hover:before, #continue-game:hover:before {
+    content: "> "
+}
+
+#spinning-fan {
+    position: absolute;
+    top: 42.2%;
+    left: 48.5%;
+    width: 9%;
+    height: 27.1%;
+}
+
+/*---------------------*/
+/*---- Main-screen ----*/
+/*---------------------*/
+
+.control {
+    position: absolute;
+    width: 97%;
+    bottom: 3%;
+    left: 3%;
+    z-index: 99;
+}
+
+#toggle-camera {
+    height: auto;
+    width: 600px;
+    float: left;
+    display: inline-block;
+    margin: 19px 0px 0px 10%;
+}
+
+.control-usage {
+    width: 300px;
+    display: inline-block;
+    float: left;
+}
+
+.power {
+    width: 100%;
+    color: #fff;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.usage {
+    width: 100%;
+    height: 32px;
+    color: #fff;
+    display: block;
+}
+
+.left-switch {
+    position: absolute;
+    top: 50%;
+    left:0%;
+    height: 247px;
+    width: 92px;
+    z-index: 3;
+}
+
+.left-door {
+    top: 0%;
+    left: 5%;
+    position: absolute;
+    height: 100%;
+}
+
+.left-door img {
+    width: 100%;
+    height: 100%;
+}
+
+.left-door-opened {
+    top: 0%;
+    position: absolute;
+}
+
+.left-door-closed {
+    top: 0%;
+    position: absolute;
+}
+
+.right-switch {
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    height: 247px;
+    width: 92px;
+    z-index: 3;
+}
+
+.right-door {
+    top: 0%;
+    right: 5%;
+    position: absolute;
+    height: 100%;
+}
+
+.right-door img {
+    width: 100%;
+    height: 100%;
+}
+
+.right-door-opened {
+    top: 0%;
+    right:0;
+    position: absolute;
+}
+
+.right-door-closed {
+    top: 0%;
+    right: 0;
+    position: absolute;
+}
+
+.top-menu {
+    height: auto;
+    margin: 0 45px;
+    position: absolute;
+    top: 3%;
+    right: 0%;
+    z-index: 999;
+}
+
+.show-hour {
+	color: #fff;
+}
+
+.show-night {
+	color: #fff;
+    margin-top: 10px;
+}
+
+
+
+
+/*---------------------*/
+/*------ Camera -------*/
+/*---------------------*/
+
+.camera-menu, #camera-bg1 > img, #camera-bg2 > img, #camera-bg3 > img {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 3;
+}
+
+#cameras {
+    position: absolute;
+	height: 60vh;
+    width: 30vw;
+    top: 30%;
+    right: 4%;
+    z-index: 5;
+}
+
+.camera-menu {
+    display: none;
+}
+
+.camera-menu a {
+    z-index: 999;
+}
+
+.camera-menu ul li.active a {
+    background-color: #555;
+    animation-name: active;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+
+#camera-record > img {
+    position: absolute;
+    top: 4%;
+    left: 3%;
+    z-index: 6;
+    animation: blink-animation 1s steps(2, start) infinite;
+    -webkit-animation: blink-animation 1s steps(2, start) infinite;
+}
+
+@keyframes active {
+    from {background-color: #555;}
+    to {background-color: #478733;}
+}
+@-webkit-keyframes active {
+    from {background-color: #555;}
+    to {background-color: #478733;}
+}
+
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+
+#camera-id {
+    position: absolute;
+    top: 30%;
+    right: 15%;
+    z-index: 1000;
+    color: #fff;
+}
+
+#cam1a {
+    text-align: center;
+    background-color: #555;
+    color: #fff;
+    font-weight: 700;
+    margin: auto;
+    position: absolute;
+    top: 34%;
+    right: 23%;
+	height: 35px;
+    width: 60px;
+    border: 4px solid #fff;
+    text-decoration: none;
+}
+
+#cam1b {
+    text-align: center;
+    background-color: #555;
+    color: #fff;
+    font-weight: 700;
+    margin: auto;
+    position: absolute;
+    top: 42%;
+    right: 23%;
+	height: 35px;
+    width: 60px;
+    border: 4px solid #fff;
+    text-decoration: none;
+}
+
+#cam5 {
+    text-align: center;
+    background-color: #555;
+    color: #fff;
+    font-weight: 700;
+    margin: auto;
+    position: absolute;
+    top: 47%;
+    right: 31%;
+	height: 35px;
+    width: 60px;
+    border: 4px solid #fff;
+    text-decoration: none;
+}
+
+#cam1c {
+    text-align: center;
+    background-color: #555;
+    color: #fff;
+    font-weight: 700;
+    margin: auto;
+    position: absolute;
+    top: 53%;
+    right: 26%;
+	height: 35px;
+    width: 60px;
+    border: 4px solid #fff;
+    text-decoration: none;
+}
+
+#cam3 {
+    text-align: center;
+    background-color: #555;
+    color: #fff;
+    font-weight: 700;
+    margin: auto;
+    position: absolute;
+    top: 68%;
+    right: 28%;
+	height: 35px;
+    width: 60px;
+    border: 4px solid #fff;
+    text-decoration: none;
+}
+
+#cam2a {
+    text-align: center;
+    background-color: #555;
+    color: #fff;
+    font-weight: 700;
+    margin: auto;
+    position: absolute;
+    top: 73%;
+    right: 23%;
+	height: 35px;
+    width: 60px;
+    border: 4px solid #fff;
+    text-decoration: none;
+}
+
+#cam2b {
+    text-align: center;
+    background-color: #555;
+    color: #fff;
+    font-weight: 700;
+    margin: auto;
+    position: absolute;
+    top: 80%;
+    right: 23%;
+	height: 35px;
+    width: 60px;
+    border: 4px solid #fff;
+    text-decoration: none;
+}
+
+#cam4b {
+    text-align: center;
+    background-color: #555;
+    color: #fff;
+    font-weight: 700;
+    margin: auto;
+    position: absolute;
+    top: 80%;
+    right: 14%;
+	height: 35px;
+    width: 60px;
+    border: 4px solid #fff;
+    text-decoration: none;
+}
+
+#cam4a {
+    text-align: center;
+    background-color: #555;
+    color: #fff;
+    font-weight: 700;
+    margin: auto;
+    position: absolute;
+    top: 73%;
+    right: 14%;
+	height: 35px;
+    width: 60px;
+    border: 4px solid #fff;
+    text-decoration: none;
+}
+
+#cam6 {
+    text-align: center;
+    background-color: #555;
+    color: #fff;
+    font-weight: 700;
+    margin: auto;
+    position: absolute;
+    top: 66%;
+    right: 5%;
+	height: 35px;
+    width: 60px;
+    border: 4px solid #fff;
+    text-decoration: none;
+}
+
+#cam7 {
+    text-align: center;
+    background-color: #555;
+    color: #fff;
+    font-weight: 700;
+    margin: auto;
+    position: absolute;
+    top: 46%;
+    right: 6%;
+	height: 35px;
+    width: 60px;
+    border: 4px solid #fff;
+    text-decoration: none;
+}
+
+.display-0 {
+    display: none;
+}
+
+.display-1 {
+    display: block;
+}
