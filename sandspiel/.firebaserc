@@ -1,7 +1,0 @@
-{
-  "projects": {
-    "default": "sandtable-8d0f7",
-    "staging": "sandspiel-staging"
-  },
-  "targets": {}
-}
