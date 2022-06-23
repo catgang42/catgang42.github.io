@@ -1,0 +1,735 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <link rel="shortcut icon" href="favicon-512x512.png" type="image/x-icon">
+  <title>Catgang42
+  </title>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+  <link rel="stylesheet" href="styles/style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+</head>
+
+<body>
+  <header class="header py-2">
+    <nav class="navbar navbar-expand-lg navbar container">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="./index.htm">Catgang42</a>
+	<a href="./index.htm"><img src="./favicon-512x512.png" height="70px" width="70px"/></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+          aria-controls="navbarNav">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto mt-3 mt-md-0">
+		  
+            <li class="nav-item">
+              <a class="nav-link text-black" href="#Html5">Html5 Games</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link text-black ms-lg-3" href="#Ruffle">Ruffle</a>
+            </li>
+			<li class="nav-item">
+              <a class="nav-link text-black ms-lg-3" href="https://catgang42.github.io/indexnonegui.html">Text version</a>
+            </li>
+
+            <li class="nav-item ">
+              <a class="nav-link text-black ms-lg-3" href="https://catgang42.github.io/sitefiles/terminalfiles/index.html"
+                target="_blank">CatGang42 Terminal</a>
+            </li>
+
+            <li class="nav-item ">
+              <a class="nav-link text-black ms-lg-3" href="https://catgang42.github.io/peppasearch/index.html"
+                target="_blank">PeppaSearch</a>
+            </li>		  
+
+            <li class="nav-item ">
+              <a class="nav-link text-black ms-lg-3" href="https://discord.gg/BH5A4KFZNP"
+                target="_blank">Discord</a>
+            </li>		  
+
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+  
+		<!-- === WARNING SECTION -->
+  <section class="Warnings py-4">
+    <div class="container" id="Warnings">
+      <div class="row">
+	  
+		<!-- === WARNINGS MESSAGES SECTION === -->
+			    <div class="alert col-md-4 my-1">
+			<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+		<iframe src="https://tylerlh.github.io/github-latest-commits-widget/?username=catgang42&repo=catgang42.github.io&limit=2"
+  allowtransparency="true" frameborder="0" scrolling="no" width="452px" height="252px"></iframe>
+  </div>
+  
+		<div class="alert col-md-4 my-1">
+			<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+			<a href="https://github.com/catgang42/catgang42.github.io/issues"> Report issues or suggest new games here!</a>
+		</div>
+		<!-- No longer applicable. Here for later re-use.
+		<div class="alert2 col-md-5 my-1">
+			<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+			
+		</div>
+		-->
+		
+<!-- === Html5 SECTION -->
+  <section class="Html5 py-4">
+    <div class="container" id="Html5">
+		<div class="title my-3" data-aos="fade-in" data-aos-delay="200">HTML5</div>	
+      <div class="row">
+
+        <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="400">
+          <div class="card text-center">
+            <img class="card-img-top" src="./minecraft/minecraftclassiclogo.png" alt="Minecraft Classic">
+            <div class="card-body">
+              <h5 class="card-title">Minecraft Classic</h5>
+              <p class="card-text">Minecraft Classic on your browser!</p>
+              <div class="row justify-content-around">
+                <a href="minecraft/index.html"
+		   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#minecraftclassic" class="col-md-5 btn btn-success">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+	
+	<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="400">
+          <div class="card text-center">
+            <img class="card-img-top" src="./cookieclicker/img/perfectCookie.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Cookie Clicker</h5>
+              <p class="card-text">A game where you make cookies.</p>
+              <div class="row justify-content-around">
+                <a href="cookieclicker/index.html"
+		   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#cookieclicker" class="col-md-5 btn btn-success">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+	      
+	      
+        <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="600">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="Tetris">
+            <div class="card-body">
+              <h5 class="card-title">Tetris</h5>
+              <p class="card-text">
+                This is a small html5 tetris game , written by pure javascript and html5 canvas,modular by browserify.</p>
+              <div class="row justify-content-around">
+                <a href="htmlfiles/tetris/index.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#tetris" class="col-md-5 btn btn-success">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+	
+	<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="600">
+          <div class="card text-center">
+            <img class="card-img-top" src="./sitefiles/thumbnails/baldibasics.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Baldi Basics</h5>
+              <p class="card-text">Baldi's Basics in Education and Learning is a 2018 American independent parody horror video game developed by Micah McGonigal, known by the pseudonym mystman12.</p>
+              <div class="row justify-content-around">
+                <a href="baldibasics/index.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#BaldiBasics" class="col-md-5 btn btn-success">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">WebGL Fluid Simulation</h5>
+              <p class="card-text">empty description.</p>
+              <div class="row justify-content-around">
+                <a href="webglfluidsimulation/index.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#WebGLFluidSimulation" class="col-md-5 btn btn-success disabled">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+	      
+	<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">WIBLR ((Not selfhosted)</h5>
+              <p class="card-text">WIBLR is a PixiJS experiment that animates stacked circular image segments in fun and interesting ways.</p>
+              <div class="row justify-content-around">
+                <a href="htmlfiles/WIBLR/index.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#WIBLR" class="col-md-5 btn btn-success disabled">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+  <!-- End of HTML5 Section -->
+  </section>
+  <section class="Ruffle py-4">
+    <div class="container" id="Ruffle">
+<div class="title my-3" data-aos="fade-in" data-aos-delay="200">RUFFLE</div>
+	<div class="row">
+		<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./sitefiles/thumbnails/220px-Warfare_1917_logo.png" alt="Warfare 1917">
+            <div class="card-body">
+              <h5 class="card-title">Warfare 1917</h5>
+              <p class="card-text">Warfare 1917 is a game where you are suppose to command your troops and win the battles in the trenches of World War 1.</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/warfare1917.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#warfare1917" class="col-md-5 btn btn-success">Full Descripton</a>
+              </div>
+            </div>
+          </div>
+        </div>
+	  
+	<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Stick War</h5>
+              <p class="card-text">The Stick War series is a set of games based around Inamorta, a continent where various nations have their own way of waging war and are devoted to dominate.</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/stickwar.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#stickwar" class="col-md-5 btn btn-success">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+	  
+	<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./sitefiles/thumbnails/supermario63.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Super Mario 63</h5>
+              <p class="card-text">Super Mario 63 is a fan-game inspired by Nintendo's Super Mario 64.</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/supermario63.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#supermario63" class="col-md-5 btn btn-success">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+	
+			<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Age of War</h5>
+              <p class="card-text">Age of War is an epic base defense strategy game where you fight a continuous war.</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/age-of-war.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#age-of-war" class="col-md-5 btn btn-success">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+			<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Portal: The Flash Version</h5>
+              <p class="card-text">Portal: The Flash Version is a sidescrolling 2D platforming game, which takes advantage of Portal's most well-known mechanic, namely the portal gun.</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/portalflash.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#portalflash" class="col-md-5 btn btn-success">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+			<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">World Wars</h5>
+              <p class="card-text">playable but no description fornow</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/worldwars.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#worldwars" class="col-md-5 btn btn-success disabled">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+			<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Zombie Survival</h5>
+              <p class="card-text">playable but no description fornow</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/zombiesurvival.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#zombiesurvival" class="col-md-5 btn btn-success disabled">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+			<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">World Defense</h5>
+              <p class="card-text">playable but no description</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/worlddefense.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#worlddefense" class="col-md-5 btn btn-success disabled">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+			<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Stick Defense</h5>
+              <p class="card-text">playable but no description fornow</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/stickdefense.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#stickdefense" class="col-md-5 btn btn-success disabled">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+			<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Stick Brawl</h5>
+              <p class="card-text">playable but no description fornow</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/stickbrawl.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#stickbrawl" class="col-md-5 btn btn-success disabled">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+			<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Ragdoll Avalanche 2</h5>
+              <p class="card-text">playable but no description fornow</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/ragdollavalanche2.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#ragdollavalanche2" class="col-md-5 btn btn-success disabled">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+			<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Autumn War</h5>
+              <p class="card-text">playable but no description fornow</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/autumnwar.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#autumnwar" class="col-md-5 btn btn-success disabled">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+			<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Stickman Madness 2</h5>
+              <p class="card-text">playable but no description fornow</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/stickmanmadness2.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#stickmanmadness2" class="col-md-5 btn btn-success disabled">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+			<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Stickman Madness 3</h5>
+              <p class="card-text">playable but no description fornow</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/stickmanmadness3.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#stickmanmadness3" class="col-md-5 btn btn-success disabled">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+			<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Ultimate Sonic</h5>
+              <p class="card-text">playable but no description fornow</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/ultimatesonic.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#ultimatesonic" class="col-md-5 btn btn-success disabled">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+			<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Escaping the Prison</h5>
+              <p class="card-text">playable but no description fornow</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/etp.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#etp" class="col-md-5 btn btn-success disabled">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+			<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Flee the Complex</h5>
+              <p class="card-text">playable but no description fornow</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/ftc.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#ftc" class="col-md-5 btn btn-success disabled">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+			<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Infiltrating the Airship</h5>
+              <p class="card-text">playable but no description fornow</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/ita.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#ita" class="col-md-5 btn btn-success disabled">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+			<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Stealing the Diamond</h5>
+              <p class="card-text">playable but no description fornow</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/std.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#std" class="col-md-5 btn btn-success disabled">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+			<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Breaking the Bank</h5>
+              <p class="card-text">playable but no description fornow</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/btb.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#btb" class="col-md-5 btn btn-success disabled">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+			<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Super Mario Flash</h5>
+              <p class="card-text">playable but no description fornow</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/supermarioflash.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#supermarioflash" class="col-md-5 btn btn-success disabled">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+			<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
+            <div class="card-body">
+              <h5 class="card-title">Pumkin</h5>
+              <p class="card-text">playable but no description fornow</p>
+              <div class="row justify-content-around">
+                <a href="ruffle/rufflefiles/pumkin.html"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
+                  Link</a>
+                <a data-bs-toggle="modal" data-bs-target="#pumkin" class="col-md-5 btn btn-success disabled">Full Description</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+    </div>
+    </div>
+  </section>
+
+<!-- ==== Full Description SECTION ==== -->
+  <section class="faq">
+    <!-- Modal -->
+    <div class="modal fade" id="minecraftclassic" tabindex="-1" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Minecraft Classic</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+		  <p>Experience Minecraft Classic on Catgang42. Link to the orginal site: https://classic.minecraft.net</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+<div class="modal fade" id="cookieclicker" tabindex="-1" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Cookie Clicker</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+		  <p>Cookie Clicker is a game where your just able to click a cookie to get cookies to then spend on stuff such as factories to mass produce them. Link to the orginal site: https://orteil.dashnet.org/cookieclicker</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade" id="tetris" tabindex="-1" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Tetris</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+			<p>This is a small html5 tetris game , written by pure javascript and html5 canvas,modular by browserify. Just a practice, if you are interested in writing html5 games,check the code and have fun!</</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+<div class="modal fade" id="BaldiBasics" tabindex="-1" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Baldi Basics</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+			<p>Baldi's Basics in Education and Learning is a 2018 American independent parody horror video game developed by Micah McGonigal, known by the pseudonym mystman12. The game parodies educational games of the 1990s through poor graphics and similar themes.</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade" id="warfare1917" tabindex="-1" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Warfare 1917</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+			<p>Warfare 1917 is a strategy Flash game set during World War I, developed by Australian programmer ConArtist and published by Armor Games. In Warfare 1917, the player orders soldiers to capture ground and trenches while fighting programmed enemies.</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+<div class="modal fade" id="stickwar" tabindex="-1" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Stick War</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+			<p>The Stick War series is a set of games based around Inamorta, a continent where various nations have their own way of waging war and are devoted to dominate. However, one nation (which you control) whose way was of peace and knowledge, went ahead to dominate Inamorta. this nation is known as the Order Empire.
+</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+<div class="modal fade" id="supermario63" tabindex="-1" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Super Mario 63</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+			<p>Super Mario 63 is a fan-game inspired by Nintendo's Super Mario 64. Many levels and features are based upon it and other of Nintendo's games, but a variety of them are completely original.</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+	  <div class="modal fade" id="age-of-war" tabindex="-1" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Age of War</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+			<p>Age of War is an epic base defense strategy game where you fight a continuous war. Keep creating units to protect your base and destroy the enemy. When you earn enough XP, your civilization will evolve through the ages, offering new technologies to utilize in combat.</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+	  	  <div class="modal fade" id="portalflash" tabindex="-1" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Portal: The Flash Version</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+			<p>Portal: The Flash Version is a sidescrolling 2D platforming game, which takes advantage of Portal's most well-known mechanic, namely the portal gun. Many other objects from Portal are also included in the 2D world, such as Energy Balls, Weighted Storage Cubes, and Sentry Turrets.</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </section>
+
+  <footer class="footer py-3">
+    <div class="container">
+      <span>All rights reserved - Catgang42 - 2021-<script>
+          document.write(new Date().getFullYear())
+        </script></span>
+    </div>
+  </footer>
+
+  <!-- Optional JavaScript -->
+  <!-- Bootstrap5 JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous">
+  </script>
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>
+    AOS.init({
+      once: true
+    });
+  </script>
+</body>
+
+</html>
