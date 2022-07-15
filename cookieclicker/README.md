@@ -8,7 +8,7 @@ Play this game from out site for unblocked purposes or whatever:
 
 ### How to update
 
-If the original game updates, here is how you can update the mirror: https://catgang42.github.io/cookieclicker/
+If the original game updates, here is how you can update the mirror:
 
 #### 1. Fetch all new images :
 
@@ -36,4 +36,4 @@ From the root directory :
 
 #### 4. Report update here :)
 
-If you happen to update, please make a pull request for others to benefit, thanks!
+If cookie clicker on catgang42 is out of date then please make an issue in the issues tab to let us know.

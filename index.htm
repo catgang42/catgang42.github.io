@@ -8,10 +8,6 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	
-  <!-- Google AdSense
-Why is this here? We don't even use AdSense. Oh well, I'm just gonna comment it out. -spudpiggy  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4374461359278564"
-     crossorigin="anonymous"></script> -->
 
   <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
@@ -25,8 +21,8 @@ Why is this here? We don't even use AdSense. Oh well, I'm just gonna comment it 
   <header class="header py-2">
     <nav class="navbar navbar-expand-lg navbar container">
       <div class="container-fluid">
-        <a class="navbar-brand" href="./index.htm">Catgang42<i class="bi bi-code-slash ms-2"></i></a>
-	      <img src="./favicon-512x512.png" height="70px" width="70px"></img>
+	<a href="./index.htm"><img src="./favicon-512x512.png" height="70px" width="70px"/></a>
+	<i class="bi bi-code-slash ms-2"></i><a class="navbar-brand" href="./index.htm">Catgang42</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
           aria-controls="navbarNav">
           <span class="navbar-toggler-icon"></span>
@@ -55,28 +51,32 @@ Why is this here? We don't even use AdSense. Oh well, I'm just gonna comment it 
                 target="_blank">PeppaSearch</a>
             </li>		  
 
+            <li class="nav-item ">
+              <a class="nav-link text-black ms-lg-3" href="https://discord.gg/BH5A4KFZNP"
+                target="_blank">Discord</a>
+            </li>		  
+
           </ul>
         </div>
       </div>
     </nav>
   </header>
   
-
-
-<!-- === Html5 SECTION -->
-  <section class="Html5 py-4">
-    <div class="container" id="Html5">
-		<div class="title my-3" data-aos="fade-in" data-aos-delay="200">HTML5</div>
-		
-		<!-- === WARNINGS SECTION === -->
+		<!-- === WARNING SECTION -->
+  <section class="Warnings py-4">
+    <div class="container" id="Warnings">
+      <div class="row">
+	  
+		<!-- === WARNINGS MESSAGES SECTION === -->
+			    <div class="alert col-md-4 my-1">
+			<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+		<iframe src="https://tylerlh.github.io/github-latest-commits-widget/?username=catgang42&repo=catgang42.github.io&limit=2"
+  allowtransparency="true" frameborder="0" scrolling="no" width="452px" height="252px"></iframe>
+  </div>
+  
 		<div class="alert col-md-4 my-1">
 			<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-			A game/feature/page/function on the site isnt working? Then use this link to report the bug/issue <a href="https://github.com/catgang42/catgang42.github.io/issues"> Click Here</a>
-		</div>
-		
-	    <div class="alert col-md-4 my-1">
-			<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-			Update Log: <a href="https://github.com/catgang42/catgang42.github.io/commit/main"> Click Here</a>
+			<a href="https://github.com/catgang42/catgang42.github.io/issues"> Report issues or suggest new games here!</a>
 		</div>
 		<!-- No longer applicable. Here for later re-use.
 		<div class="alert2 col-md-5 my-1">
@@ -85,6 +85,10 @@ Why is this here? We don't even use AdSense. Oh well, I'm just gonna comment it 
 		</div>
 		-->
 		
+<!-- === Html5 SECTION -->
+  <section class="Html5 py-4">
+    <div class="container" id="Html5">
+		<div class="title my-3" data-aos="fade-in" data-aos-delay="200">HTML5</div>	
       <div class="row">
 
         <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="400">
@@ -127,9 +131,9 @@ Why is this here? We don't even use AdSense. Oh well, I'm just gonna comment it 
             <div class="card-body">
               <h5 class="card-title">Tetris</h5>
               <p class="card-text">
-                Fanmade Tetris by unknown.</p>
+                This is a small html5 tetris game , written by pure javascript and html5 canvas,modular by browserify.</p>
               <div class="row justify-content-around">
-                <a href="tetris/index.html"
+                <a href="htmlfiles/tetris/index.html"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
                   Link</a>
                 <a data-bs-toggle="modal" data-bs-target="#tetris" class="col-md-5 btn btn-success">Full Description</a>
@@ -164,7 +168,7 @@ Why is this here? We don't even use AdSense. Oh well, I'm just gonna comment it 
                 <a href="webglfluidsimulation/index.html"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
                   Link</a>
-                <a data-bs-toggle="modal" data-bs-target="#404" class="col-md-5 btn btn-success disabled">Full Description</a>
+                <a data-bs-toggle="modal" data-bs-target="#WebGLFluidSimulation" class="col-md-5 btn btn-success disabled">Full Description</a>
               </div>
             </div>
           </div>
@@ -174,34 +178,19 @@ Why is this here? We don't even use AdSense. Oh well, I'm just gonna comment it 
           <div class="card text-center">
             <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
             <div class="card-body">
-              <h5 class="card-title">Test 6</h5>
-              <p class="card-text">so funny this is</p>
+              <h5 class="card-title">WIBLR ((Not selfhosted)</h5>
+              <p class="card-text">WIBLR is a PixiJS experiment that animates stacked circular image segments in fun and interesting ways.</p>
               <div class="row justify-content-around">
-                <a href="google.com"
+                <a href="htmlfiles/WIBLR/index.html"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
                   Link</a>
-                <a data-bs-toggle="modal" data-bs-target="#Test6" class="col-md-5 btn btn-success disabled">Full Description</a>
+                <a data-bs-toggle="modal" data-bs-target="#WIBLR" class="col-md-5 btn btn-success disabled">Full Description</a>
               </div>
             </div>
           </div>
         </div>
-	
-	<div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
-          <div class="card text-center">
-            <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
-            <div class="card-body">
-              <h5 class="card-title">Test 7</h5>
-              <p class="card-text">ugh my hands are starting to hurt as im getting and had to change this multiple times</p>
-              <div class="row justify-content-around">
-                <a href="google.com"
-                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">whow
-                  6.9</a>
-                <a data-bs-toggle="modal" data-bs-target="#Test6" class="col-md-5 btn btn-success disabled">Full Description</a>
-              </div>
-            </div>
-          </div>
-        </div>
-  <!-- End of what Section -->
+
+  <!-- End of HTML5 Section -->
   </section>
   <section class="Ruffle py-4">
     <div class="container" id="Ruffle">
@@ -547,13 +536,13 @@ Why is this here? We don't even use AdSense. Oh well, I'm just gonna comment it 
           <div class="card text-center">
             <img class="card-img-top" src="./favicon-512x512.png" alt="picture">
             <div class="card-body">
-              <h5 class="card-title">Super Smash Flash</h5>
+              <h5 class="card-title">Pumkin</h5>
               <p class="card-text">playable but no description fornow</p>
               <div class="row justify-content-around">
-                <a href="ruffle/rufflefiles/supersmashflash.html"
+                <a href="ruffle/rufflefiles/pumkin.html"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Game
                   Link</a>
-                <a data-bs-toggle="modal" data-bs-target="#supersmashflash" class="col-md-5 btn btn-success disabled">Full Description</a>
+                <a data-bs-toggle="modal" data-bs-target="#pumkin" class="col-md-5 btn btn-success disabled">Full Description</a>
               </div>
             </div>
           </div>
@@ -608,7 +597,7 @@ Why is this here? We don't even use AdSense. Oh well, I'm just gonna comment it 
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-			<p>Fanmade Tetris recreation by unknown. We will try to find a better one at some point if required/possible.</p>
+			<p>This is a small html5 tetris game , written by pure javascript and html5 canvas,modular by browserify. Just a practice, if you are interested in writing html5 games,check the code and have fun!</</p>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -724,7 +713,7 @@ Why is this here? We don't even use AdSense. Oh well, I'm just gonna comment it 
 
   <footer class="footer py-3">
     <div class="container">
-      <span>All rights reserved - Catgang42 - <script>
+      <span>All rights reserved - Catgang42 - 2021-<script>
           document.write(new Date().getFullYear())
         </script></span>
     </div>
