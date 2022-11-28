@@ -38,8 +38,11 @@ jQuery(function($) {
 			term.echo("Hello person");
 						} else if (command == 'cat') {
 						term.echo($('<img src="https://placekitten.com/408/287">'));
-													} else if (command == 'flyingcat') {
+						} else if (command == 'flyingcat') {
 						term.echo($('<img src="https://catgang42.github.io/sitefiles/flyingcat.png">'));
+						} else if (command == 'spudpiggy') {
+						term.echo('He is a potato and he can turn into FrostPiggy or SummerPiggy whether its Winter or Summer');
+							
 // The code below is more advanced
         } else if (command == 'test'){
             term.push(function(command, term) {
@@ -48,7 +51,7 @@ jQuery(function($) {
                 } else if (command == 'ping') {
                     term.echo('pong');
                 } else {
-                    term.echo('unknown command ' + command);
+                    term.echo('Unknown Command: ' + command);
                 }
             }, {
                 prompt: 'test> ',
