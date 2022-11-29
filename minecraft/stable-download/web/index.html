@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>eagler</title>
+<title>Minecraft 1.5.2 - Eaglercraft</title>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="description" content="Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. It supports both singleplayer and multiplayer with no extensions." />
@@ -24,7 +24,41 @@ const relayId = Math.floor(Math.random() * 3);
 window.eaglercraftOpts = {
 container: "game_frame", assetsURI: "assets.epk", serverWorkerURI: "worker_bootstrap.js", worldsFolder: "MAIN",
 servers: [
-	{ serverName: "placeholder", serverAddress: "address here", hideAddress: false }
+	{
+	serverName: "Asspixel",
+	serverAddress: "wss://web.asspixel.net/CAP/",
+	hideAddress: false,
+	},
+	{
+	serverName: "VanillaCraft",
+	serverAddress: "wss://play.vanillacraftsmp.org",
+	hideAddress: false,
+	},
+	{
+	serverName: "CraftClue",
+	serverAddress: "wss://play.craftclue.rocks",
+	hideAddress: false,
+	},
+	{
+	serverName: "Ayunboom",
+	serverAddress: "wss://sus.shhnowisnottheti.me",
+	hideAddress: false,
+	},
+	{
+	serverName: "Sealcraft",
+	serverAddress: "wss://sealcraft.ddns.net:442/servers",
+	hideAddress: false,
+	},
+	{
+	serverName: "Asspixel",
+	serverAddress: "wss://hyper-network.me/server",
+	hideAddress: false,
+	},
+	{
+	serverName: "HardCoreSMP",
+	serverAddress: "wss://hardcoresmp.mrnewt.repl.co/serve",
+	hideAddress: false,
+	},
 ],
 relays: [
 	{ addr: "wss://relay.deev.is/", name: "lax1dude relay #1", primary: relayId == 0 },
