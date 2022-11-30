@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script async src="https://arc.io/widget.min.js#HEPCFa3K"></script>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<title>ayunWebEPK</title>
+		<script type="text/javascript" src="jszip.min.js"></script>
+		<script type="text/javascript" src="pako_deflate.min.js"></script>
+		<script type="text/javascript" src="sha1.min.js"></script>
+		<script type="text/javascript" src="ayunEPKCompiler.js"></script>
+		<link rel="preconnect" href="https://fonts.googleapis.com"/>
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+		<link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet"/>
+		<style>
+			a:not([href]) {
+				display: none;
+			}
+			*, ::file-selector-button {
+				font-family: 'Nunito', sans-serif;
+			}
+			body {
+				background-color: #111111;
+				color: #dddddd;
+			}
+			input[disabled] {
+				opacity: 0.8;
+			}
+			input[type=checkbox] {
+				-webkit-appearance: initial;
+        		-moz-appearance: initial;
+        		appearance: initial;
+				width: 1.5em;
+				height: 1.5em;
+				margin: 0;
+			}
+			input[type=checkbox]:checked {
+				background-color: #eeeeee;
+			}
+			input[type=checkbox]:before {
+				content: ':>';
+				text-align: center;
+				color: #dddddd;
+				margin-left: 0.3em;
+			}
+			input[type=checkbox]:checked:before {
+				color: #343434;
+			}
+			input[type=checkbox]:after {
+				content: 'No';
+				color: #dddddd;
+				margin-left: 0.6em;
+			}
+			input[type=checkbox]:checked:after {
+				content: 'Yes';
+			}
+			@supports (-webkit-touch-callout: none) or (background: -webkit-named-image(i)) {
+				input[type=checkbox]:after {
+					content: 'no';
+				}
+				input[type=checkbox]:checked:after {
+					content: 'yes';
+				}
+			}
+			@supports (-moz-appearance: none) {
+				input[type=checkbox]:after {
+					content: 'No.';
+				}
+				input[type=checkbox]:checked:after {
+					content: 'Yes.';
+				}
+			}
+			::file-selector-button, progress, input[type=checkbox] {
+				background-color: #343434;
+				color: #eeeeee;
+				border: 1px solid #eeeeee;
+				border-radius: 4px;
+			}
+			a, input[type=file] {
+				color: #dddddd;
+			}
+			progress {
+				height: 1em;
+			}
+			progress, ::-webkit-file-upload-button {
+				-webkit-appearance: none;
+        		-moz-appearance: none;
+        		appearance: none;
+			}
+			progress[value="0"][max="1"] {
+				display: none;
+			}
+			::-moz-progress-bar {
+				background-color: #eeeeee;
+			}
+			::-webkit-progress-value {
+				background-color: #eeeeee;
+			}
+			::-webkit-progress-bar {
+				background-color: #343434;
+				border-radius: 4px;
+			}
+		</style>
+	</head>
+	<body>
+		<sub><a href="decompile.html">Want to decompile one instead?</a></sub>
+		<br/>
+		<sub><a href="builder.html">Want to create one instead?</a></sub>
+		<h1>ayunWebEPK</h1>
+		<p>Compile EPK files in your browser!</p>
+		Use legacy format: <input type="checkbox"/>
+		<br/>
+		Select resources folder: <input type="file" onchange="selectFile(this);" directory webkitdirectory/>
+		<br/>
+		<i>~or~</i>
+		<br/>
+		Select .ZIP archive of resources: <input type="file" onchange="selectFile(this);" accept=".zip"/>
+		<br/>
+		<progress value="0" max="1"></progress>
+		<a download="my-cool.epk">Download your EPK!</a>
+		<script>
+			const downloadLink = document.querySelectorAll('a')[2];
+			const progressBar = document.querySelector('progress');
+			const fileElems = document.querySelectorAll('input[type=file]');
+			const oldBox = document.querySelector('input[type=checkbox]');
+
+			// https://stackoverflow.com/a/68703218/6917520
+
+			function prefix(words) {
+				// check border cases size 1 array and empty first word)
+				if (!words[0] || words.length ==  1) return words[0] || "";
+				let i = 0;
+				// while all words have the same character at position i, increment i
+				while(words[0][i] && words.every(w => w[i] === words[0][i]))
+					i++;
+				
+				// prefix is the substring from the beginning to the last successfully checked i
+				return words[0].substr(0, i);
+			}
+
+			function selectFile(fileElem) {
+				downloadLink.removeAttribute('href');
+				fileElems.forEach(elem => elem.disabled = true);
+				oldBox.disabled = true;
+				const fileArr = [];
+				if (fileElem.files.length == 1) {
+					const zipFile = fileElem.files[0];
+					const reader = new FileReader();
+					reader.onload = function(e) {
+						const zip = new JSZip();
+						zip.loadAsync(e.target.result).then(function(zip) {
+							progressBar.max = Object.keys(zip.files).length;
+							const stripFolder = prefix(Object.keys(zip.files));
+							let i = 0;
+							for (let fileName in zip.files) {
+								if (fileName.endsWith('/')) {
+									progressBar.value = i++;
+									if (i == progressBar.max) {
+										finishIt(fileElem, fileArr, oldBox.checked);
+									}
+									continue;
+								}
+								zip.files[fileName].async('blob').then(function(data) {
+									fileArr.push({
+										type: 'FILE',
+										name: stripFolder.length == 0 ? fileName : fileName.slice(fileName.indexOf(stripFolder) + stripFolder.length),
+										data: data
+									});
+									progressBar.value = i++;
+									if (i == progressBar.max) {
+										finishIt(fileElem, fileArr, oldBox.checked);
+									}
+								});
+							}
+						});
+					};
+					reader.readAsArrayBuffer(zipFile);
+				} else if (fileElem.files.length > 1) {
+					progressBar.max = fileElem.files.length;
+					const stripFolder = prefix(Object.values(fileElem.files).map(file => file.webkitRelativePath));
+					let i = 0;
+					for (let file of fileElem.files) {
+						const fileName = file.webkitRelativePath;
+						fileArr.push({
+							type: 'FILE',
+							name: stripFolder.length == 0 ? fileName : fileName.slice(fileName.indexOf(stripFolder) + stripFolder.length),
+							data: file
+						});
+						progressBar.value = i++;
+						if (i == progressBar.max) {
+							finishIt(fileElem, fileArr, oldBox.checked);
+						}
+					}
+				} else {
+					fileElems.forEach(elem => elem.removeAttribute('disabled'));
+					oldBox.removeAttribute('disabled');
+				}
+			}
+			
+			function finishIt(fileElem, fileArr, old) {
+				progressBar.value = 0;
+				window.compileEPK()(fileArr, old, function() {
+					progressBar.value++;
+				}).then(blob => {
+					downloadLink.href = window.URL.createObjectURL(blob);
+					currentEPK = null;
+					fileElem.value = '';
+					progressBar.value = 0;
+					progressBar.max = 1;
+					fileElems.forEach(elem => elem.removeAttribute('disabled'));
+					oldBox.removeAttribute('disabled');
+				});
+			}
+		</script>
+	</body>
+</html>
