@@ -1,16 +1,24 @@
-<iframe
-    width="680"
-    height="400"
-    frameborder="0"
-    src="https://dos.zone/player/?bundleUrl=%3A%2F%2Fcatgang42.github.io%2Femulation%2Fdos%2Fwolf3d%2Fdisk1.jsdos"
-    allowfullscreen>
-</iframe>           
-<!--
-  Message 'dz-player-exit' will be fired when js-dos is exited:
-  
-    window.addEventListener("message", (e) => {
-        if (e.data.message === "dz-player-exit") {
-            // ...
-        }
-    });
---> 
+<!doctype html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <style>
+         html, body, #jsdos {
+             width: 100%;
+             height: 100%;
+             margin: 0;
+             padding: 0;
+         }
+        </style>
+        <script src="https://catgang42/github.io/emulation/emulationfiles/jsdos/js-dos.js"></script>
+        <link href="https://catgang42/github.io/emulation/emulationfiles/jsdos/js-dos.css" rel="stylesheet">
+    </head>
+    <body>
+        <div id="jsdos" />
+        <script>
+         emulators.pathPrefix = "https://catgang42/github.io/emulation/emulationfiles/jsdos/";
+         Dos(document.getElementById("jsdos"))
+             .run("https://catgang42.github.io/emulation/dos/wolf3d/disk1.jsdos");
+        </script>
+    </body>
+</html>
