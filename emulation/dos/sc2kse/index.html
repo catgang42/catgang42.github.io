@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <style>
+         html, body, #jsdos {
+             width: 100%;
+             height: 100%;
+             margin: 0;
+             padding: 0;
+         }
+        </style>
+        <script src="https://catgang42.github.io/emulation/emulationfiles/jsdos/js-dos.js"></script>
+        <link href="https://catgang42.github.io/emulation/emulationfiles/jsdos/js-dos.css" rel="stylesheet">
+    </head>
+    <body>
+        <div id="jsdos" />
+        <script>
+         emulators.pathPrefix = "https://catgang42.github.io/emulation/emulationfiles/jsdos/";
+         Dos(document.getElementById("jsdos"))
+             .run("https://catgang42.github.io/emulation/dos/sc2kse/sc2kse.jsdos");
+        </script>
+    </body>
+</html>
