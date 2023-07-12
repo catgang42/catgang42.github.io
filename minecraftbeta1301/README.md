@@ -6,7 +6,9 @@
 
 ### Official Demo URL: [https://eaglercraft.us/beta/](https://eaglercraft.us/beta/)
 
-### Download locally: [Singleplayer_Offline_Download_Version.html](https://github.com/LAX1DUDE/eaglercraft-beta/blob/main/stable-download/Singleplayer_Offline_Download_Version.html)
+### Download locally: [Singleplayer_Offline_Download_Version.html](https://github.com/TheOneWhoIsCool/eaglercraft/blob/main/stable-download/Singleplayer_Offline_Download_Version.html)
+
+### Download the multiplayer: [Offline_Download_Verison.html](https://github.com/TheOneWhoIsCool/eaglercraft/blob/main/stable-download/Offline_Download_Version.html)
 
 **Host the singleplayer client: [singleplayer-download.zip](https://github.com/LAX1DUDE/eaglercraft-beta/blob/main/stable-download/singleplayer-download.zip)**
 
