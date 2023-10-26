@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+    <title>Baldi Web</title>
+    <style type="text/css">
+        html {
+            overflow: auto;
+        }
+          
+        iframe {
+            display: block;
+            width: 960px;
+            height: 600px;
+            -webkit-transform: scale(1);
+            transform: scale(1);
+            border: none;
+            overflow: hidden;
+            align: center;
+        }
+      
+        iframe.fullScreen {
+            display: block;
+            border: none;
+            overflow-y: auto;
+            overflow-x: hidden;
+            align: center;
+            width: 55% !important;
+            height: 56% !important;
+            -webkit-transform: scale(1.8);
+            transform: scale(1.8);
+            -webkit-transform-origin: 0 0;
+            transform-origin: 0 0;
+        }
+    </style>
+</head>
+  
+<body>
+    <iframe src="https://baldiweb.000webhostapp.com/">
+  </iframe>
+  <script type="text/javascript" src="fs.js"></script>
+  <script type="text/javascript" src="shortcut.js"></script>
+  <script>
+    shortcut.add("ctrl+f11", function() {
+        makeFullScreen()
+    });   
+  </script>
+  <br>
+  <h3>Press CTRL and F11 at the same time for Fullscreen.</h3>
+  <br>
+  <h3>(if the key combination doesn't work, click anywhere on the white space and try it again.)</h3>
+</body>
+  
+</html>
