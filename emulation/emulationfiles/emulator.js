@@ -85,17 +85,11 @@ var EJS = function(_0x574f5e) {
     }
 }, null, null, null, null, null, function(module) {
     // Project located at https://github.com/ethanaobrien/gamepad
-    class Gamepad {
+    class GamepadHandler {
         gamepads;
         timeout;
         listeners;
         constructor() {
-            if (!navigator.getGamepads && !navigator.webkitGetGamepads) {
-                throw new Error("Get gamepads not found!");
-            }
-            if (!window.setTimeout) {
-                throw new Error("setTimeout was not found!");
-            }
             this.gamepads = [];
             this.listeners = {};
             this.timeout = null;
@@ -119,27 +113,14 @@ var EJS = function(_0x574f5e) {
                 this.gamepads.forEach((oldGamepad, oldIndex) => {
                     if (oldGamepad.index !== gamepad.index) return;
                     hasGamepad = true;
-
+                    
                     oldGamepad.axes.forEach((axis, axisIndex) => {
                         if (gamepad.axes[axisIndex] !== axis) {
-                            const axis = function(index) {
-                                switch (index) {
-                                    case 0:
-                                        return 'LEFT_STICK_X';
-                                    case 1:
-                                        return 'LEFT_STICK_Y';
-                                    case 2:
-                                        return 'RIGHT_STICK_X';
-                                    case 3:
-                                        return 'RIGHT_STICK_Y';
-                                    default:
-                                        return null;
-                                }
-                            }(axisIndex);
+                            const axis = ['LEFT_STICK_X', 'LEFT_STICK_Y', 'RIGHT_STICK_X', 'RIGHT_STICK_Y'][axisIndex];
                             if (!axis) return;
                             this.dispatchEvent('axischanged', {axis: axis, value: gamepad.axes[axisIndex], index: gamepad.index, gamepadIndex: gamepad.index});
                         }
-
+                        
                     })
                     gamepad.buttons.forEach((button, buttonIndex) => {
                         let pressed = oldGamepad.buttons[buttonIndex] === 1.0;
@@ -157,7 +138,7 @@ var EJS = function(_0x574f5e) {
                                 this.dispatchEvent('buttonup', {index: buttonIndex, gamepadIndex: gamepad.index});
                             }
                         }
-
+                        
                     })
                     this.gamepads[oldIndex] = gamepads[index];
                 })
@@ -166,7 +147,7 @@ var EJS = function(_0x574f5e) {
                     this.dispatchEvent('connected', {gamepadIndex: gamepad.index});
                 }
             });
-
+            
             for (let j=0; j<this.gamepads.length; j++) {
                 if (!this.gamepads[j]) continue;
                 let has = false;
@@ -194,7 +175,7 @@ var EJS = function(_0x574f5e) {
             this.listeners[name.toLowerCase()] = cb;
         }
     }
-    module.exports = Gamepad;
+    module.exports = GamepadHandler;
 }, null, null, null, null, function(module, _0x4f5203, _0x5028a6) {
     const _0x33171 = function(inUrl, opts) {
         let url;
@@ -242,6 +223,7 @@ var EJS = function(_0x574f5e) {
                 } catch(e) {
                     reject(e);
                 }
+                if (inUrl.startsWith('blob:')) URL.revokeObjectURL(inUrl);
                 resolve({
                     data: res,
                     headers: {}
@@ -876,6 +858,7 @@ var EJS = function(_0x574f5e) {
         'btn-cancel': 'ejs--ad20569e1449d7b8e99e6465960456',
         'btn-reset': 'ejs--ad20569e1449d7b8e99e6465963825',
         'btn-clear': 'ejs--ad20569e1449d7b8e99e6468571053',
+        'btn-close': 'ejs--iehanqurh382hriwqoriuehqr83hq9',
         'tabs': 'ejs--8e7922427f460a31935084b7acfb1a',
         'active': 'ejs--68d337c212ec6a5bc43125440d422b',
         'tabs-content': 'ejs--31eb28817642bb1bfe0a2c422108bb',
@@ -2023,7 +2006,8 @@ var EJS = function(_0x574f5e) {
                     return !_0x27aced.audio && !_0x27aced.video && !_0x27aced.screen && _0x27aced.data;
                 }
                 var _0x21b268 = '';
-                _0x21b268 += '?userid=' + _0xa98659.userid, _0x21b268 += '&sessionid=' + _0xa98659.sessionid, _0x21b268 += '&msgEvent=' + _0xa98659.socketMessageEvent, _0x21b268 += '&socketCustomEvent=' + _0xa98659.socketCustomEvent, _0x21b268 += '&autoCloseEntireSession=' + !!_0xa98659.autoCloseEntireSession, true === _0xa98659.session.broadcast && (_0x21b268 += '&oneToMany=true'), _0x21b268 += '&maxParticipantsAllowed=' + _0xa98659.maxParticipantsAllowed, _0xa98659.enableScalableBroadcast && (_0x21b268 += '&enableScalableBroadcast=true', _0x21b268 += '&maxRelayLimitPerUser=' + (_0xa98659.maxRelayLimitPerUser || 0x2)), _0x21b268 += '&extra=' + JSON.stringify(_0xa98659.extra || {}), _0xa98659.socketCustomParameters && (_0x21b268 += _0xa98659.socketCustomParameters);
+                _0x21b268 += '?coreVer='+_0xa98659.coreVer+'&userid=' + _0xa98659.userid, _0x21b268 += '&sessionid=' + _0xa98659.sessionid, _0x21b268 += '&msgEvent=' + _0xa98659.socketMessageEvent, _0x21b268 += '&socketCustomEvent=' + _0xa98659.socketCustomEvent, _0x21b268 += '&autoCloseEntireSession=' + !!_0xa98659.autoCloseEntireSession, true === _0xa98659.session.broadcast && (_0x21b268 += '&oneToMany=true'), _0x21b268 += '&maxParticipantsAllowed=' + _0xa98659.maxParticipantsAllowed, _0xa98659.enableScalableBroadcast && (_0x21b268 += '&enableScalableBroadcast=true', _0x21b268 += '&maxRelayLimitPerUser=' + (_0xa98659.maxRelayLimitPerUser || 0x2)), _0x21b268 += '&extra=' + JSON.stringify(_0xa98659.extra || {}), _0xa98659.socketCustomParameters && (_0x21b268 += _0xa98659.socketCustomParameters);
+
                 if (_0xa98659.socketURL || (_0xa98659.socketURL = '/'), '/' != _0xa98659.socketURL.substr(_0xa98659.socketURL.length - 0x1, 0x1)) throw '"socketURL" MUST end with a slash.';
                 _0xa98659.enableLogs && ('/' == _0xa98659.socketURL ? console.info('socket.io url is: ', location.origin + '/') : console.info('socket.io url is: ', _0xa98659.socketURL));
                 _0xa98659.socket = io(_0xa98659.socketURL + _0x21b268);
@@ -2115,8 +2099,6 @@ var EJS = function(_0x574f5e) {
                 _0xa98659.socket.resetProps = function() {
                     _0x56cf17 = !0x1;
                 }, _0xa98659.socket.on('connect', function() {
-                    _0xa98659.onopen(_0xa98659.userid);
-                    console.log(_0xa98659);
                     _0x56cf17 || (_0x56cf17 = true, _0xa98659.enableLogs && console.info('socket.io connection is opened.'), setTimeout(function() {
                         _0xa98659.socket.emit('extra-data-updated', _0xa98659.extra);
                     }, 0x3e8), _0x1eb953 && _0x1eb953(_0xa98659.socket));
@@ -2129,15 +2111,11 @@ var EJS = function(_0x574f5e) {
                         'extra': _0xa98659.peers[_0x54aa18] && _0xa98659.peers[_0x54aa18].extra || {}
                     }), _0xa98659.deletePeer(_0x54aa18));
                 }), _0xa98659.socket.on('user-connected', function(_0x5ca80a) {
-                    if (_0x5ca80a !== _0xa98659.userid) {
-                        _0xa98659.peers[_0x5ca80a] || (_0xa98659.peers[_0x5ca80a] = {});
-                        _0xa98659.onopen(_0x5ca80a);
-                        _0xa98659.onUserStatusChanged({
-                            'userid': _0x5ca80a,
-                            'status': 'online',
-                            'extra': _0xa98659.peers[_0x5ca80a] && _0xa98659.peers[_0x5ca80a].extra || {}
-                        });
-                    }
+                    _0x5ca80a !== _0xa98659.userid && _0xa98659.onUserStatusChanged({
+                        'userid': _0x5ca80a,
+                        'status': 'online',
+                        'extra': _0xa98659.peers[_0x5ca80a] && _0xa98659.peers[_0x5ca80a].extra || {}
+                    });
                 }), _0xa98659.socket.on('closed-entire-session', function(_0x4808cd, _0x427eb3) {
                     _0xa98659.leave(), _0xa98659.onEntireSessionClosed({
                         'sessionid': _0x4808cd,
@@ -2152,20 +2130,7 @@ var EJS = function(_0x574f5e) {
                     _0xa98659.onNumberOfBroadcastViewersUpdated(_0x6c7075);
                 }), _0xa98659.socket.on('set-isInitiator-true', function(_0x4f8f7b) {
                     _0x4f8f7b == _0xa98659.sessionid && (_0xa98659.isInitiator = true);
-                }), _0xa98659.socket.on('data-message', function(data) {
-                    _0xa98659.onmessage(data);
-                }), _0xa98659.socket.on('file-message', async function(data) {
-                    const url = URL.createObjectURL(new Blob([data.file]));
-                    _0xa98659.onFileStart({name:data.name});
-                    _0xa98659.onFileEnd({url, name:data.name});
                 });
-                _0xa98659.shareFile = async function(file) {
-                    const data = await file.arrayBuffer();
-                    _0xa98659.socket.emit('file-message', {file:data, name:file.name});
-                }
-                _0xa98659.send = function(data) {
-                    _0xa98659.socket && _0xa98659.socket.emit('data-message', data);
-                }
             }
 
             function _0x11ea4f(_0x433d1d) {
@@ -2288,13 +2253,14 @@ var EJS = function(_0x574f5e) {
                         }
                     };
                 }, this.createNewPeer = function(_0x4f4c1b, _0x54114b) {
-                    console.log('createNewPeer', _0x4f4c1b, _0x54114b)
                     if (!(_0x433d1d.maxParticipantsAllowed <= _0x433d1d.getAllParticipants().length)) {
                         if (_0x54114b = _0x54114b || {}, _0x433d1d.isInitiator && _0x433d1d.session.audio && 'two-way' === _0x433d1d.session.audio && !_0x54114b.streamsToShare && (_0x54114b.isOneWay = !0x1, _0x54114b.isDataOnly = !0x1, _0x54114b.session = _0x433d1d.session), !_0x54114b.isOneWay && !_0x54114b.isDataOnly) return _0x54114b.isOneWay = true, void this.onNegotiationNeeded({
                             'enableMedia': true,
                             'userPreferences': _0x54114b
                         }, _0x4f4c1b);
-                        _0x433d1d.peers[_0x4f4c1b] = _0x54114b;
+                        _0x54114b = _0x433d1d.setUserPreferences(_0x54114b, _0x4f4c1b);
+                        var _0x2aa4ee = this.getLocalConfig(null, _0x4f4c1b, _0x54114b);
+                        _0x433d1d.peers[_0x4f4c1b] = new _0x4c6fdb(_0x2aa4ee);
                     }
                 }, this.createAnsweringPeer = function(_0x432071, _0x5d1056, _0x4e2b15) {
                     _0x4e2b15 = _0x433d1d.setUserPreferences(_0x4e2b15 || {}, _0x5d1056);
@@ -2332,6 +2298,20 @@ var EJS = function(_0x574f5e) {
                     _0x1d484a.readyForOffer && _0x433d1d.onReadyForOffer(_0x448bd9, _0x1d484a.userPreferences);
                 }, this.onGettingRemoteMedia = function(_0x1d2a39, _0x50fcf9) {}, this.onRemovingRemoteMedia = function(_0x2c048b, _0x238637) {}, this.onGettingLocalMedia = function(_0x10860a) {}, this.onLocalMediaError = function(_0x33725e, _0x45b7ee) {
                     _0x433d1d.onMediaError(_0x33725e, _0x45b7ee);
+                }, this.shareFile = function(_0x458906, _0x775c6c) {
+                    _0x2aa4ee(), _0x433d1d.fbr.readAsArrayBuffer(_0x458906, function(_0x2c744c) {
+                        var _0x2aa4ee = _0x433d1d.getAllParticipants();
+                        _0x775c6c && (_0x2aa4ee = [_0x775c6c]), _0x2aa4ee.forEach(function(_0x3a9de3) {
+                            _0x433d1d.fbr.getNextChunk(_0x2c744c, function(_0x2b3a4a) {
+                                _0x433d1d.peers[_0x3a9de3].channels.forEach(function(_0x2356aa) {
+                                    _0x2356aa.send(_0x2b3a4a);
+                                });
+                            }, _0x3a9de3);
+                        });
+                    }, {
+                        'userid': _0x433d1d.userid,
+                        'chunkSize': 'Firefox' === DetectRTC.browser.name ? 0x3a98 : _0x433d1d.chunkSize || 0x0
+                    });
                 };
                 var _0x521a09 = new _0x342039(_0x433d1d);
                 this.onDataChannelMessage = function(_0x5f266f, _0x384695) {
@@ -2960,9 +2940,6 @@ var EJS = function(_0x574f5e) {
                 _0x1d01b4 = window.MediaStreamTrack;
 
             function _0x4c6fdb(_0xeb3993) {
-                //main webrtc function
-                return;
-                
                 if (void 0x0 !== window.RTCPeerConnection ? _0x2a4be1 = window.RTCPeerConnection : 'undefined' != typeof mozRTCPeerConnection ? _0x2a4be1 = mozRTCPeerConnection : 'undefined' != typeof webkitRTCPeerConnection && (_0x2a4be1 = webkitRTCPeerConnection), _0x28d3c1 = window.RTCSessionDescription || window.mozRTCSessionDescription, _0x437c06 = window.RTCIceCandidate || window.mozRTCIceCandidate, _0x1d01b4 = window.MediaStreamTrack, !_0x2a4be1) throw 'WebRTC 1.0 (RTCPeerConnection) API are NOT available in this browser.';
                 var _0x326931 = _0xeb3993.rtcMultiConnection;
                 this.extra = _0xeb3993.remoteSdp ? _0xeb3993.remoteSdp.extra : _0x326931.extra, this.userid = _0xeb3993.userid, this.streams = [], this.channels = _0xeb3993.channels || [], this.connectionDescription = _0xeb3993.connectionDescription, this.addStream = function(_0x500ec1) {
@@ -3164,11 +3141,6 @@ var EJS = function(_0x574f5e) {
                         _0x21b268 = null, _0x2fa590.peer = null;
                     }
                 }, this.peer = _0x21b268;
-                
-                
-                
-                
-                
             }
             var _0x42fdaa = function() {
                 function _0x572b26(_0x16547c, _0x12b3cb) {
@@ -3318,17 +3290,7 @@ var EJS = function(_0x574f5e) {
                 },
                 _0x3b9609 = {
                     'getIceServers': function(_0x488e7f) {
-                        return [{
-                            'urls': ['stun:webrtcweb.com:7788'],
-                            'username': 'muazkh',
-                            'credential': 'muazkh'
-                        }, {
-                            'urls': ['turn:webrtcweb.com:7788', 'turn:webrtcweb.com:8877', 'turn:webrtcweb.com:4455'],
-                            'username': 'muazkh',
-                            'credential': 'muazkh'
-                        }, {
-                            'urls': ['stun:stun.l.google.com:19302', 'stun:stun1.l.google.com:19302', 'stun:stun2.l.google.com:19302', 'stun:stun.l.google.com:19302?transport=udp']
-                        }];
+                        return window.EJS_TURN_URLS;
                     }
                 };
 
@@ -3637,9 +3599,18 @@ var EJS = function(_0x574f5e) {
                     _0x521a09 = {};
 
                 function _0x2db9d8(_0x3112a3) {
-                    new _0x45c30f(_0x51c1c9, function(_0xbc287b) {
-                        _0x3112a3 && _0x3112a3(_0x51c1c9.socket);
-                    });
+                    if (_0x51c1c9.socketAutoReConnect = true, _0x51c1c9.socket) _0x3112a3 && _0x3112a3(_0x51c1c9.socket);
+                    else {
+                        if (void 0x0 === _0x45c30f)
+                            if ('undefined' != typeof FirebaseConnection) window.SocketConnection = FirebaseConnection;
+                            else {
+                                if ('undefined' == typeof PubNubConnection) throw 'SocketConnection.js seems missed.';
+                                window.SocketConnection = PubNubConnection;
+                            }
+                        new _0x45c30f(_0x51c1c9, function(_0xbc287b) {
+                            _0x3112a3 && _0x3112a3(_0x51c1c9.socket);
+                        });
+                    }
                 }
 
                 function _0x6a70ac(_0x2eb7ca, _0x54a40d) {

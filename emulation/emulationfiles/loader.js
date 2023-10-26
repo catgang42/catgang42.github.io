@@ -1,8 +1,8 @@
 (async function() {
-    let VERSION = 30.5;
+    let VERSION = 31.6;
     if ((window.location && ['localhost', '127.0.0.1'].includes(location.hostname)) ||
        'undefined' != typeof EJS_DEBUG_XX && true === EJS_DEBUG_XX) {
-        fetch('https://catgang42.github.io/emulation/emulationfiles/version.json').then(response => {
+        fetch('https://raw.githack.com/EmulatorJS/EmulatorJS/main/data/version.json').then(response => {
             if (response.ok) {
                 response.text().then(body => {
                     let version = JSON.parse(body);
@@ -13,7 +13,6 @@
             }
         })
     }
-    let scriptTag = document.getElementsByTagName('script')[0];
     function loadStyle(file) {
         return new Promise(function(resolve, reject) {
             let css = document.createElement('link');
@@ -45,11 +44,13 @@
                     return file+'?v='+VERSION;
                 }
             }();
-            scriptTag.parentNode.insertBefore(script, scriptTag);
             script.onload = resolve;
+            document.head.appendChild(script);
         })
     }
-    if ('undefined' != typeof EJS_DEBUG_XX && true === EJS_DEBUG_XX) {
+    const isIpad = /Macintosh/i.test(navigator.userAgent) && navigator.maxTouchPoints && navigator.maxTouchPoints > 1;
+    if (('undefined' != typeof EJS_DEBUG_XX && true === EJS_DEBUG_XX) ||
+        /(iPad|iPhone|iPod)/gi.test(navigator.userAgent) || isIpad) {
         await loadStyle('emu-css.css');
         await loadScript('emu-main.js');
         await loadScript('emulator.js');
