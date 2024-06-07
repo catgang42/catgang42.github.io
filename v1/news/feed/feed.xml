@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Prism Launcher</title>
+	<subtitle>An Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.</subtitle>
+	
+	<link href="https://catgang42.github.io/v1/feed/feed.xml" rel="self"/>
+	<link href="https://catgang42.github.io/v1/"/>
+	<updated>2024-04-23T00:00:00Z</updated>
+	<id>https://catgang42.github.io/v1/</id>
+	<author>
+		<name>Prism Launcher</name>
+		<email>youremailaddress@example.com</email>
+	</author>
+	
+	<entry>
+		<title>Prism Launcher Release 6.4, pre-demo</title>
+		<link href="https://catgang42.github.io/v1/news/release-6.4/"/>
+		<updated>2024-04-23T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/release-6.4/</id>
+		<content type="html">&lt;p&gt;Hello there!&lt;/p&gt;
+&lt;p&gt;Hey! Welcome to Better Than Prism Launcher!&lt;br /&gt;
+We are continuing right where we left off! Release 6.3&lt;br /&gt;
+Let&#39;s hope this makes your Prism Launcher experience even better than before! We will do by this by continuing from a point of time where development took a different path rather than the one it has today.&lt;/p&gt;
+&lt;p&gt;Until next time!&lt;/p&gt;
+&lt;h2 id=&quot;added&quot; tabindex=&quot;-1&quot;&gt;Added &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-6.4/#added&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Nothing here yet &lt;a href=&quot;https://github.com/wagyourtail&quot;&gt;@wagyourtail&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/2327&quot;&gt;#2327&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;changed&quot; tabindex=&quot;-1&quot;&gt;Changed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-6.4/#changed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Nothing here yet by &lt;a href=&quot;https://github.com/DioEgizio&quot;&gt;@DioEgizio&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/2286&quot;&gt;#2286&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;fixed&quot; tabindex=&quot;-1&quot;&gt;Fixed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-6.4/#fixed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Nothing here yet &lt;a href=&quot;https://github.com/Trial97&quot;&gt;@Trial97&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/2333&quot;&gt;#2333&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;Full Changelog: &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/compare/6.2...6.3&quot;&gt;https://github.com/PrismLauncher/PrismLauncher/compare/6.2...6.3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&quot;https://catgang42.github.io/v1/download/&quot;&gt;grab the latest download here&lt;/a&gt; for your respective platform.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>[MALWARE WARNING] &quot;fractureiser&quot; malware in many popular Minecraft mods and modpacks</title>
+		<link href="https://catgang42.github.io/v1/news/cf-compromised-alert/"/>
+		<updated>2023-06-07T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/cf-compromised-alert/</id>
+		<content type="html">&lt;p&gt;For a full summary, check out this GitHub repository: &lt;a href=&quot;https://github.com/fractureiser-investigation/fractureiser&quot;&gt;https://github.com/fractureiser-investigation/fractureiser&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Starting June 6th, 2023 UTC, multiple groups reported many CurseForge and Bukkit projects as compromised. Malware was been uploaded to several projects and it&#39;s now known that the virus was self-replicating and spreading. Since then, both &lt;a href=&quot;https://twitter.com/modrinth/status/1666853947804463115&quot;&gt;Modrinth&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/CurseForge/status/1666741580022128641&quot;&gt;Curseforge&lt;/a&gt; have stated all infected files have been removed or they were unaffected. It should be safe to use these services now, however users should still take caution in downloading files, especially from less trustworthy services.&lt;/p&gt;
+&lt;div class=&quot;notification type-warn&quot;&gt;
+Following the steps below if you find that you have the virus, remove it then &lt;b&gt;CHANGE ALL OF YOUR PASSWORDS&lt;/b&gt; as it is highly likely that the virus is extracting all of your browsers saved passwords.
+&lt;/div&gt;
+&lt;p&gt;Table of contents:&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;table-of-contents&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#what-can-i-do&quot;&gt;What can I do? &lt;/a&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#checking-mods&quot;&gt;Checking Mods &lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#finding-out-if-you-have-already-been-infected&quot;&gt;Finding out if you have already been infected &lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#files-were-found!-what-can-i-do&quot;&gt;Files were found! What can I do? &lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#who-was-affected&quot;&gt;Who was affected &lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#what-we-know-about-the-malware&quot;&gt;What we know about the malware &lt;/a&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#distribution&quot;&gt;Distribution &lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#technical-info&quot;&gt;Technical info &lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#references&quot;&gt;References &lt;/a&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#luna-pixel-studios&quot;&gt;Luna Pixel Studios &lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#it-is-recommended-to-hold-off-on-updating-any-mods-or-modpacks-until-this-is-resolved.&quot;&gt;It is recommended to hold off on updating any mods or modpacks until this is resolved. &lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#the-iris-project&quot;&gt;The Iris Project &lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h2 id=&quot;what-can-i-do&quot; tabindex=&quot;-1&quot;&gt;What can I do? &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#what-can-i-do&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;div class=&quot;notification type-warn&quot;&gt;
+ Windows 10 versions older than 22H2 may not have received this intelligence update yet due to being out of support. We recommend you upgrade to 22H2 in order to continue receiving support from Microsoft.
+&lt;/div&gt;
+&lt;p&gt;&lt;b&gt;As of June 8th, 2023 UTC&lt;/b&gt;, Windows Defender has started detecting some jars infected with stage 0, along with files from stage 2 (specifically libWebGL64.jar). You should make you have the latest security intelligence updates from Microsoft by going to settings and running Windows Update. To confirm, go to Windows Defender, click &amp;quot;Virus and Threat Protection,&amp;quot; scroll down to &amp;quot;Virus and Threat Protection Updates,&amp;quot; and press &amp;quot;Protection Updates.&amp;quot; It should say the last update was today and the version was created on &lt;b&gt;June 9th, 2023&lt;/b&gt;. This will help reduce any damage or further infection caused by jars containing fractureiser.&lt;/p&gt;
+&lt;p&gt;It is still recommended to read the following steps if you haven&#39;t already run a scan or are suspicious of a mod you have downloaded. It is still possible infected jars are on your system, as currently the detection done by Windows Defender for stage 0 files can be inconsistent.&lt;/p&gt;
+&lt;h3 id=&quot;checking-mods&quot; tabindex=&quot;-1&quot;&gt;Checking Mods &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#checking-mods&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;When downloading mods and plugins you may be suspicious of, douira&#39;s &lt;a href=&quot;https://douira.github.io/fractureiser-web-detector/&quot;&gt;Fractureiser Web Scanner&lt;/a&gt; can be used to detect if they are infected.&lt;/p&gt;
+&lt;h3 id=&quot;finding-out-if-you-have-already-been-infected&quot; tabindex=&quot;-1&quot;&gt;Finding out if you have already been infected &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#finding-out-if-you-have-already-been-infected&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Fractureiser drops multiple files on your system. These steps may be used to see if an infected mod has already been run:&lt;/p&gt;
+&lt;h4 id=&quot;manual-check&quot; tabindex=&quot;-1&quot;&gt;Manual Check &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#manual-check&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;When checking if you are infected, make sure to make &lt;code&gt;hidden files visible&lt;/code&gt; and for windows also disable &lt;code&gt;Hide protected operating system files&lt;/code&gt;, for your respective platform.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Stage 1 of the malware attempts to drop a file into the following locations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Linux&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Locate it in systemd-utility.service in ~/.config/systemd/user or /etc/systemd/system/ and lib.jar in ~/.config/.data and check SystemCTL for any changes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Windows&lt;/strong&gt;: &lt;code&gt;%LOCALAPPDATA%&#92;Microsoft Edge&#92;libWebGL64.jar&lt;/code&gt; (or &lt;code&gt;~&#92;AppData&#92;Local&#92;Microsoft Edge&#92;libWebGL64.jar&lt;/code&gt;)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Yes, &amp;quot;Microsoft Edge&amp;quot; with a space&lt;/li&gt;
+&lt;li&gt;Also check the registry for an entry at &lt;code&gt;HKCU:&#92;Software&#92;Microsoft&#92;Windows&#92;CurrentVersion&#92;Run&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Or a shortcut in &lt;code&gt;%appdata%&#92;Microsoft&#92;Windows&#92;Start Menu&#92;Programs&#92;Startup&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;If the file cannot be deleted due to being open in the &amp;quot;Open JDK Binary&amp;quot; you can use &lt;a href=&quot;https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns&quot;&gt;https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns&lt;/a&gt; to see what applications are on start-up and disable/remove the start up rule for &amp;quot;libWebGL64.jar&amp;quot;&lt;/li&gt;
+&lt;li&gt;Another solution is to delete java so it cannot run in the Java Runtime Environment, and then you can delete the jar by locating it in in %localappdata%&#92;Microsoft Edge and an entry in HKCU:&#92;Software&#92;Microsoft&#92;Windows&#92;CurrentVersion&#92;Run or a shortcut in %appdata%&#92;Microsoft&#92;Windows&#92;Start Menu&#92;Programs&#92;Startup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;All other OSes&lt;/strong&gt;: Unaffected. The malware is hardcoded for Windows and Linux only. It is possible it will receive an update adding payloads for other OSes in the future.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Before downloading, the malware will create the enclosing directory if it does not exist. Windows/MS Edge does not use the &amp;quot;Microsoft Edge&amp;quot;-with-a-space directory, and Linux software likely does not use &lt;code&gt;~/.config/.data&lt;/code&gt;, so these folders existing may be a sign that stage1 has executed on a victim computer.&lt;/p&gt;
+&lt;p&gt;If stage2 successfully downloads, it will attempt to make itself start on boot by modifying the Windows registry, or dropping a systemd unit into &lt;code&gt;/etc/systemd&lt;/code&gt;. (The Linux side of this payload is unlikely to work as it requires root privileges.)&lt;/p&gt;
+&lt;div class=&quot;infobox top&quot;&gt;
+@PandaNinjas has reported:
+&lt;p&gt;use your firewall to block outbound connections to 85[.]217[.]144[.]130, and modify your hosts file to include &lt;code&gt;0.0.0.0 files-8ie.pages.dev&lt;/code&gt; On linux add that line to /etc/hosts, on windows add that line to C:&#92;Windows&#92;system32&#92;drivers&#92;etc&#92;hosts&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;infobox top&quot;&gt;
+@orowith2os suggests:
+&lt;p&gt;If you use Linux, use the &lt;a href=&quot;https://flathub.org/apps/org.prismlauncher.PrismLauncher&quot;&gt;PrismLauncher Flatpak&lt;/a&gt; and be very careful of what you give it access to through utilities such as Flatseal. By default, it has no access to the needed directories to compromise the system.&lt;/p&gt;
+&lt;p&gt;Other sandbox escapes may be possible, but the malware most likely doesn&#39;t account for running inside of a sandbox of this sort.&lt;/p&gt;
+&lt;/div&gt;
+&lt;h4 id=&quot;automated-script&quot; tabindex=&quot;-1&quot;&gt;Automated Script &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#automated-script&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&quot;infobox top&quot;&gt;
+@Getchoo has released a linux and windows command line script to quickly check if these files exist:
+&lt;p&gt;Windows (powershell, not cmd):&lt;/p&gt;
+&lt;pre class=&quot;language-powershell&quot;&gt;&lt;code class=&quot;language-powershell&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$appData&lt;/span&gt; = &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;$HOME&lt;/span&gt;&#92;AppData&quot;&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;$edgePath&lt;/span&gt; = &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;$appData&lt;/span&gt;&#92;Local&#92;Microsoft Edge&quot;&lt;/span&gt;
+
+&lt;span class=&quot;token variable&quot;&gt;$badPaths&lt;/span&gt; = @&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+        &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;$edgePath&lt;/span&gt;&#92;.ref&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;$edgePath&lt;/span&gt;&#92;client.jar&quot;&lt;/span&gt;
+        &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;$edgePath&lt;/span&gt;&#92;lib.dll&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;$edgePath&lt;/span&gt;&#92;libWebGL64.jar&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;$edgePath&lt;/span&gt;&#92;run.bat&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;$appData&lt;/span&gt;&#92;Roaming&#92;Microsoft&#92;Windows&#92;Start Menu&#92;Programs&#92;Startup&#92;run.bat&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token string&quot;&gt;&quot;HKCU:&#92;Software&#92;Microsoft&#92;Windows&#92;CurrentVersion&#92;Run&#92;t&quot;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;token variable&quot;&gt;$res&lt;/span&gt; = &lt;span class=&quot;token boolean&quot;&gt;$false&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;ForEach&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;$Path&lt;/span&gt; in &lt;span class=&quot;token variable&quot;&gt;$badPaths&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;Test-Path&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;Path &lt;span class=&quot;token variable&quot;&gt;$Path&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;token function&quot;&gt;Write-Host&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;bad file found! removing &lt;span class=&quot;token variable&quot;&gt;$Path&lt;/span&gt;...&quot;&lt;/span&gt;
+                &lt;span class=&quot;token function&quot;&gt;Remove-Item&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;Force &lt;span class=&quot;token variable&quot;&gt;$Path&lt;/span&gt;
+                &lt;span class=&quot;token variable&quot;&gt;$res&lt;/span&gt; = &lt;span class=&quot;token boolean&quot;&gt;$true&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;$res&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;token function&quot;&gt;Write-Host&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;nothing found! :)&quot;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token function&quot;&gt;Read-Host&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;Prompt &lt;span class=&quot;token string&quot;&gt;&quot;press any button to exit&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&quot;notification type-warn&quot;&gt;
+To use this file after downloading it to your &quot;Downloads&quot; folder, press Windows key + R, then paste and run `powershell -executionpolicy bypass -file &quot;%UserProfile%&#92;Downloads&#92;check_cf.ps1&quot;`
+&lt;/div&gt;
+&lt;p&gt;&lt;a class=&quot;button size-medium&quot; href=&quot;https://catgang42.github.io/v1/img/news/cf-compromised/check_cf.ps1&quot; download=&quot;check_cf.ps1&quot;&gt;Download Windows Script&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Linux:&lt;/p&gt;
+&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token shebang important&quot;&gt;#!/usr/bin/env bash&lt;/span&gt;
+
+&lt;span class=&quot;token assign-left variable&quot;&gt;service_file&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;systemd-utility.service&quot;&lt;/span&gt;
+&lt;span class=&quot;token assign-left variable&quot;&gt;data_dir&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token environment constant&quot;&gt;$HOME&lt;/span&gt;/.config/.data&quot;&lt;/span&gt;
+&lt;span class=&quot;token assign-left variable&quot;&gt;bad_paths&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+        &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;$data_dir&lt;/span&gt;/.ref&quot;&lt;/span&gt;
+        &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;$data_dir&lt;/span&gt;/client.jar&quot;&lt;/span&gt;
+        &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;$data_dir&lt;/span&gt;/lib.jar&quot;&lt;/span&gt;
+        &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;$data_dir&lt;/span&gt;/lib.dll&quot;&lt;/span&gt;
+        &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;$data_dir&lt;/span&gt;/libWebGL64.jar&quot;&lt;/span&gt;
+        &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;$data_dir&lt;/span&gt;/run.bat&quot;&lt;/span&gt;
+        &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token environment constant&quot;&gt;$HOME&lt;/span&gt;/.config/systemd/user/&lt;span class=&quot;token variable&quot;&gt;$service_file&lt;/span&gt;&quot;&lt;/span&gt;
+        &lt;span class=&quot;token string&quot;&gt;&quot;/etc/systemd/system/&lt;span class=&quot;token variable&quot;&gt;$service_file&lt;/span&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;token assign-left variable&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;true&quot;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;token for-or-select variable&quot;&gt;path&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;${bad_paths&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;@&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;}&lt;/span&gt;&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;do&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;-f&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;$path&lt;/span&gt;&quot;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;then&lt;/span&gt;
+                &lt;span class=&quot;token builtin class-name&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;bad file found! removing &lt;span class=&quot;token variable&quot;&gt;$path&lt;/span&gt;...&quot;&lt;/span&gt;
+                &lt;span class=&quot;token function&quot;&gt;rm&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;--force&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;$path&lt;/span&gt;&quot;&lt;/span&gt;
+                &lt;span class=&quot;token assign-left variable&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;false&quot;&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;fi&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;done&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;$res&lt;/span&gt;&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;true&quot;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;then&lt;/span&gt;
+        &lt;span class=&quot;token builtin class-name&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;nothing found :)&quot;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;fi&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&quot;notification type-warn&quot;&gt;
+ To automatically download and run this file, run `curl -fsSL https://catgang42.github.io/v1/img/news/cf-compromised/check_cf.sh | bash`
+&lt;/div&gt;
+&lt;p&gt;&lt;a class=&quot;button size-medium&quot; href=&quot;https://catgang42.github.io/v1/img/news/cf-compromised/check_cf.sh&quot; download=&quot;check_cf.sh&quot;&gt;Download Linux Script&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3 id=&quot;files-were-found!-what-can-i-do&quot; tabindex=&quot;-1&quot;&gt;Files were found! What can I do? &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#files-were-found!-what-can-i-do&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As said before, you should first &lt;b&gt;CHANGE ALL OF YOUR PASSWORDS&lt;/b&gt;, as it is possible that the virus extracted all of your browsers saved passwords. You should also use MCRcortex&#39;s &lt;a href=&quot;https://github.com/MCRcortex/nekodetector&quot;&gt;nekodetector&lt;/a&gt;, which will allow you to scan your entire system for other Java files that may try to create these files again.&lt;/p&gt;
+&lt;h2 id=&quot;who-was-affected&quot; tabindex=&quot;-1&quot;&gt;Who was affected &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#who-was-affected&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;div class=&quot;infobox top&quot;&gt;
+ This is by no means a complete list, as it is possible other mods were affected. Keep in mind the mods included in this list should be safe now when downloaded from Curseforge, Modrinth, etc.
+&lt;/div&gt;
+&lt;p&gt;According to Luna Pixel Studios, &amp;quot;tens of mods &amp;amp; modpacks, mostly on 1.16.5 1.18.2 and 1.19.2 were updated to include malicious files&amp;quot;&lt;/p&gt;
+&lt;p&gt;The currently confirmed affected mods and modpacks are as follows:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;At this point, we have enough samples to know this was quite widespread.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;CurseForge:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dungeons Arise&lt;/li&gt;
+&lt;li&gt;Sky Villages&lt;/li&gt;
+&lt;li&gt;Better MC modpack series&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;Fabuously Optimized&lt;/s&gt; (Found to not be compromised)&lt;/li&gt;
+&lt;li&gt;Dungeonz&lt;/li&gt;
+&lt;li&gt;Skyblock Core&lt;/li&gt;
+&lt;li&gt;Vault Integrations&lt;/li&gt;
+&lt;li&gt;AutoBroadcast&lt;/li&gt;
+&lt;li&gt;Museum Curator Advanced&lt;/li&gt;
+&lt;li&gt;Vault Integrations Bug fix&lt;/li&gt;
+&lt;li&gt;Create Infernal Expansion Plus - Mod removed from CurseForge&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bukkit:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Display Entity Editor&lt;/li&gt;
+&lt;li&gt;Haven Elytra&lt;/li&gt;
+&lt;li&gt;The Nexus Event Custom Entity Editor&lt;/li&gt;
+&lt;li&gt;Simple Harvesting&lt;/li&gt;
+&lt;li&gt;MCBounties&lt;/li&gt;
+&lt;li&gt;Easy Custom Foods&lt;/li&gt;
+&lt;li&gt;Anti Command Spam Bungeecord Support&lt;/li&gt;
+&lt;li&gt;Ultimate Leveling&lt;/li&gt;
+&lt;li&gt;Anti Redstone Crash (Not to be confused with &amp;quot;NTD AntiRedstoneCrash&amp;quot;)&lt;/li&gt;
+&lt;li&gt;Hydration&lt;/li&gt;
+&lt;li&gt;Fragment Permission Plugin&lt;/li&gt;
+&lt;li&gt;No VPNS&lt;/li&gt;
+&lt;li&gt;Ultimate Titles Animations Gradient RGB&lt;/li&gt;
+&lt;li&gt;Floating Damage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Luna Pixel Studios has stated its very likely someone has found a way to bypass 2fa and login to multiple large CurseForge profiles. The CurseForge profiles are also showing someone logging into them directly.&lt;/p&gt;
+&lt;h2 id=&quot;what-we-know-about-the-malware&quot; tabindex=&quot;-1&quot;&gt;What we know about the malware &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#what-we-know-about-the-malware&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Notice: Plugins with similar malware have been found as early as mid-April.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A number of CurseForge and &lt;a href=&quot;http://dev.bukkit.org/&quot;&gt;dev.bukkit.org&lt;/a&gt; (not the Bukkit software itself) accounts were compromised, and malicious software was injected into many popular plugins and mods. There are reports of malicious plugin/mod JARs as early as May 22nd.&lt;/p&gt;
+&lt;p&gt;If you have downloaded any mods from CurseForge, or plugins from Bukkit, even through clients such as Prism Launcher or the official CurseForge launcher, it is recommended that you follow the &amp;quot;Am I infected?&amp;quot; guide below.&lt;/p&gt;
+&lt;p&gt;The affected accounts had two-factor authentication enabled. It&#39;s unlikely this is a simple password compromise situation; it may be auth token compromise or something bigger on the CF side. Multiple accounts are affected so we don&#39;t believe this is isolated.&lt;/p&gt;
+&lt;p&gt;We know platforms such as Modrinth to be unaffected.&lt;/p&gt;
+&lt;p&gt;It has been found that the information this virus steals is highly likely related to microsoft credentials and browser saved passwords. &lt;strong&gt;RESET ALL OF YOUR PASSWORDS&lt;/strong&gt; after you have removed the virus&lt;/p&gt;
+&lt;h3 id=&quot;distribution&quot; tabindex=&quot;-1&quot;&gt;Distribution &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#distribution&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Some modpacks have had updates published for them without the knowledge of the authors, adding a dependency on malicious mods. These updates were archived immediately after uploading, meaning they &lt;em&gt;do not show on the web UI, only via the API.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We cannot tell if the malicious mods were always malicious, or if they got edited. They have upload dates multiple weeks in the past. A CDN compromise or cache poisoning is not out of the question due to Curse&#39;s usage of the extremely outdated and insecure MD5 to verify downloads.&lt;/p&gt;
+&lt;h2 id=&quot;technical-info&quot; tabindex=&quot;-1&quot;&gt;Technical info &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#technical-info&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Please find up to date technical information on the fracturiser github - &lt;a href=&quot;https://github.com/fractureiser-investigation/fractureiser&quot;&gt;https://github.com/fractureiser-investigation/fractureiser&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;infobox top&quot;&gt;
+@orowith2os says:
+&lt;p&gt;&lt;strong&gt;Note: I don&#39;t know Java, this is just me making sense of what I see as best I can.&lt;/strong&gt; Others will most likely be able to build on top of this information and explain it in more detail.&lt;/p&gt;
+&lt;p&gt;Taking a quick look over the decompiled source code, it will indeed fail to function inside of the default PrismLauncher Flatpak sandbox; the current malware hardcodes the user&#39;s &lt;code&gt;~/.config/&lt;/code&gt; directory. The creation of files inside of the Flatpak sandbox, if the app does not have access to that real path, will result in it being written to a tmpfs that gets wiped on a sandbox restart. systemd is also not available inside of the Flatpak sandbox, so executing that command will fail. The malware seems to not attempt to work around these limitations, and assumes it is running unsandboxed.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;infobox top&quot;&gt;
+@getchoo and @Scrumplex says:
+&lt;p&gt;**Note: When running Prism Launcher at a user level (i.e., not as root), the services installed by stage 1 of the malware will only be made at a user level - however, due to an invalid &lt;code&gt;WantedBy&lt;/code&gt; field these will not work.&lt;/p&gt;
+&lt;p&gt;This means most Linux users may be unaffected by this, but as the files are still there and could pose a threat, it is still recommended to manually check for the files or the run the script to delete them from your system.&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;references&quot; tabindex=&quot;-1&quot;&gt;References &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#references&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/fractureiser-investigation/fractureiser&quot;&gt;https://github.com/fractureiser-investigation/fractureiser&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;luna-pixel-studios&quot; tabindex=&quot;-1&quot;&gt;Luna Pixel Studios &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#luna-pixel-studios&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;infobox top&quot;&gt;
+ This is an archive of statements by Luna Pixel Studios. Information may or may not be current, and Curseforge should be safe to use now.
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;DO NOT UPDATE MODS OR MODPACKS ON CURSEFORGE.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Several new files have been uploaded to projects by Luna Pixel Studios, including Sky Villages, When Dungeons Arise, and Better MC. These may or may not include malicious files. We are not responsible for this, and currently doing everything we can to remove these files.&lt;/p&gt;
+&lt;p&gt;This could be due to a CurseForge bug or someone with access to the Luna Pixel Studios account, or even CurseForge itself.&lt;/p&gt;
+&lt;p&gt;Currently, it is best to avoid downloading files off CurseForge until this is resolved. I will let you all know when this is resolved.&lt;/p&gt;
+&lt;p&gt;Thank you.&lt;/p&gt;
+&lt;p&gt;To clear up some questions:&lt;/p&gt;
+&lt;p&gt;Any launcher that uses CurseForge API is affected, but you are safe as long as you aren&#39;t downloading these files.&lt;/p&gt;
+&lt;p&gt;Nothing will auto-update unless you specifically told a launcher to do so.&lt;/p&gt;
+&lt;p&gt;These files are not confirmed to be malicious, but we still recommend doing an antivirus scan using Windows Defender.&lt;/p&gt;
+&lt;p&gt;Summary:&lt;/p&gt;
+&lt;p&gt;As of a couple hours ago, tens of mods &amp;amp; modpacks, mostly on 1.16.5, 1.18.2 and 1.19.2 have been updated to include malicious files. These projects include When Dungeons Arise, Sky Villages, and the Better MC modpack series. The CurseForge profile of these accounts show someone logging into them directly.&lt;/p&gt;
+&lt;p&gt;It is very likely that someone has access to several large CurseForge profiles and have found a way of bypassing 2FA to log into them.&lt;/p&gt;
+&lt;p&gt;You can see here that the Fabulously Optimized team was also affected: &lt;a href=&quot;https://cdn.discordapp.com/attachments/790275974503202857/1115801834746023946/image.png&quot;&gt;https://cdn.discordapp.com/attachments/790275974503202857/1115801834746023946/image.png&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;One of the malicious mods, DungeonsX, shows this code when decompiled: &lt;a href=&quot;https://cdn.discordapp.com/attachments/790275974503202857/1115801511411335228/image.png&quot;&gt;https://cdn.discordapp.com/attachments/790275974503202857/1115801511411335228/image.png&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The main payload being sent from this code can be viewed here: &lt;a href=&quot;https://pastebin.com/k2ZQKbEz&quot;&gt;https://pastebin.com/k2ZQKbEz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The DungeonsX mod downloads a jar file and loads it into minecraft, executes a function that downloads the program again, and saves it as a self running file. This mod has been added to all of Luna Pixel Studio&#39;s modpacks, and the files were immediately archived by the bad actor. It can be assumed that these files will become available again later, exposing hundreds of thousands of people to malware.&lt;/p&gt;
+&lt;p&gt;This code allows the mod to be used as a botnet and leave a backdoor on devices: &lt;a href=&quot;https://chorb.is-from.space/DiscordPTB_gzDJsWklzc.png&quot;&gt;https://chorb.is-from.space/DiscordPTB_gzDJsWklzc.png&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The code being executed mainly targets Linux users, likely with the intent of infecting servers. This will still affect people on Windows.&lt;/p&gt;
+&lt;p&gt;The only file from this incident which is not already archived is &lt;a href=&quot;https://www.curseforge.com/minecraft/mc-mods/skyblock-core/files/4570565&quot;&gt;https://www.curseforge.com/minecraft/mc-mods/skyblock-core/files/4570565&lt;/a&gt;.&lt;br /&gt;
+This file was archived, but gained 10 downloads in that time, implying it&#39;s being shared on other platforms: &lt;a href=&quot;https://cdn.discordapp.com/attachments/856652644113580072/1115811476591095908/image.png&quot;&gt;https://cdn.discordapp.com/attachments/856652644113580072/1115811476591095908/image.png&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;it-is-recommended-to-hold-off-on-updating-any-mods-or-modpacks-until-this-is-resolved.&quot; tabindex=&quot;-1&quot;&gt;It is recommended to hold off on updating any mods or modpacks until this is resolved. &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#it-is-recommended-to-hold-off-on-updating-any-mods-or-modpacks-until-this-is-resolved.&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;the-iris-project&quot; tabindex=&quot;-1&quot;&gt;The Iris Project &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/cf-compromised-alert/#the-iris-project&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We have reason to believe many accounts on CurseForge have been hacked and are uploading malicious files containing bot-nets. Luna Pixel Studios, the owner of many big modpacks, is one of the affected accounts.&lt;br /&gt;
+The situation is being actively looked into.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>[SECURITY UPDATE] Prism Launcher Release 6.3, now available</title>
+		<link href="https://catgang42.github.io/v1/news/release-6.3/"/>
+		<updated>2023-02-03T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/release-6.3/</id>
+		<content type="html">&lt;p&gt;Update: If you are on a version before 6.2, you should upgrade to this release to avoid a security bug regarding &lt;code&gt;.mrpack&lt;/code&gt; modpack imports. You can read more about this in &lt;a href=&quot;https://quiltmc.org/en/blog/2023-02-04-five-installer-vulnerabilities/&quot;&gt;this blog post from QuiltMC&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Hello!&lt;/p&gt;
+&lt;p&gt;Uh, wasn&#39;t there a release today already? Well yes there was. It&#39;s just that the last update added a new security check for instance components, which sadly made Prism Launcher think that Fabric and Quilt are invalid.&lt;br /&gt;
+Note that this issue won&#39;t cause permanent damage, as that check is done on runtime and is purely for informational purposes.&lt;/p&gt;
+&lt;p&gt;Make sure to read the &lt;a href=&quot;https://catgang42.github.io/v1/news/release-6.2/&quot;&gt;previous changelog here&lt;/a&gt; to see the other changes as well!&lt;/p&gt;
+&lt;h2 id=&quot;changelog&quot; tabindex=&quot;-1&quot;&gt;Changelog &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-6.3/#changelog&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;fixed&quot; tabindex=&quot;-1&quot;&gt;Fixed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-6.3/#fixed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix regex pattern for component UIDs by &lt;a href=&quot;https://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/815&quot;&gt;#815&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Full Changelog: &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/compare/6.2...6.3&quot;&gt;https://github.com/PrismLauncher/PrismLauncher/compare/6.2...6.3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&quot;https://catgang42.github.io/v1/download/&quot;&gt;grab the latest download here&lt;/a&gt; for your respective platform.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Prism Launcher Release 6.2, now available</title>
+		<link href="https://catgang42.github.io/v1/news/release-6.2/"/>
+		<updated>2023-02-03T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/release-6.2/</id>
+		<content type="html">&lt;p&gt;Hello!&lt;/p&gt;
+&lt;p&gt;This is a small update that fixes some issues, most notably a nasty issue when importing .mrpack file.&lt;br /&gt;
+Thanks to all contributors!&lt;/p&gt;
+&lt;h2 id=&quot;changelog&quot; tabindex=&quot;-1&quot;&gt;Changelog &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-6.2/#changelog&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;added&quot; tabindex=&quot;-1&quot;&gt;Added &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-6.2/#added&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Make use of logging categories for authentication data logging by &lt;a href=&quot;https://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/684&quot;&gt;#684&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;changed&quot; tabindex=&quot;-1&quot;&gt;Changed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-6.2/#changed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Detect jars from within build folder for development builds by &lt;a href=&quot;https://github.com/Ryex&quot;&gt;@Ryex&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/781&quot;&gt;#781&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Improve the reliability of the Task&#39;s stack overflow test by &lt;a href=&quot;https://github.com/flowln&quot;&gt;@flowln&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/804&quot;&gt;#804&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Correctly parse metadata from some misbehaving Forge mods by &lt;a href=&quot;https://github.com/flowln&quot;&gt;@flowln&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/743&quot;&gt;#743&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Remove commit hash from builds where git wasn&#39;t installed at build time by &lt;a href=&quot;https://github.com/getchoo&quot;&gt;@getchoo&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/666&quot;&gt;#666&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Skip some HTML in markdown rendering by &lt;a href=&quot;https://github.com/redstrate&quot;&gt;@redstrate&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/713&quot;&gt;#713&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Update application metadata by &lt;a href=&quot;https://github.com/AshtakaOOf&quot;&gt;@AshtakaOOf&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/680&quot;&gt;#680&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Update copyright notice by &lt;a href=&quot;https://github.com/RaptaG&quot;&gt;@RaptaG&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/746&quot;&gt;#746&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Use Qt logging facilities instead of our own by &lt;a href=&quot;https://github.com/flowln&quot;&gt;@flowln&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/665&quot;&gt;#665&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Windows] Let Qt handle dark mode titlebar by &lt;a href=&quot;https://github.com/TheLastRar&quot;&gt;@TheLastRar&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/726&quot;&gt;#726&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Windows] Update MSVC builds to Qt 6.4.2 by &lt;a href=&quot;https://github.com/DioEgizio&quot;&gt;@DioEgizio&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/716&quot;&gt;#716&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot; tabindex=&quot;-1&quot;&gt;Fixed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-6.2/#fixed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Better check file paths in .mrpack import and json components by &lt;a href=&quot;https://github.com/flowln&quot;&gt;@flowln&lt;/a&gt; and &lt;a href=&quot;https://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/810&quot;&gt;#810&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix crashes when running a lot of concurrent tasks by &lt;a href=&quot;https://github.com/flowln&quot;&gt;@flowln&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/758&quot;&gt;#758&lt;/a&gt; &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/784&quot;&gt;#784&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix importing 1.16+ Forge Technic Launcher packs by &lt;a href=&quot;https://github.com/byquanton&quot;&gt;@byquanton&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/710&quot;&gt;#710&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Improve handing of ZLib submodule by &lt;a href=&quot;https://github.com/TheLastRar&quot;&gt;@TheLastRar&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/772&quot;&gt;#772&lt;/a&gt; &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/779&quot;&gt;#779&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Windows] Fix random ResourceFolderModel test failures on some Windows builds by &lt;a href=&quot;https://github.com/flowln&quot;&gt;@flowln&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/731&quot;&gt;#731&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Full Changelog: &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/compare/6.1...6.2&quot;&gt;https://github.com/PrismLauncher/PrismLauncher/compare/6.1...6.2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&quot;https://catgang42.github.io/v1/download/&quot;&gt;grab the latest download here&lt;/a&gt; for your respective platform.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Prism Launcher Release 6.1, now available</title>
+		<link href="https://catgang42.github.io/v1/news/release-6.1/"/>
+		<updated>2022-12-19T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/release-6.1/</id>
+		<content type="html">&lt;p&gt;Hello!&lt;/p&gt;
+&lt;p&gt;This is a small update that fixes some issues, most of which were introduced by our previous 6.0 release.&lt;br /&gt;
+Thanks to all contributors!&lt;/p&gt;
+&lt;h2 id=&quot;changelog&quot; tabindex=&quot;-1&quot;&gt;Changelog &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-6.1/#changelog&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;changed&quot; tabindex=&quot;-1&quot;&gt;Changed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-6.1/#changed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Move cat to the bottom right by &lt;a href=&quot;https://github.com/DioEgizio&quot;&gt;@DioEgizio&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/612&quot;&gt;#612&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Only show scrollbars when needed by &lt;a href=&quot;https://github.com/leo78913&quot;&gt;@leo78913&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/630&quot;&gt;#630&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Linux] Update Nix packaging by &lt;a href=&quot;https://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/647&quot;&gt;#647&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Windows] Improve MSVC build flags by &lt;a href=&quot;https://github.com/getchoo&quot;&gt;@getchoo&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/631&quot;&gt;#631&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot; tabindex=&quot;-1&quot;&gt;Fixed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-6.1/#fixed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Avoid deadlock when there are a lot of resource packs in an instance by &lt;a href=&quot;https://github.com/flowln&quot;&gt;@flowln&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/628&quot;&gt;#628&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Correctly set component versions in Modrinth pack updating by &lt;a href=&quot;https://github.com/flowln&quot;&gt;@flowln&lt;/a&gt; and &lt;a href=&quot;https://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/636&quot;&gt;#636&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix crash when changing styles by &lt;a href=&quot;https://github.com/TheLastRar&quot;&gt;@TheLastRar&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/600&quot;&gt;#600&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix importing modpacks using ZIP files by &lt;a href=&quot;https://github.com/flowln&quot;&gt;@flowln&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/607&quot;&gt;#607&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix possible crash in mod and modpack downloaders with images by &lt;a href=&quot;https://github.com/flowln&quot;&gt;@flowln&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/605&quot;&gt;#605&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix wordings in modpack updater by &lt;a href=&quot;https://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/601&quot;&gt;#601&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix warning about QMap by &lt;a href=&quot;https://github.com/Edgars-Cirulis&quot;&gt;@Edgars-Cirulis&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/625&quot;&gt;#625&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Linux] Fix crash when using Qt GTK2 style by &lt;a href=&quot;https://github.com/flowln&quot;&gt;@flowln&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/604&quot;&gt;#604&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Windows] Fix automated WinGet releases by &lt;a href=&quot;https://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/593&quot;&gt;#593&lt;/a&gt; &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/649&quot;&gt;#649&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;removed&quot; tabindex=&quot;-1&quot;&gt;Removed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-6.1/#removed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Remove unused DLLs/dylibs from builds by &lt;a href=&quot;https://github.com/DioEgizio&quot;&gt;@DioEgizio&lt;/a&gt; in &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/pull/642&quot;&gt;#642&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Full Changelog: &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/compare/6.0...6.1&quot;&gt;https://github.com/PrismLauncher/PrismLauncher/compare/6.0...6.1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&quot;https://catgang42.github.io/v1/download/&quot;&gt;grab the latest download here&lt;/a&gt; for your respective platform.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Prism Launcher Release 6.0, now available</title>
+		<link href="https://catgang42.github.io/v1/news/release-6.0/"/>
+		<updated>2022-12-12T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/release-6.0/</id>
+		<content type="html">&lt;p&gt;Hello!&lt;/p&gt;
+&lt;p&gt;This new release brings a lot of new features and improvements to the launcher. Some highlights include a modpack update page, a migration dialog for migrating from other MultiMC-based launchers, an improved blocked mods workaround on CurseForge, redesigned instance icons, integrated shortcut creation, 3 new icon packs including Flat (White), Breeze Dark and Breeze Light and more! This release also includes a few bug fixes of course.&lt;br /&gt;
+Thanks to all contributors, who have worked on this release!&lt;/p&gt;
+&lt;h2 id=&quot;changelog&quot; tabindex=&quot;-1&quot;&gt;Changelog &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-6.0/#changelog&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;added&quot; tabindex=&quot;-1&quot;&gt;Added &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-6.0/#added&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Add agents button to instance settings by &lt;a href=&quot;http://github.com/TheKodeToad&quot;&gt;@TheKodeToad&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/423&quot;&gt;#423&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add breeze icons by &lt;a href=&quot;http://github.com/TayouVR&quot;&gt;@TayouVR&lt;/a&gt; and &lt;a href=&quot;http://github.com/DioEgizio&quot;&gt;@DioEgizio&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/487&quot;&gt;#487&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/572&quot;&gt;#572&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/584&quot;&gt;#584&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add shortcut creation button by &lt;a href=&quot;http://github.com/Leo40Git&quot;&gt;@Leo40Git&lt;/a&gt;, &lt;a href=&quot;http://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; and &lt;a href=&quot;http://github.com/DioEgizio&quot;&gt;@DioEgizio&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/227&quot;&gt;#227&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/521&quot;&gt;#521&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/565&quot;&gt;#565&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/568&quot;&gt;#568&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add new cats by &lt;a href=&quot;http://github.com/santiagocezar&quot;&gt;@santiagocezar&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/372&quot;&gt;#372&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add an option to lock the toolbars by &lt;a href=&quot;http://github.com/leo78913&quot;&gt;@leo78913&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/383&quot;&gt;#383&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add commit hash to &lt;code&gt;--version&lt;/code&gt; by &lt;a href=&quot;http://github.com/FayneAldan&quot;&gt;@FayneAldan&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/431&quot;&gt;#431&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add flat white icons by &lt;a href=&quot;http://github.com/he3als&quot;&gt;@he3als&lt;/a&gt;, &lt;a href=&quot;http://github.com/Protrikk&quot;&gt;@Protrikk&lt;/a&gt; and &lt;a href=&quot;http://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/65&quot;&gt;#65&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/506&quot;&gt;#506&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add icons to the instance context menu and toolbar by &lt;a href=&quot;http://github.com/leo78913&quot;&gt;@leo78913&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/187&quot;&gt;#187&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/267&quot;&gt;#267&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add migration dialog by &lt;a href=&quot;http://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/243&quot;&gt;#243&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/498&quot;&gt;#498&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add modpack update page in instance settings by &lt;a href=&quot;http://github.com/flowln&quot;&gt;@flowln&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/32&quot;&gt;#32&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add more options to copy instance dialog by &lt;a href=&quot;http://github.com/marcelohdez&quot;&gt;@marcelohdez&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/242&quot;&gt;#242&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add missing icons to the legacy icon theme by &lt;a href=&quot;http://github.com/leo78913&quot;&gt;@leo78913&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/412&quot;&gt;#412&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add new default instance icons by &lt;a href=&quot;http://github.com/santiagocezar&quot;&gt;@santiagocezar&lt;/a&gt; &lt;a href=&quot;http://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; and &lt;a href=&quot;http://github.com/DioEgizio&quot;&gt;@DioEgizio&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/238&quot;&gt;#238&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/556&quot;&gt;#556&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add proper server icon by &lt;a href=&quot;http://github.com/DioEgizio&quot;&gt;@DioEgizio&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/546&quot;&gt;#546&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add smart resource pack parsing for dropping/opening files with Prism Launcher by &lt;a href=&quot;http://github.com/ryanccn&quot;&gt;@ryanccn&lt;/a&gt;, &lt;a href=&quot;http://github.com/flowln&quot;&gt;@flowln&lt;/a&gt; and &lt;a href=&quot;http://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/481&quot;&gt;#481&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add spooky kitty for halloween by &lt;a href=&quot;http://github.com/leozamboni&quot;&gt;@leozamboni&lt;/a&gt;, &lt;a href=&quot;http://github.com/AshtakaOOf&quot;&gt;@AshtakaOOf&lt;/a&gt; and &lt;a href=&quot;http://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/396&quot;&gt;#396&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/405&quot;&gt;#405&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add support for multiple custom themes by &lt;a href=&quot;http://github.com/TayouVR&quot;&gt;@TayouVR&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/149&quot;&gt;#149&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add theme switcher to menu bar by &lt;a href=&quot;http://github.com/RedsonBr140&quot;&gt;@RedsonBr140&lt;/a&gt; and &lt;a href=&quot;http://github.com/leo78913&quot;&gt;@leo78913&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/454&quot;&gt;#454&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add Windows on ARM builds by &lt;a href=&quot;http://github.com/DioEgizio&quot;&gt;@DioEgizio&lt;/a&gt; and &lt;a href=&quot;http://github.com/TheLastRar&quot;&gt;@TheLastRar&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/524&quot;&gt;#524&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Allow Prism to open an instance&#39;s window from command line by &lt;a href=&quot;http://github.com/Hibiii&quot;&gt;@Hibiii&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/211&quot;&gt;#211&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Allow hiding buttons in instance pages by &lt;a href=&quot;http://github.com/flowln&quot;&gt;@flowln&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/486&quot;&gt;#486&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Allow &amp;quot;Open with&amp;quot; for .zip/.mrpack files by &lt;a href=&quot;http://github.com/ryanccn&quot;&gt;@ryanccn&lt;/a&gt;, &lt;a href=&quot;http://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; and &lt;a href=&quot;http://github.com/Ryex&quot;&gt;@Ryex&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/229&quot;&gt;#229&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/266&quot;&gt;#266&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Handle links to other mods inside the mod browser by &lt;a href=&quot;http://github.com/TheKodeToad&quot;&gt;@TheKodeToad&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/367&quot;&gt;#367&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Linux] Add automated Flatpak builds for nightly builds by &lt;a href=&quot;http://github.com/DioEgizio&quot;&gt;@DioEgizio&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/456&quot;&gt;#456&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Linux] Add Nix build and Cachix bucket by &lt;a href=&quot;http://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/493&quot;&gt;#493&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Linux] Add support for Snap builds by &lt;a href=&quot;http://github.com/piperswe&quot;&gt;@piperswe&lt;/a&gt; and &lt;a href=&quot;http://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/294&quot;&gt;#294&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[macOS] Add button to add Prism Launcher to PATH by &lt;a href=&quot;http://github.com/ryanccn&quot;&gt;@ryanccn&lt;/a&gt; and &lt;a href=&quot;http://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/112&quot;&gt;#112&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Windows] Add builds using MSVC by &lt;a href=&quot;http://github.com/TheLastRar&quot;&gt;@TheLastRar&lt;/a&gt; and &lt;a href=&quot;http://github.com/DioEgizio&quot;&gt;@DioEgizio&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/366&quot;&gt;#366&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/411&quot;&gt;#411&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/448&quot;&gt;#448&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/464&quot;&gt;#464&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/508&quot;&gt;#508&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/514&quot;&gt;#514&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/527&quot;&gt;#527&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;changed&quot; tabindex=&quot;-1&quot;&gt;Changed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-6.0/#changed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Correct wording on libraries download task by &lt;a href=&quot;http://github.com/unascribed&quot;&gt;@unascribed&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/587&quot;&gt;#587&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Choose default maximum memory allocation based on system memory by &lt;a href=&quot;http://github.com/txtsd&quot;&gt;@txtsd&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/392&quot;&gt;#392&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Improve Blocked Mods Dialog and detect manually downloaded mods automatically by &lt;a href=&quot;http://github.com/Ryex&quot;&gt;@Ryex&lt;/a&gt; and &lt;a href=&quot;http://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/304&quot;&gt;#304&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/439&quot;&gt;#439&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/511&quot;&gt;#511&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/557&quot;&gt;#557&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/571&quot;&gt;#571&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/575&quot;&gt;#575&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Improve CurseForge modpack browser by &lt;a href=&quot;http://github.com/forkiesassds&quot;&gt;@forkiesassds&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/215&quot;&gt;#215&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Major refactor to Java launcher library by &lt;a href=&quot;http://github.com/TheKodeToad&quot;&gt;@TheKodeToad&lt;/a&gt; and &lt;a href=&quot;http://github.com/solonovamax&quot;&gt;@solonovamax&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/291&quot;&gt;#291&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Make resource buttons work when instance is running by &lt;a href=&quot;http://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; and &lt;a href=&quot;http://github.com/flowln&quot;&gt;@flowln&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/528&quot;&gt;#528&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Update tomlplusplus by &lt;a href=&quot;http://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/459&quot;&gt;#459&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Validate maximum memory allocation by &lt;a href=&quot;http://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/436&quot;&gt;#436&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Warn before trashing instances by &lt;a href=&quot;http://github.com/ryanccn&quot;&gt;@ryanccn&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/541&quot;&gt;#541&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Linux] Improve detection of MangoHud by &lt;a href=&quot;http://github.com/Jan200101&quot;&gt;@Jan200101&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/569&quot;&gt;#569&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Linux] Update Flake to match Nixpkgs by &lt;a href=&quot;http://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/492&quot;&gt;#492&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot; tabindex=&quot;-1&quot;&gt;Fixed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-6.0/#fixed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix crash when copying instances by &lt;a href=&quot;http://github.com/flowln&quot;&gt;@flowln&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/547&quot;&gt;#547&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix CurseForge instance import issues by &lt;a href=&quot;http://github.com/flowln&quot;&gt;@flowln&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/538&quot;&gt;#538&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix infinite loop when parsing big resource pack images by &lt;a href=&quot;http://github.com/flowln&quot;&gt;@flowln&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/461&quot;&gt;#461&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix menubar issues by &lt;a href=&quot;http://github.com/leo78913&quot;&gt;@leo78913&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/455&quot;&gt;#455&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix minutes unit in play time by &lt;a href=&quot;http://github.com/edgarogh&quot;&gt;@edgarogh&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/560&quot;&gt;#560&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix display names of more languages by &lt;a href=&quot;http://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; and &lt;a href=&quot;http://github.com/jopejoe1&quot;&gt;@jopejoe1&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/474&quot;&gt;#474&lt;/a&gt; &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/483&quot;&gt;#483&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix customizing components with custom metadata by &lt;a href=&quot;http://github.com/Scrumplex&quot;&gt;@Scrumplex&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/467&quot;&gt;#467&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;removed&quot; tabindex=&quot;-1&quot;&gt;Removed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-6.0/#removed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Remove leftover TODOs in source code by &lt;a href=&quot;http://github.com/DioEgizio&quot;&gt;@DioEgizio&lt;/a&gt; in &lt;a href=&quot;http://github.com/PrismLauncher/PrismLauncher/pull/585&quot;&gt;#585&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Full Changelog: &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/compare/5.2...6.0&quot;&gt;https://github.com/PrismLauncher/PrismLauncher/compare/5.2...6.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&quot;https://catgang42.github.io/v1/download/&quot;&gt;grab the latest download here&lt;/a&gt; for your respective platform.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Prism Launcher Release 5.2, now available</title>
+		<link href="https://catgang42.github.io/v1/news/release-5.2/"/>
+		<updated>2022-11-15T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/release-5.2/</id>
+		<content type="html">&lt;p&gt;Hi there!&lt;/p&gt;
+&lt;p&gt;We are bringing you Prism Launcher 5.2!&lt;br /&gt;
+This release mostly includes some boring fixes. In any case we got some cool stuff scheduled for 6.0, so we hope to see you then!&lt;/p&gt;
+&lt;h2 id=&quot;changelog&quot; tabindex=&quot;-1&quot;&gt;Changelog &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-5.2/#changelog&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;changed&quot; tabindex=&quot;-1&quot;&gt;Changed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-5.2/#changed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Improve Java compatibility check warning by @ryanccn in #346&lt;/li&gt;
+&lt;li&gt;Remove the clear button in the instance settings page&#39;s filter edits by @flowln in #445&lt;/li&gt;
+&lt;li&gt;Save cache immediately when cleared by @Scrumplex in #406&lt;/li&gt;
+&lt;li&gt;Update credits again by @txtsd in #368&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot; tabindex=&quot;-1&quot;&gt;Fixed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-5.2/#fixed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix LTO compilation with &lt;code&gt;-Werror=odr&lt;/code&gt; flag by @flowln in #374&lt;/li&gt;
+&lt;li&gt;Fix logo name by @Scrumplex in #365&lt;/li&gt;
+&lt;li&gt;Fix warning in main function by @TayouVR in #415&lt;/li&gt;
+&lt;li&gt;[Windows] Fix ATLauncher browser crashing by @TheLastRar in #379&lt;/li&gt;
+&lt;li&gt;[Windows] Fix handling of non-latin characters in the mod updater by @flowln in #397&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Full Changelog: &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/compare/5.1...5.2&quot;&gt;https://github.com/PrismLauncher/PrismLauncher/compare/5.1...5.2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&quot;https://catgang42.github.io/v1/download/&quot;&gt;grab the latest download here&lt;/a&gt; for your respective platform.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Prism Launcher Release 5.1, now available</title>
+		<link href="https://catgang42.github.io/v1/news/release-5.1/"/>
+		<updated>2022-11-01T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/release-5.1/</id>
+		<content type="html">&lt;p&gt;Hi there!&lt;/p&gt;
+&lt;p&gt;We are bringing you Prism Launcher 5.1!&lt;br /&gt;
+This is our first patch release after the &lt;em&gt;thing&lt;/em&gt;.&lt;br /&gt;
+While we promised to bring you a blog article about the &lt;em&gt;thing&lt;/em&gt;, it seems like interest has died down and there are many good write-ups/explanations of the situation on the internet.&lt;br /&gt;
+We did update &lt;a href=&quot;https://catgang42.github.io/v1/wiki/overview/faq&quot;&gt;our FAQ&lt;/a&gt; though, so feel free to read that.&lt;/p&gt;
+&lt;p&gt;Now to the update.&lt;br /&gt;
+This mainly consists of bug fixes, nothing too exciting.&lt;br /&gt;
+Other than that Windows users might like our new 64-bit builds.&lt;br /&gt;
+We are already hyped for our next feature release though, which will bring some UI improvements.&lt;/p&gt;
+&lt;h2 id=&quot;changelog&quot; tabindex=&quot;-1&quot;&gt;Changelog &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-5.1/#changelog&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;added&quot; tabindex=&quot;-1&quot;&gt;Added &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-5.1/#added&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Add support for &lt;em&gt;certain&lt;/em&gt; languages by @Scrumplex in #354&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;changed&quot; tabindex=&quot;-1&quot;&gt;Changed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-5.1/#changed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Abort ATLauncher pack install if optional mods dialog is closed by @jamierocks in #224&lt;/li&gt;
+&lt;li&gt;Better dark theme selection contrast by @Protrikk in #274&lt;/li&gt;
+&lt;li&gt;Code quality improvements by @bensuperpc in #228&lt;/li&gt;
+&lt;li&gt;Change Profiles to Accounts for consistency by @FayneAldan in #353&lt;/li&gt;
+&lt;li&gt;Hide the ProgressDialog when failing and succeeding jobs by @flowln and @Scrumplex in #185 #225&lt;/li&gt;
+&lt;li&gt;Remove duplicate Java entries from Auto-detect by @AliceDTRH in #234&lt;/li&gt;
+&lt;li&gt;Renamed inappropriate instances of &amp;quot;PrismLauncher&amp;quot; to &amp;quot;Prism Launcher&amp;quot; by @ZombieNub in #148&lt;/li&gt;
+&lt;li&gt;Retry mod search job after aborting it by @flowln in #283&lt;/li&gt;
+&lt;li&gt;Update credits by @Scrumplex in #338&lt;/li&gt;
+&lt;li&gt;Update dependencies by @renovate[bot] in #197 #198&lt;/li&gt;
+&lt;li&gt;[Linux] Resolve filesystem conflicts with other MultiMC forks by @getchoo in #218&lt;/li&gt;
+&lt;li&gt;[Linux] Update metainfo by @TheEvilSkeleton in #100&lt;/li&gt;
+&lt;li&gt;[Linux] Update Nix derivation and instructions by @Minion3665 in #147&lt;/li&gt;
+&lt;li&gt;[Windows] Use Clang for building on Windows by @DioEgizio and @Scrumplex in #301 #322&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot; tabindex=&quot;-1&quot;&gt;Fixed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-5.1/#fixed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Avoid crash for unexpected Modrinth API response by @Scrumplex in #319&lt;/li&gt;
+&lt;li&gt;Fix ATLauncher pack installation by @jamierocks and @flowln in #233 #333&lt;/li&gt;
+&lt;li&gt;Fix contributors in About dialog by @Chrono-byte in #184&lt;/li&gt;
+&lt;li&gt;Fix hardcoded icon by @fn2006 in #342&lt;/li&gt;
+&lt;li&gt;Fix incorrect release titles by @MMK21Hub in #123&lt;/li&gt;
+&lt;li&gt;Fix mod list text clipping by @Sebbl0508 and @flowln in #39&lt;/li&gt;
+&lt;li&gt;Fix Modrinth download of blocked mods by @flowln in #329&lt;/li&gt;
+&lt;li&gt;Fix trailing space in APIPage by @Chrono-byte in #359&lt;/li&gt;
+&lt;li&gt;Fix Trash issues by @Scrumplex in #351&lt;/li&gt;
+&lt;li&gt;Fix typo by @Heath123 in #202&lt;/li&gt;
+&lt;li&gt;Fix version labels width by @jn64 in #240&lt;/li&gt;
+&lt;li&gt;Use static height for changelogs in the mod updater dialog by @flowln in #206&lt;/li&gt;
+&lt;li&gt;[macOS] Update application metadata by @tobimori in #231&lt;/li&gt;
+&lt;li&gt;[Windows] Fix crash on Windows 7/8.1 by @TheLastRar in #352&lt;/li&gt;
+&lt;li&gt;[Windows] Fix low-resolution icon by @Scrumplex in #173&lt;/li&gt;
+&lt;li&gt;[Windows] Fix x86_64 builds by @TheLastRar in #318&lt;/li&gt;
+&lt;li&gt;[Windows] Use &amp;quot;Prism Launcher&amp;quot; in installer by @Scrumplex in #281&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Full Changelog: &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/compare/5.0...5.1&quot;&gt;https://github.com/PrismLauncher/PrismLauncher/compare/5.0...5.1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&quot;https://catgang42.github.io/v1/download/&quot;&gt;grab the latest download here&lt;/a&gt; for your respective platform.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Prism Launcher Release 5.0, now available</title>
+		<link href="https://catgang42.github.io/v1/news/release-5.0/"/>
+		<updated>2022-10-19T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/release-5.0/</id>
+		<content type="html">&lt;p&gt;Hi there!&lt;/p&gt;
+&lt;p&gt;We are bringing you &lt;s&gt;PolyMC&lt;/s&gt; Prism Launcher 5.0!&lt;br /&gt;
+This major release not only comes with a new versioning system, but also a new name!&lt;br /&gt;
+But why you ask?&lt;br /&gt;
+Well, stuff happened and we are going to talk about everything that went down in a future blog post.&lt;br /&gt;
+For now, we want you to regain access to the best Minecraft launcher out there.&lt;/p&gt;
+&lt;p&gt;Let&#39;s go over the major changes since the last &lt;em&gt;PolyMC&lt;/em&gt; release back in September.&lt;br /&gt;
+Our macOS users on Apple M1/M2 processors as well as our Nintendo Switch Linuxers can rejoice, as you can finally run all Minecraft versions on those platforms without needing to make any changes on your end.&lt;br /&gt;
+We have to thank &lt;a href=&quot;https://github.com/r58playz/&quot;&gt;some&lt;/a&gt; &lt;a href=&quot;https://github.com/theofficialgman/&quot;&gt;community&lt;/a&gt; &lt;a href=&quot;https://github.com/ViRb3&quot;&gt;members&lt;/a&gt; as well as the folks over at &lt;a href=&quot;https://github.com/MinecraftMachina/&quot;&gt;MinecraftMachina&lt;/a&gt; for helping out with this feature!&lt;/p&gt;
+&lt;p&gt;Apart from support for ARM64/ARM32 processors we are also bringing you our new modpack updater!&lt;br /&gt;
+For now this feature is limited to Modrinth and CurseForge modpacks.&lt;br /&gt;
+The process is a bit convoluted currently, but we hope to make it easier in the future with some upcoming UI changes.&lt;br /&gt;
+Please make a backup of your files before updating a modpack, as it is still a very early feature and we don&#39;t want you to lose anything you might want to keep.&lt;/p&gt;
+&lt;p&gt;As always we need to thank EVERYONE who contributed to PolyMC as well as Prism Launcher.&lt;br /&gt;
+Special thanks to our community members &lt;a href=&quot;https://cmdplusv.neocities.org/&quot;&gt;Boba&lt;/a&gt;, &lt;a href=&quot;https://auti.one/&quot;&gt;Davi Rafael&lt;/a&gt;, @elyrodso, &lt;a href=&quot;https://www.fulmine.xyz/&quot;&gt;Fulmine&lt;/a&gt;, @gonsawa, Pankakes and @tobimori who collaborated on our gorgeous logo.&lt;/p&gt;
+&lt;h2 id=&quot;changelog&quot; tabindex=&quot;-1&quot;&gt;Changelog &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-5.0/#changelog&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;added&quot; tabindex=&quot;-1&quot;&gt;Added &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-5.0/#added&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Add arm64 and arm32 support by @Scrumplex, @r58playz and @theofficialgman in #26 PolyMC/PolyMC#1033&lt;/li&gt;
+&lt;li&gt;Add basic resource/texture pack parsing and fix issues by @flowln and @Scrumplex in PolyMC/PolyMC#1105 PolyMC/PolyMC#1108 PolyMC/PolyMC#1150 PolyMC/PolyMC#1154&lt;/li&gt;
+&lt;li&gt;Add clear metadata action by @Scrumplex in #29&lt;/li&gt;
+&lt;li&gt;Add early modpack updating system by @flowln and @timoreo22 in PolyMC/PolyMC#894&lt;/li&gt;
+&lt;li&gt;Add image support for mod/modpack pages by @flowln in #31&lt;/li&gt;
+&lt;li&gt;Add Launch Demo button by @jopejoe1 and @flowln in PolyMC/PolyMC#903&lt;/li&gt;
+&lt;li&gt;Add Open All button to blocked mods dialog by @kumquat-ir in PolyMC/PolyMC#919&lt;/li&gt;
+&lt;li&gt;Detect GameMode and MangoHud, disable if not present by @Scrumplex in PolyMC/PolyMC#1034&lt;/li&gt;
+&lt;li&gt;Enable dark titlebar on Windows 10 by @DavidoTek in PolyMC/PolyMC#982&lt;/li&gt;
+&lt;li&gt;Preliminary work towards ATLauncher pack updates by @jamierocks in PolyMC/PolyMC#897&lt;/li&gt;
+&lt;li&gt;Trash instances instead of deleting by @ryanccn in PolyMC/PolyMC#549&lt;/li&gt;
+&lt;li&gt;[Windows] Find Java installs from PATH by @TayouVR in PolyMC/PolyMC#1068&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;changed&quot; tabindex=&quot;-1&quot;&gt;Changed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-5.0/#changed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Allow double clicking to mark mods for download by @ErogigGit in PolyMC/PolyMC#1165&lt;/li&gt;
+&lt;li&gt;Allow modifying some resource while the instance is running by @CutestNekoAqua in #59&lt;/li&gt;
+&lt;li&gt;Improve language model by @Scrumplex in PolyMC/PolyMC#1164&lt;/li&gt;
+&lt;li&gt;Improve loading speed of the application by @flowln in PolyMC/PolyMC#878&lt;/li&gt;
+&lt;li&gt;Merge Launch Buttons by @TayouVR in PolyMC/PolyMC#1190&lt;/li&gt;
+&lt;li&gt;Support new Prism Launcher data path by @Scrumplex, @flowln and @FayneAldan in #25 #55 #82 #88&lt;/li&gt;
+&lt;li&gt;Reduce code duplication in tasks, fix some bugs and add some tests by @flowln in PolyMC/PolyMC#966&lt;/li&gt;
+&lt;li&gt;Refactor resource models by @flowln in PolyMC/PolyMC#1052 PolyMC/PolyMC#1094&lt;/li&gt;
+&lt;li&gt;Restructure Instance sidebar by @DioEgizio in #33&lt;/li&gt;
+&lt;li&gt;Restructure tests by @Scrumplex in PolyMC/PolyMC#1133&lt;/li&gt;
+&lt;li&gt;Switch to new API keys by @Scrumplex in #23&lt;/li&gt;
+&lt;li&gt;Switch to new branding by @Scrumplex, @NotNite in #13 #45 #54 #60 #92 #110&lt;/li&gt;
+&lt;li&gt;Switch to new versioning scheme by @Scrumplex in PolyMC/PolyMC#992&lt;/li&gt;
+&lt;li&gt;Switch to QCommandLineParser by @Scrumplex in PolyMC/PolyMC#1167&lt;/li&gt;
+&lt;li&gt;Switch to QSharedPointer by @flowln in PolyMC/PolyMC#1023&lt;/li&gt;
+&lt;li&gt;Switch to std::filesystem where possible by @flowln in PolyMC/PolyMC#1142&lt;/li&gt;
+&lt;li&gt;UI / UX improvements to the mod downloader by @flowln in PolyMC/PolyMC#939&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot; tabindex=&quot;-1&quot;&gt;Fixed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-5.0/#fixed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Add missing includes to fix Qt 6.4 build by @Scrumplex in PolyMC/PolyMC#1172&lt;/li&gt;
+&lt;li&gt;Allow adding MSA account on first start by @Scrumplex in PolyMC/PolyMC#1183&lt;/li&gt;
+&lt;li&gt;Allow starting rd- versions by @Scrumplex in PolyMC/PolyMC#1146&lt;/li&gt;
+&lt;li&gt;Fix aborting network jobs by @flowln in PolyMC/PolyMC#1123&lt;/li&gt;
+&lt;li&gt;Fix and improve FTB modpack installation by @flowln in #27&lt;/li&gt;
+&lt;li&gt;Fix hosted weblate translation website URL by @nightsnowlinouo in #68&lt;/li&gt;
+&lt;li&gt;Fix instance copy on Linux and macOS by @flowln in #25&lt;/li&gt;
+&lt;li&gt;Fix mod icon issues and change delegate for Modrinth Modpacks by @flowln in PolyMC/PolyMC#1163&lt;/li&gt;
+&lt;li&gt;Fix version filter in mod downloader by @flowln in PolyMC/PolyMC#997&lt;/li&gt;
+&lt;li&gt;Remove opted out versions from the download selector when using the &#39;Any&#39; filter by @flowln in PolyMC/PolyMC#1194&lt;/li&gt;
+&lt;li&gt;Update libnbtplusplus submodule&#39;s URL by @flowln and @Scrumplex in #48&lt;/li&gt;
+&lt;li&gt;Update licensing information by @DioEgizio in #36&lt;/li&gt;
+&lt;li&gt;Update login message box by @Ozynt in PolyMC/PolyMC#1175&lt;/li&gt;
+&lt;li&gt;Use system gamemode client if possible by @Scrumplex in PolyMC/PolyMC#1210&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;removed&quot; tabindex=&quot;-1&quot;&gt;Removed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-5.0/#removed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Remove outdated information about &amp;quot;upcoming&amp;quot; mod updater by @DioEgizio in PolyMC/PolyMC#1185&lt;/li&gt;
+&lt;li&gt;Remove unused libraries by @DioEgizio in PolyMC/PolyMC#1208&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Full Changelog: &lt;a href=&quot;https://github.com/PrismLauncher/PrismLauncher/compare/1.4.2...5.0&quot;&gt;https://github.com/PrismLauncher/PrismLauncher/compare/1.4.2...5.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&quot;https://catgang42.github.io/v1/download/&quot;&gt;grab the latest download here&lt;/a&gt; for your respective platform.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>PolyMC Update 1.4.2, now available</title>
+		<link href="https://catgang42.github.io/v1/news/release-1.4.2/"/>
+		<updated>2022-09-08T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/release-1.4.2/</id>
+		<content type="html">&lt;p&gt;It has been a while.&lt;br /&gt;
+With this wonderful new version you get many cool things, like bug fixes and also bug fixes!&lt;/p&gt;
+&lt;p&gt;If you were building PolyMC yourself, make sure your compiler supports C++17, as it is a requirement from now on.&lt;/p&gt;
+&lt;p&gt;Thanks to all contributors, who have worked on this release!&lt;/p&gt;
+&lt;h2 id=&quot;changelog&quot; tabindex=&quot;-1&quot;&gt;Changelog &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.4.2/#changelog&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;added&quot; tabindex=&quot;-1&quot;&gt;Added &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.4.2/#added&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[OpenBSD] Add root path detection by @Scrumplex in #1019&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;changed&quot; tabindex=&quot;-1&quot;&gt;Changed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.4.2/#changed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump to C++17 by @Scrumplex and @LennyMcLennington in #941&lt;/li&gt;
+&lt;li&gt;Hide &#39;More news...&#39; button if the news aren&#39;t loaded yet by @flowln in #1049&lt;/li&gt;
+&lt;li&gt;Make &#39;About&#39; dialog smaller by @DioEgizio in #1107&lt;/li&gt;
+&lt;li&gt;Make Coremods / Mods separation more clear by @Scrumplex in #1035&lt;/li&gt;
+&lt;li&gt;Update copyright notices by @DioEgizio in #1073&lt;/li&gt;
+&lt;li&gt;[macOS] Downgrade to Qt 6.3.0 by @DioEgizio in #1014&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot; tabindex=&quot;-1&quot;&gt;Fixed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.4.2/#fixed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Allow user to interrupt launch after 3 tries by @Scrumplex in #1018&lt;/li&gt;
+&lt;li&gt;Cleanup old mod metadata by @flowln in #1017 #1044&lt;/li&gt;
+&lt;li&gt;Disable &amp;quot;Check for Updates&amp;quot; while the game is running or if all mods are removed by @Gingeh in #1007&lt;/li&gt;
+&lt;li&gt;Fix crashes in mod updater by @flowln in #965&lt;/li&gt;
+&lt;li&gt;Fix errors when extracting some modpacks by @flowln in #1095&lt;/li&gt;
+&lt;li&gt;Fix major version filter in mod downloader by @flowln in #997 #1118&lt;/li&gt;
+&lt;li&gt;Fix some icon cache problems by @flowln in #920 #1080&lt;/li&gt;
+&lt;li&gt;Fix UTF-8 decoding in log by @magneticflux- in #968&lt;/li&gt;
+&lt;li&gt;Make world safety nag popup title text match the action by @budak7273 in #1039&lt;/li&gt;
+&lt;li&gt;Make URLs in the FTB Legacy browser clickable by @DioEgizio in #1087&lt;/li&gt;
+&lt;li&gt;[Linux] Implement workaround for Ubuntu 22.04 OpenSSL issues by @DioEgizio in #1006&lt;/li&gt;
+&lt;li&gt;[Linux] Update AppStream info by @DioEgizio in #1058&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href=&quot;https://github.com/PolyMC/PolyMC/compare/1.4.1...1.4.2&quot;&gt;https://github.com/PolyMC/PolyMC/compare/1.4.1...1.4.2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&quot;https://catgang42.github.io/v1/download&quot;&gt;grab the latest download here&lt;/a&gt; for your respective platform.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>PolyMC Update 1.4.1, now available</title>
+		<link href="https://catgang42.github.io/v1/news/release-1.4.1/"/>
+		<updated>2022-07-28T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/release-1.4.1/</id>
+		<content type="html">&lt;p&gt;We have noticed that some things from our recent 1.4.0 release weren&#39;t working quite well.&lt;br /&gt;
+This update should fix some of the issues you might have faced with 1.4.0.&lt;/p&gt;
+&lt;p&gt;Thanks to all contributors, who have worked on this release!&lt;/p&gt;
+&lt;h2 id=&quot;changelog&quot; tabindex=&quot;-1&quot;&gt;Changelog &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.4.1/#changelog&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;changed&quot; tabindex=&quot;-1&quot;&gt;Changed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.4.1/#changed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hide empty &amp;quot;Performance&amp;quot; settings on non-Linux builds by @flowln in #951&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot; tabindex=&quot;-1&quot;&gt;Fixed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.4.1/#fixed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix crash when JAR-mods are applied by @flowln in #956&lt;/li&gt;
+&lt;li&gt;Fix filter on resources pages (e.g. Mods page) by @flowln in #961&lt;/li&gt;
+&lt;li&gt;Fix variables in pre-launch/post-exit hooks by @Scrumplex in #952&lt;/li&gt;
+&lt;li&gt;Make adding multiple accounts possible again by @flowln in #974&lt;/li&gt;
+&lt;li&gt;Resolve CurseForge mods for FTB modpacks by @flowln and @Scrumplex in #699&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href=&quot;https://github.com/PolyMC/PolyMC/compare/1.4.0...1.4.1&quot;&gt;https://github.com/PolyMC/PolyMC/compare/1.4.0...1.4.1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&quot;https://catgang42.github.io/v1/download&quot;&gt;grab the latest download here&lt;/a&gt; for your respective platform.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>PolyMC Update 1.4.0, now available</title>
+		<link href="https://catgang42.github.io/v1/news/release-1.4.0/"/>
+		<updated>2022-07-23T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/release-1.4.0/</id>
+		<content type="html">&lt;p&gt;Whoa! There have been a few things since our last feature release almost two months ago!&lt;/p&gt;
+&lt;p&gt;Major new features include the new mod updater and Qt 6 support.&lt;br /&gt;
+Don&#39;t worry, Qt 5 will still be supported and packages using it will still be available for some time.&lt;/p&gt;
+&lt;p&gt;If you are a macOS user, you might be delighted to hear, that this will be the first version that ships with an updater!&lt;/p&gt;
+&lt;p&gt;As a Linux user, you should definitely take a look at the new &lt;code&gt;Performance&lt;/code&gt; tab in the settings.&lt;br /&gt;
+No longer should you need to deal with wrapper commands to enable &lt;a href=&quot;https://github.com/flightlessmango/MangoHud&quot;&gt;MangoHud&lt;/a&gt;, &lt;a href=&quot;https://github.com/FeralInteractive/gamemode&quot;&gt;GameMode&lt;/a&gt; or to utilize your dedicated GPU in a hybrid GPU setup.&lt;/p&gt;
+&lt;p&gt;Thanks to all contributors, who have worked on this release!&lt;/p&gt;
+&lt;h2 id=&quot;changelog&quot; tabindex=&quot;-1&quot;&gt;Changelog &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.4.0/#changelog&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;added&quot; tabindex=&quot;-1&quot;&gt;Added &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.4.0/#added&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Add concurrent tasks by @flowln in #786&lt;/li&gt;
+&lt;li&gt;Add more links to mod and modpack descriptions by @flowln and @DioEgizio in #634 #799&lt;/li&gt;
+&lt;li&gt;Add news reader in the launcher by @flowln in #845&lt;/li&gt;
+&lt;li&gt;Add on-disk mod metadata information by @flowln and @Scrumplex in #426 #714 #716 #759&lt;/li&gt;
+&lt;li&gt;Implement mod updater by @flowln in #588&lt;/li&gt;
+&lt;li&gt;Preliminary work for modpack updates by @jamierocks in #665&lt;/li&gt;
+&lt;li&gt;Qt 6 support by @Scrumplex and @DioEgizio in #575 #902 #911 #922 #936&lt;/li&gt;
+&lt;li&gt;[Linux] Add Performance settings (MangoHud, GameMode and PRIME) by @Jan200101 in #707&lt;/li&gt;
+&lt;li&gt;[Linux] Add more metadata to Nix package by @TheOPtimal in #930&lt;/li&gt;
+&lt;li&gt;[macOS] Implement updater using Sparkle by @kthchew and @Scrumplex in #479&lt;/li&gt;
+&lt;li&gt;[OpenBSD] Readd support for OpenBSD by @Technous285 in #694&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;changed&quot; tabindex=&quot;-1&quot;&gt;Changed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.4.0/#changed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Allow the cape to be changed without changing the skin by @Gingeh in #913&lt;/li&gt;
+&lt;li&gt;Cleanup Java code by @Scrumplex and @icelimetea in #778 #785 #800 #863&lt;/li&gt;
+&lt;li&gt;Hide channel from version for tagged commits by @Scrumplex in #810&lt;/li&gt;
+&lt;li&gt;Improve handling of environment variables by @Scrumplex in #893&lt;/li&gt;
+&lt;li&gt;Improve resolving of JARs by @Scrumplex in #794&lt;/li&gt;
+&lt;li&gt;Improve the account selection window by @Gingeh and @Scrumplex in #855 #870&lt;/li&gt;
+&lt;li&gt;Improve UX in the mod downloader by @flowln in #505&lt;/li&gt;
+&lt;li&gt;Improvements for Modrinth/CurseForge modpacks by @flowln in #839&lt;/li&gt;
+&lt;li&gt;Improvements around APIs page by @Scrumplex in #678&lt;/li&gt;
+&lt;li&gt;Improvements to Windows installer by @kthchew in #788 #797&lt;/li&gt;
+&lt;li&gt;Make version labels in About dialog selectable by @jn64 in #812&lt;/li&gt;
+&lt;li&gt;Make FTB Classic layout the same as other platforms by @jopejoe1 in #884&lt;/li&gt;
+&lt;li&gt;Refactor instance resources pages by @flowln and @Scrumplex in #652&lt;/li&gt;
+&lt;li&gt;Refactor tests by @Scrumplex and @DarkKirb in #784 #869&lt;/li&gt;
+&lt;li&gt;Replace old reference to &lt;a href=&quot;http://launchermeta.mojang.com/&quot;&gt;launchermeta.mojang.com&lt;/a&gt; by @Scrumplex in #830&lt;/li&gt;
+&lt;li&gt;Reword CurseForge warning by @DioEgizio in #834&lt;/li&gt;
+&lt;li&gt;Separate launch and kill instance actions by @kthchew in #826&lt;/li&gt;
+&lt;li&gt;Update license information by @DioEgizio in #905&lt;/li&gt;
+&lt;li&gt;[Linux] Cleanup flake.nix by @gytis-ivaskevicius in #881&lt;/li&gt;
+&lt;li&gt;[Linux] Rewrite polymc.6 in scdoc by @EliteTK in #847 #901&lt;/li&gt;
+&lt;li&gt;[macOS] Build on macOS 12 in CI by @DioEgizio in #787&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot; tabindex=&quot;-1&quot;&gt;Fixed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.4.0/#fixed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Always scale mod icons to the right size by @flowln in #818&lt;/li&gt;
+&lt;li&gt;Don&#39;t censor offline access token by @ivanpu in #864&lt;/li&gt;
+&lt;li&gt;Don&#39;t create unnecessary folders when extracting ZIPs by @flowln in #817&lt;/li&gt;
+&lt;li&gt;Fix broken output in mod list by @flowln in #947&lt;/li&gt;
+&lt;li&gt;Fix contrast of placeholder text with dark theme by @flowln in #929&lt;/li&gt;
+&lt;li&gt;Fix duplicate name in window title by @jn64 in #811&lt;/li&gt;
+&lt;li&gt;Fix hangs when aborting some tasks by @flowln in #831&lt;/li&gt;
+&lt;li&gt;Fix missing instance version in status bar by @kthchew in #860&lt;/li&gt;
+&lt;li&gt;Fix permanent mod-loaders for some modpacks by @Scrumplex in #880&lt;/li&gt;
+&lt;li&gt;Fix &amp;quot;Play Offline&amp;quot; not working when auth servers are partially offline by @Scrumplex in #877&lt;/li&gt;
+&lt;li&gt;Fix sorting for Modrinth resources by @DioEgizio in #837&lt;/li&gt;
+&lt;li&gt;Fix Technic instances using Forge by @Scrumplex in #890&lt;/li&gt;
+&lt;li&gt;Fix translations by @Scrumplex in #917 #938&lt;/li&gt;
+&lt;li&gt;Fix warnings reported by &lt;a href=&quot;http://lgtm.com/&quot;&gt;LGTM.com&lt;/a&gt; by @Scrumplex in #808&lt;/li&gt;
+&lt;li&gt;[Linux] Fix mods relying on &lt;code&gt;libstdc++&lt;/code&gt; on Nix by @virchau13 in #904 #934&lt;/li&gt;
+&lt;li&gt;[Linux] Use our fork of libnbtplusplus on Nix by @Scrumplex in #932&lt;/li&gt;
+&lt;li&gt;[macOS] Workaround Qt bug to fix menu bar separators by @kthchew in #827&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href=&quot;https://github.com/PolyMC/PolyMC/compare/1.3.2...1.4.0&quot;&gt;https://github.com/PolyMC/PolyMC/compare/1.3.2...1.4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&quot;https://catgang42.github.io/v1/download&quot;&gt;grab the latest download here&lt;/a&gt; for your respective platform.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>PolyMC Update 1.3.2, now available</title>
+		<link href="https://catgang42.github.io/v1/news/release-1.3.2/"/>
+		<updated>2022-06-12T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/release-1.3.2/</id>
+		<content type="html">&lt;p&gt;Yet again we have some fixes for you!&lt;/p&gt;
+&lt;h2 id=&quot;changelog&quot; tabindex=&quot;-1&quot;&gt;Changelog &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.3.2/#changelog&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;added&quot; tabindex=&quot;-1&quot;&gt;Added &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.3.2/#added&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Add support for Quilt modpacks on Technic by @kthchew in #685&lt;/li&gt;
+&lt;li&gt;[Linux] Added support for Nix 2.7 by @TheOPtimal in #286&lt;/li&gt;
+&lt;li&gt;[Windows] Add version information to the setup executable by @kthchew in #679&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;changed&quot; tabindex=&quot;-1&quot;&gt;Changed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.3.2/#changed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Change build flags by @Scrumplex in #764&lt;/li&gt;
+&lt;li&gt;Do not enforce fractional scaling by @DioEgizio in #718&lt;/li&gt;
+&lt;li&gt;Sort icons in icon-selector alphabetically by @MrMelon54 in #732&lt;/li&gt;
+&lt;li&gt;[Linux] Allow adding more JDKs to Nix package by @babbaj in #734&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot; tabindex=&quot;-1&quot;&gt;Fixed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.3.2/#fixed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Allow importing .mrpack files on non-latin languages by @flowln and @Scrumplex in #780&lt;/li&gt;
+&lt;li&gt;Always store type of instance to allow compatibility with MultiMC by @Scrumplex in #709 #783&lt;/li&gt;
+&lt;li&gt;Fix crash with very old Forge versions by @icelimetea in #720&lt;/li&gt;
+&lt;li&gt;Fix multiple issues when importing Modrinth packs by @flowln in #771&lt;/li&gt;
+&lt;li&gt;Fix website-url for Technic modpacks by @flowln in #770&lt;/li&gt;
+&lt;li&gt;Hide profile-section dialog if the user refused to add an account by @istudyatuni in #682&lt;/li&gt;
+&lt;li&gt;Update instance toolbar when instance state changes by @vancez in #773&lt;/li&gt;
+&lt;li&gt;[Linux] Add &lt;code&gt;mc&lt;/code&gt; keyword to .desktop file by @jn64 in #701&lt;/li&gt;
+&lt;li&gt;[Linux] Update Nix Flake lockfile by @muscaln in #762&lt;/li&gt;
+&lt;li&gt;[macOS] Fix lingering PolyMC icon in Dock by @ryanccn in #632&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;removed&quot; tabindex=&quot;-1&quot;&gt;Removed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.3.2/#removed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[OpenBSD] Drop support for OpenBSD by @glowiak in #692&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href=&quot;https://github.com/PolyMC/PolyMC/compare/1.3.1...1.3.2&quot;&gt;https://github.com/PolyMC/PolyMC/compare/1.3.1...1.3.2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&quot;https://catgang42.github.io/v1/download&quot;&gt;grab the latest download here&lt;/a&gt; for your respective platform.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>PolyMC Update 1.3.1, now available</title>
+		<link href="https://catgang42.github.io/v1/news/release-1.3.1/"/>
+		<updated>2022-05-29T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/release-1.3.1/</id>
+		<content type="html">&lt;p&gt;Hey, it&#39;s that time again!&lt;br /&gt;
+This time you only get some small tweaks and fixes.&lt;br /&gt;
+With this release downloading CurseForge packs should be a better experience, as now the launcher will tell you what mods could not be downloaded.&lt;br /&gt;
+Please make sure to download all those mods, otherwise you won&#39;t have the full modpack.&lt;/p&gt;
+&lt;h2 id=&quot;changelog&quot; tabindex=&quot;-1&quot;&gt;Changelog &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.3.1/#changelog&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;added&quot; tabindex=&quot;-1&quot;&gt;Added &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.3.1/#added&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Add code style configuration by @ryanccn in #623&lt;/li&gt;
+&lt;li&gt;Add modpack version in the name for FTB legacy packs by @Scrumplex in #672&lt;/li&gt;
+&lt;li&gt;[Windows] Add desktop shortcut in the installer by @kthchew in #629&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;changed&quot; tabindex=&quot;-1&quot;&gt;Changed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.3.1/#changed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Clarify T&amp;amp;C for API keys by @Scrumplex in #659&lt;/li&gt;
+&lt;li&gt;Improve download speed when using the CurseForge API by @timoreo22 in #611&lt;/li&gt;
+&lt;li&gt;Improve whitelisted hosts filtering code by @LennyMcLennington in #661&lt;/li&gt;
+&lt;li&gt;Make JVM arguments text-field multi-line by @ryanccn in #624&lt;/li&gt;
+&lt;li&gt;Remove CurseForge API workaround on modpacks by @Scrumplex in #645&lt;/li&gt;
+&lt;li&gt;Show metaserver URL instead of &lt;code&gt;(default)&lt;/code&gt; by @ryanccn in #642&lt;/li&gt;
+&lt;li&gt;Update Nix support by @muscaln in #653 and #675&lt;/li&gt;
+&lt;li&gt;Warn the user of non-whitelisted hosts in mrpacks by @flowln in #661&lt;/li&gt;
+&lt;li&gt;[macOS] Switch background of icon to white by @ryanccn in #625&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot; tabindex=&quot;-1&quot;&gt;Fixed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.3.1/#fixed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Correctly handle ATL packs when &lt;code&gt;mainClass&lt;/code&gt; has a &lt;code&gt;depends&lt;/code&gt; field by @jamierocks in #630&lt;/li&gt;
+&lt;li&gt;Fix crash when aborting instance import by @JJL772 in #657&lt;/li&gt;
+&lt;li&gt;Fix icon importing when using non-standard icon paths by @flowln in #650&lt;/li&gt;
+&lt;li&gt;Fix missing mnemonics in the API page by @Scrumplex in #651&lt;/li&gt;
+&lt;li&gt;Fix modpack&#39;s type inference when importing by @Scrumplex in #639 and #671&lt;/li&gt;
+&lt;li&gt;Fix search filters for Modrinth by @timoreo22 in #677&lt;/li&gt;
+&lt;li&gt;Properly fix CurseForge modpack installation by @timoreo22 in #611 and @Scrumplex in #674&lt;/li&gt;
+&lt;li&gt;Silence unimportant build warnings by @kthchew in #631&lt;/li&gt;
+&lt;li&gt;[Linux] Add missing image-format libraries for the AppImage by @DioEgizio in #618&lt;/li&gt;
+&lt;li&gt;[Linux] Fix image sizes in Flathub by @byquanton in #637&lt;/li&gt;
+&lt;li&gt;[Windows] Correctly set PolyMC&#39;s version for binaries by @Scrumplex in #669&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;removed&quot; tabindex=&quot;-1&quot;&gt;Removed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.3.1/#removed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[Windows] Remove explicit Vista support by @DioEgizio in #667&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href=&quot;https://github.com/PolyMC/PolyMC/compare/1.3.0...1.3.1&quot;&gt;https://github.com/PolyMC/PolyMC/compare/1.3.0...1.3.1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&quot;https://catgang42.github.io/v1/download&quot;&gt;grab the latest download here&lt;/a&gt; for your respective platform.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>PolyMC Update 1.3.0, now available</title>
+		<link href="https://catgang42.github.io/v1/news/release-1.3.0/"/>
+		<updated>2022-05-22T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/release-1.3.0/</id>
+		<content type="html">&lt;p&gt;Hey!&lt;br /&gt;
+It&#39;s update-time again. This time we bring you some highlights, like Modrinth modpack support, a Windows installer, more paste services and improvements around our ATLauncher support.&lt;br /&gt;
+There is also a breaking change affecting older platforms.&lt;br /&gt;
+We have bumped our Qt dependency requirement to version 5.12.&lt;br /&gt;
+If you user an older platform, you might still be able to run PolyMC through our existing distribution methods (AppImage, Flatpak on Linux).&lt;/p&gt;
+&lt;p&gt;Initially this release should have included a workaround for download issues with CurseForge mods and modpacks, but we were contacted by CurseForge to remove our workaround.&lt;/p&gt;
+&lt;h2 id=&quot;changelog&quot; tabindex=&quot;-1&quot;&gt;Changelog &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.3.0/#changelog&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;added&quot; tabindex=&quot;-1&quot;&gt;Added &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.3.0/#added&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Support ATLauncher share codes by @jamierocks in #408&lt;/li&gt;
+&lt;li&gt;Allow changing metadata-server settings by @dada513 in #425&lt;/li&gt;
+&lt;li&gt;Add PolyMC icon as instance icon by @ryanccn in #498&lt;/li&gt;
+&lt;li&gt;Add option to always hide Java setup wizard by @dada513 in #511&lt;/li&gt;
+&lt;li&gt;Add support for &lt;a href=&quot;http://paste.gg/&quot;&gt;paste.gg&lt;/a&gt;, hastebin and &lt;a href=&quot;http://mclo.gs/&quot;&gt;mclo.gs&lt;/a&gt; paste services by @LennyMcLennington in #554&lt;/li&gt;
+&lt;li&gt;Add instance overrides for miscellaneous settings by @kthchew in #560&lt;/li&gt;
+&lt;li&gt;Modrinth modpack support by @flowln and @Scrumplex in #565&lt;/li&gt;
+&lt;li&gt;Quilt mod metadata support by @Scrumplex in #567 and @DioEgizio in #590&lt;/li&gt;
+&lt;li&gt;Support Mojang&#39;s new split natives by @Scrumplex in #594&lt;/li&gt;
+&lt;li&gt;Allow changing CurseForge api key settings by @dada513 in #607&lt;/li&gt;
+&lt;li&gt;[macOS] Add Big Sur-style icon by @ryanccn in #495&lt;/li&gt;
+&lt;li&gt;[Windows] Add Windows installer by @kthchew in #576&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;changed&quot; tabindex=&quot;-1&quot;&gt;Changed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.3.0/#changed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump Qt requirement to 5.12 by @Scrumplex in #127&lt;/li&gt;
+&lt;li&gt;Refactor launcher code by @icelimetea in #486 #520&lt;/li&gt;
+&lt;li&gt;Refactor network code by @flowln in #500&lt;/li&gt;
+&lt;li&gt;Speedup automatic builds by @txtsd in #510 #614&lt;/li&gt;
+&lt;li&gt;Make profile selection menu scrollable by @kthchew in #546&lt;/li&gt;
+&lt;li&gt;Switch to new CurseForge API Key by @ZekeSmith in #557&lt;/li&gt;
+&lt;li&gt;Improve behavior when multiple mod loaders are in use by @Scrumplex in #597&lt;/li&gt;
+&lt;li&gt;Various improvements to ATLauncher support by @jamierocks in #605&lt;/li&gt;
+&lt;li&gt;Switch to a better CurseForge icon by @DioEgizio in #612&lt;/li&gt;
+&lt;li&gt;Improve compile parameters by @Scrumplex in #616 #620&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot; tabindex=&quot;-1&quot;&gt;Fixed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.3.0/#fixed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Always build iconfix as static library by @flowln in #477&lt;/li&gt;
+&lt;li&gt;Added and fixed mnemonics by @dschemp in #480 and @txtsd in #503&lt;/li&gt;
+&lt;li&gt;Fix selection of .zip files by @flowln in #528&lt;/li&gt;
+&lt;li&gt;Fix graphical issue when moving toolbars by @flowln in #529&lt;/li&gt;
+&lt;li&gt;Fix missing translations when switching languages by @kthchew in #539&lt;/li&gt;
+&lt;li&gt;Fix missing screenshots in screenshot manager by @kthchew in #540&lt;/li&gt;
+&lt;li&gt;Fix website link in CurseForge modpacks by @DioEgizio in #545&lt;/li&gt;
+&lt;li&gt;Hide temporary directory inside instances directory by @kthchew in #547&lt;/li&gt;
+&lt;li&gt;Fix icons not showing in some FTB modpacks by @flowln in #564&lt;/li&gt;
+&lt;li&gt;Fix toolbar disappearing in a certain circumstance by @LennyMcLennington in #577&lt;/li&gt;
+&lt;li&gt;Fix issue with &lt;a href=&quot;https://solder.io/&quot;&gt;Solder.cf Technic packs&lt;/a&gt; by @flowln in #592&lt;/li&gt;
+&lt;li&gt;[macOS] Fix Steam overlay on macOS by @kthchew in #568&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;removed&quot; tabindex=&quot;-1&quot;&gt;Removed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.3.0/#removed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Remove unneeded build files by @Scrumplex in #519&lt;/li&gt;
+&lt;li&gt;Remove references to legacy Minecraft accounts by @Ozynt in #531&lt;/li&gt;
+&lt;li&gt;Remove self-promotion from game client to reduce fingerprinting by @jamierocks in #606&lt;/li&gt;
+&lt;li&gt;[macOS] Remove old macOS migration code by @kthchew in #489&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href=&quot;https://github.com/PolyMC/PolyMC/compare/1.2.2...1.3.0&quot;&gt;https://github.com/PolyMC/PolyMC/compare/1.2.2...1.3.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&quot;https://catgang42.github.io/v1/download&quot;&gt;grab the latest download here&lt;/a&gt; for your respective platform.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>PolyMC Update 1.2.2, now available (CurseForge Hotfix)</title>
+		<link href="https://catgang42.github.io/v1/news/release-1.2.2/"/>
+		<updated>2022-05-08T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/release-1.2.2/</id>
+		<content type="html">&lt;p&gt;The old API we used for CurseForge will stop working soon.&lt;br /&gt;
+This update switches to the new CurseForge Core API to keep modpacks and mod downloads working.&lt;/p&gt;
+&lt;p&gt;Thanks to everyone who collaborated on this solution in our community channels.&lt;/p&gt;
+&lt;h2 id=&quot;changelog&quot; tabindex=&quot;-1&quot;&gt;Changelog &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.2.2/#changelog&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;fixed&quot; tabindex=&quot;-1&quot;&gt;Fixed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.2.2/#fixed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hide sensitive tokens from logs by @Scrumplex in #475&lt;/li&gt;
+&lt;li&gt;Implemented a workaround to allow Mojang logins by @TheCodex6824 in #482&lt;/li&gt;
+&lt;li&gt;Move to new CurseForge Core API by @ryanccn in #530&lt;/li&gt;
+&lt;li&gt;[Linux] Fix AppImage scaling issues by @DioEgizio in #492&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href=&quot;https://github.com/PolyMC/PolyMC/compare/1.2.1...1.2.2&quot;&gt;https://github.com/PolyMC/PolyMC/compare/1.2.1...1.2.2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&quot;https://catgang42.github.io/v1/download&quot;&gt;grab the latest download here&lt;/a&gt; for your respective platform.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>PolyMC Update 1.2.1, now available</title>
+		<link href="https://catgang42.github.io/v1/news/release-1.2.1/"/>
+		<updated>2022-04-20T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/release-1.2.1/</id>
+		<content type="html">&lt;p&gt;We have found some bugs in our last release on Sunday, which is why we are bringing you a truckload of bug fixes.&lt;br /&gt;
+Also check our friends&#39; launch of the Quilt Beta over at &lt;a href=&quot;https://quiltmc.org/&quot;&gt;quiltmc.org&lt;/a&gt;!&lt;/p&gt;
+&lt;h2 id=&quot;changelog&quot; tabindex=&quot;-1&quot;&gt;Changelog &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.2.1/#changelog&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;added&quot; tabindex=&quot;-1&quot;&gt;Added &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.2.1/#added&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Specify build platform for about page by @DioEgizio in #449&lt;/li&gt;
+&lt;li&gt;[macOS] Enable hardened runtime by @kthchew in #454&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot; tabindex=&quot;-1&quot;&gt;Fixed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.2.1/#fixed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix typos and capitalization by @kthchew in #442&lt;/li&gt;
+&lt;li&gt;Fix placeholder translations for mod downloader by @flowln in #443&lt;/li&gt;
+&lt;li&gt;Fix missing files in release workflow by @Scrumplex in #444&lt;/li&gt;
+&lt;li&gt;Fix Modrinth search if Quilt is used by @Scrumplex in #450&lt;/li&gt;
+&lt;li&gt;Fix crashes when creating a new instance by @Scrumplex in #451&lt;/li&gt;
+&lt;li&gt;Fix crash when mod downloader has network issues by @Scrumplex in #452&lt;/li&gt;
+&lt;li&gt;Fix sort-by-size in world list by @Scrumplex in #462&lt;/li&gt;
+&lt;li&gt;Fix crash when trying to create an instance without a Minecraft version by @kthchew in #470&lt;/li&gt;
+&lt;li&gt;Fix crash when opening the mod downloader with snapshots by @Scrumplex in #472&lt;/li&gt;
+&lt;li&gt;[macOS] Fix version string by @kthchew in #455&lt;/li&gt;
+&lt;li&gt;[macOS] Fix instance rename using return-key @txtsd in #463&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;removed&quot; tabindex=&quot;-1&quot;&gt;Removed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.2.1/#removed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[FreeBSD] Revert &amp;quot;Force system LWJGL natives&amp;quot; by @Scrumplex in #467&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href=&quot;https://github.com/PolyMC/PolyMC/compare/1.2.0...1.2.1&quot;&gt;https://github.com/PolyMC/PolyMC/compare/1.2.0...1.2.1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&quot;https://catgang42.github.io/v1/download&quot;&gt;grab the latest download here&lt;/a&gt; for your respective platform.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>PolyMC Update 1.2.0, now available</title>
+		<link href="https://catgang42.github.io/v1/news/release-1.2.0/"/>
+		<updated>2022-04-17T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/release-1.2.0/</id>
+		<content type="html">&lt;p&gt;Hey! It&#39;s update-time again. We have added lots of new things in this one and improved a few things as well.&lt;/p&gt;
+&lt;h2 id=&quot;changelog&quot; tabindex=&quot;-1&quot;&gt;Changelog &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.2.0/#changelog&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;added&quot; tabindex=&quot;-1&quot;&gt;Added &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.2.0/#added&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Allow components to specify Java agents and JVM arguments by @unascribed in #175&lt;/li&gt;
+&lt;li&gt;Add support for Quilt loader by @Scrumplex in #185 #431&lt;/li&gt;
+&lt;li&gt;Add buttons to Matrix space and Reddit by @dada513 in #243 and @ZekeSmith in #390&lt;/li&gt;
+&lt;li&gt;Allow moving toolbars by @flowln in #305&lt;/li&gt;
+&lt;li&gt;Add Quit after game stop option by @dada513 in #341&lt;/li&gt;
+&lt;li&gt;Block game launch if Java is incompatible by @Scrumplex in #345&lt;/li&gt;
+&lt;li&gt;Add grayscale icon for monochrome icon themes by @embeddedt in #370&lt;/li&gt;
+&lt;li&gt;Track and display game world sizes by @Scrumplex in #373 #387&lt;/li&gt;
+&lt;li&gt;Add more detailed progress dialog for mod-downloader by @flowln in #380 #409&lt;/li&gt;
+&lt;li&gt;Add version selector for Technic modpacks by @jamierocks in #384&lt;/li&gt;
+&lt;li&gt;Add basic filtering to mod downloader by @flowln in #392&lt;/li&gt;
+&lt;li&gt;Lay groundwork for ARM64 support by @DioEgizio in #397&lt;/li&gt;
+&lt;li&gt;Add mod loader selection to instance creation by @kthchew in #398&lt;/li&gt;
+&lt;li&gt;Save custom offline player name by @vlaetansky &amp;amp; @DioEgizio in #407&lt;/li&gt;
+&lt;li&gt;Add optional menu-bar and keyboard navigation by @kthchew in #411&lt;/li&gt;
+&lt;li&gt;[Linux] Provide portable builds by @DioEgizio in #351&lt;/li&gt;
+&lt;li&gt;[Windows] Add support for POLYMC_JAVA_PATHS by @FayneAldan in #357 #360&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;changed&quot; tabindex=&quot;-1&quot;&gt;Changed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.2.0/#changed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Improve mod downloader by @flowln in #220 #356 and @dada513 in #375 and @HarryPeach in #395&lt;/li&gt;
+&lt;li&gt;Switch logo font to Josefin Sans by @Scrumplex in #250&lt;/li&gt;
+&lt;li&gt;Updated Nix Flake by @Kranzes in #272&lt;/li&gt;
+&lt;li&gt;Combine portable and system builds by @Scrumplex in #336&lt;/li&gt;
+&lt;li&gt;Build script improvements by @oynqr in #333 #344 and @txtsd in #349 and @DioEgizio in #389&lt;/li&gt;
+&lt;li&gt;Update credits and branding by @Scrumplex in #352&lt;/li&gt;
+&lt;li&gt;Update license for logos by @ZekeSmith in #383 #385&lt;/li&gt;
+&lt;li&gt;Change path of help pages by @DioEgizio in #430&lt;/li&gt;
+&lt;li&gt;Use system libraries if possible by @flowln in #436&lt;/li&gt;
+&lt;li&gt;[macOS] Switch to Qt 5.15.3 by @DioEgizio in #439&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot; tabindex=&quot;-1&quot;&gt;Fixed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.2.0/#fixed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix and improve translatable strings by @Scrumplex in #364&lt;/li&gt;
+&lt;li&gt;Switch to newer Discord logo by @Regular-Baf in #413&lt;/li&gt;
+&lt;li&gt;[Linux] Flatpak fixes by @dada513 in #355&lt;/li&gt;
+&lt;li&gt;[Linux] Install missing manpage by @Scrumplex in #417&lt;/li&gt;
+&lt;li&gt;[FreeBSD] Force system LWJGL natives by @Irgendwer01 in #429&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;removed&quot; tabindex=&quot;-1&quot;&gt;Removed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.2.0/#removed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Remove unused notification system by @binex-dsk in #188&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href=&quot;https://github.com/PolyMC/PolyMC/compare/1.1.1...1.2.0&quot;&gt;https://github.com/PolyMC/PolyMC/compare/1.1.1...1.2.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&quot;https://catgang42.github.io/v1/download&quot;&gt;grab the latest download here&lt;/a&gt; for your respective platform.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>PolyMC Update 1.1.1, now available</title>
+		<link href="https://catgang42.github.io/v1/news/release-1.1.1/"/>
+		<updated>2022-03-27T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/release-1.1.1/</id>
+		<content type="html">&lt;p&gt;We are pleased to announce, that PolyMC version 1.1.1 is now available.&lt;br /&gt;
+This release mainly contains bug fixes.&lt;/p&gt;
+&lt;h2 id=&quot;changelog&quot; tabindex=&quot;-1&quot;&gt;Changelog &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.1.1/#changelog&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;added&quot; tabindex=&quot;-1&quot;&gt;Added &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.1.1/#added&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Support builds without Git by @oynqr in #280&lt;/li&gt;
+&lt;li&gt;Limit offline username to 16 characters by @lack in #292&lt;/li&gt;
+&lt;li&gt;[Windows] Support 64-Bit builds by @oynqr in #294&lt;/li&gt;
+&lt;li&gt;Allow fractional DPI scaling by @txtsd in #315&lt;/li&gt;
+&lt;li&gt;[Windows] Provide portable and system builds by @DioEgizio in #330&lt;/li&gt;
+&lt;li&gt;Improve release workflow by @oynqr in #337&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;changed&quot; tabindex=&quot;-1&quot;&gt;Changed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.1.1/#changed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Add license headers by @Scrumplex in #200&lt;/li&gt;
+&lt;li&gt;Improve mod downloads by @flowln in #270 #296 #334&lt;/li&gt;
+&lt;li&gt;Bundle JRE 8u312 for AppImage by @DioEgizio in #297&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot; tabindex=&quot;-1&quot;&gt;Fixed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.1.1/#fixed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[Linux] Update metainfo URLs by @Scrumplex in #254&lt;/li&gt;
+&lt;li&gt;[Linux] Fix JavaCheck for AppImage by @Scrumplex in #265&lt;/li&gt;
+&lt;li&gt;[macOS] Fix branding by @DioEgizio in #273&lt;/li&gt;
+&lt;li&gt;Clarify license by @Scrumplex in #278&lt;/li&gt;
+&lt;li&gt;[Windows] Fix portable builds by @Scrumplex in #295&lt;/li&gt;
+&lt;li&gt;Improve translations by @Scrumplex in #298 #323&lt;/li&gt;
+&lt;li&gt;Limit instance names&#39; length by @Scrumplex in #306&lt;/li&gt;
+&lt;li&gt;[macOS] Fix loading of WebP images by @DioEgizio in #311&lt;/li&gt;
+&lt;li&gt;Fix buttons on mods page when instance is running by @Scrumplex in #316&lt;/li&gt;
+&lt;li&gt;Statically link remaining internal libraries by @oynqr in #322&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;removed&quot; tabindex=&quot;-1&quot;&gt;Removed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.1.1/#removed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Remove &lt;a href=&quot;http://paste.polymc.org/&quot;&gt;paste.polymc.org&lt;/a&gt; by @flowln in #299&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href=&quot;https://github.com/PolyMC/PolyMC/compare/1.1.0...1.1.1&quot;&gt;https://github.com/PolyMC/PolyMC/compare/1.1.0...1.1.1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&quot;https://catgang42.github.io/v1/download&quot;&gt;grab the latest download here&lt;/a&gt; for your respective platform.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>PolyMC Update 1.1.0, now available</title>
+		<link href="https://catgang42.github.io/v1/news/release-1.1.0/"/>
+		<updated>2022-03-12T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/release-1.1.0/</id>
+		<content type="html">&lt;p&gt;We are pleased to announce, that PolyMC version 1.1.0 is now available!&lt;br /&gt;
+This is a major milestone, as this marks the first release since deciding to move on from our origins as a MultiMC fork.&lt;br /&gt;
+You can &lt;a href=&quot;https://catgang42.github.io/v1/news/moving-on&quot;&gt;read more about that here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;changelog&quot; tabindex=&quot;-1&quot;&gt;Changelog &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.1.0/#changelog&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;added&quot; tabindex=&quot;-1&quot;&gt;Added &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.1.0/#added&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;New option to close PolyMC after launch by @binex-dsk in #79&lt;/li&gt;
+&lt;li&gt;Now detects Java from environment by @muscaln in #46&lt;/li&gt;
+&lt;li&gt;New &lt;code&gt;Open page &amp;amp; copy code&lt;/code&gt; button in MSA login dialog by @Scrumplex  in #88&lt;/li&gt;
+&lt;li&gt;Added StartupWMClass to .desktop file so DEs can behave by @danielhuang in #95&lt;/li&gt;
+&lt;li&gt;Added PolyMC news by @dada513 in #151&lt;/li&gt;
+&lt;li&gt;Added CurseForge and Modrinth mod downloader by @timoreo22 in #64 #129 #183 #205 #207 and @flowln in #193 #221&lt;/li&gt;
+&lt;li&gt;New CC BY-NC-SA 4.0 license for PolyMC logos and branding by @ZekeSmith in #149&lt;/li&gt;
+&lt;li&gt;Added MSA-Client-ID override in UI by @Scrumplex in #161&lt;/li&gt;
+&lt;li&gt;Added missing tooltip for instance export in #176&lt;/li&gt;
+&lt;li&gt;Added MSA Client ID change detection and prompt by @Scrumplex in #180&lt;/li&gt;
+&lt;li&gt;Added Matrix space link by @dada513 in #243&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;changed&quot; tabindex=&quot;-1&quot;&gt;Changed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.1.0/#changed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Default to the system locale on first startup by @oynqr in #52&lt;/li&gt;
+&lt;li&gt;Replaced &lt;code&gt;paste.ee&lt;/code&gt; with &lt;code&gt;0x0.st&lt;/code&gt; and &lt;code&gt;paste.polymc.org&lt;/code&gt; by @binex-dsk in #67&lt;/li&gt;
+&lt;li&gt;Updated information in the About dialog by @redstrate in #108&lt;/li&gt;
+&lt;li&gt;Migrated to upstream QuaZip 1.2 by @Scrumplex in #92&lt;/li&gt;
+&lt;li&gt;QuaZip is now linked statically by @Scrumplex in #126&lt;/li&gt;
+&lt;li&gt;Internal libraries are now linked statically by @Scrumplex in #143&lt;/li&gt;
+&lt;li&gt;PolyMC specific translations now hosted on weblate by @Scrumplex in #152 #199&lt;/li&gt;
+&lt;li&gt;Update metadata by @dada513 in #145&lt;/li&gt;
+&lt;li&gt;Version string now shows the branch that PolyMC was built from by @Scrumplex in #160&lt;/li&gt;
+&lt;li&gt;New MSA Client ID by @Scrumplex in #172&lt;/li&gt;
+&lt;li&gt;Replace old build layout system with new &lt;code&gt;Launcher_PORTABLE&lt;/code&gt; cmake flag by @txtsd in #163&lt;/li&gt;
+&lt;li&gt;Reorganized icon themes by @Scrumplex in #230&lt;/li&gt;
+&lt;li&gt;[Windows] Now runs on WSL by @TheGlitch76 in #186&lt;/li&gt;
+&lt;li&gt;[macOS] Move app data to &lt;code&gt;Application Support&lt;/code&gt; by @dada513 in #146&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;fixed&quot; tabindex=&quot;-1&quot;&gt;Fixed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.1.0/#fixed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Add some logging to profile fetching failures in #96&lt;/li&gt;
+&lt;li&gt;Ignore invalid lines altogether in java checker in #96&lt;/li&gt;
+&lt;li&gt;Correctly set http status code in auth reply in #96&lt;/li&gt;
+&lt;li&gt;Log server response when failing to fetch profile in #96&lt;/li&gt;
+&lt;li&gt;Fix error message in #96&lt;/li&gt;
+&lt;li&gt;Fixed inconsistent behavior of icons when exiting the settings screen by @redstrate in #107&lt;/li&gt;
+&lt;li&gt;Fixed freedesktop icons by @dada513 in #150&lt;/li&gt;
+&lt;li&gt;[macOS] Fixed GUI identifier by @DioEgizio in #171&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;removed&quot; tabindex=&quot;-1&quot;&gt;Removed &lt;a class=&quot;direct-link&quot; href=&quot;https://catgang42.github.io/v1/news/release-1.1.0/#removed&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Removed MultiMC news by @Scrumplex in #105&lt;/li&gt;
+&lt;li&gt;Removed legacy instance support by @Scrumplex in #192 #201&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href=&quot;https://github.com/PolyMC/PolyMC/compare/1.0.6...1.1.0&quot;&gt;https://github.com/PolyMC/PolyMC/compare/1.0.6...1.1.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&quot;https://catgang42.github.io/v1/download&quot;&gt;grab the latest download here&lt;/a&gt; for your respective platform.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Moving on</title>
+		<link href="https://catgang42.github.io/v1/news/moving-on/"/>
+		<updated>2022-03-06T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/moving-on/</id>
+		<content type="html">&lt;p&gt;PolyMC emerged out of frustration with the MultiMC project and therefore brought controversy with it.&lt;br /&gt;
+In short, the original founders of PolyMC had disagreements with the maintainer of MultiMC and the project&#39;s direction.&lt;br /&gt;
+These disagreements were turned into a takeover of packaging on Arch Linux by the PolyMC founders, something that, understandably, the &lt;a href=&quot;https://github.com/PolyMC/PolyMC/issues/75#issuecomment-1023571223&quot;&gt;MultiMC maintainers took as sabotage&lt;/a&gt;.&lt;br /&gt;
+After MultiMC &lt;a href=&quot;https://www.reddit.com/r/linux_gaming/comments/riitbs/multimc_is_dropping_all_support_for_aur_packages/&quot;&gt;dropped support for third-party packaging&lt;/a&gt;, the seeds for PolyMC were laid.&lt;/p&gt;
+&lt;p&gt;As a side note, we want to mention that we do not approve the actions of community members that used these controversies as a basis to harass MultiMC developers.&lt;br /&gt;
+Please refrain from brigading other communities.&lt;br /&gt;
+It only causes harm on both sides.&lt;/p&gt;
+&lt;p&gt;PolyMC&#39;s inception is very controversial by its very nature.&lt;br /&gt;
+The founders have decided to sublicense PolyMC under the terms of the &lt;a href=&quot;https://en.wikipedia.org/wiki/GNU_General_Public_License&quot;&gt;GNU General Public License 3&lt;/a&gt; (GPL-3), which made it impossible for MultiMC to take contributions, without re-licensing to GPL-3 as well.&lt;br /&gt;
+As a result the MultiMC team have decided to burn bridges with PolyMC.&lt;br /&gt;
+This was manifested after access to the metadata service, provided by MultiMC, was &lt;a href=&quot;https://github.com/PolyMC/PolyMC/issues/75&quot;&gt;blocked for all PolyMC users&lt;/a&gt;.&lt;br /&gt;
+All versions prior to 1.0.6 do not work anymore, as they try to reach MultiMC servers instead of our own.&lt;/p&gt;
+&lt;p&gt;In an effort to prepare for our upcoming 1.1.0 release, we wanted to contact the MultiMC maintainer to see, if they want to be credited in our documentation.&lt;br /&gt;
+Sadly, our request was dismissed, and most of our team members were banned from the official MultiMC Discord server for being associated with PolyMC.&lt;/p&gt;
+&lt;img alt=&quot;Screenshot of public chat with MultiMC maintainer&quot; src=&quot;https://catgang42.github.io/v1/img/news/moving-on/discord.png&quot; style=&quot;width: 40em&quot; /&gt;
+&lt;p&gt;This has sparked many internal discussions both at PolyMC and MultiMC.&lt;br /&gt;
+In the end, we concluded that we will be moving on from our origins as a packaging-friendly fork of MultiMC.&lt;/p&gt;
+&lt;p&gt;In our upcoming 1.1.0 release, you will be able to use new features that will differentiate PolyMC from MultiMC.&lt;br /&gt;
+The major new feature is the integrated mod downloader that supports Modrinth and CurseForge mods.&lt;br /&gt;
+We also plan to clean the codebase, remove obscure or old features and cruft in an effort to make it easier for new contributors to start working on PolyMC.&lt;/p&gt;
+&lt;p&gt;Additionally, we have reorganized PolyMC since its inception to be more community-centric.&lt;br /&gt;
+One of the founders has stepped down as a maintainer, and we have formed the &lt;em&gt;PolyMC Core Team&lt;/em&gt;.&lt;br /&gt;
+You can read more about it in &lt;a href=&quot;https://catgang42.github.io/v1/news/new-maintainers/&quot;&gt;this blogpost&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We want to decouple this project from its controversial origins and start work on a powerful Minecraft launcher.&lt;br /&gt;
+While we are working on getting 1.1.0 out, check out our future plans:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sneak peek of future plans&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rewrite of metadata generators, to make them easier to work with. See progress over on &lt;a href=&quot;https://github.com/PolyMC/polymorphosis&quot;&gt;PolyMC/polymorphosis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Potential rewrite of the launch-mechanism for Minecraft. This will give future alternative launchers the tools to build their own. See progress over on &lt;a href=&quot;https://github.com/PolyMC/PolyMC/issues/167&quot;&gt;PolyMC/PolyMC#167&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you want to be involved in PolyMC, check out the following links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/PolyMC&quot;&gt;PolyMC GitHub Organization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/PolyMC/PolyMC&quot;&gt;PolyMC Source Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://discord.com/invite/xq7fxrgtMP&quot;&gt;PolyMC Discord server&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://matrix.to/#/#polymc:matrix.org&quot;&gt;PolyMC Matrix Space&lt;/a&gt; (bridged with Discord)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Never dig straight down!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;~ PolyMC Core Team&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Modrinth support and Mod downloading</title>
+		<link href="https://catgang42.github.io/v1/news/mod-download/"/>
+		<updated>2022-02-07T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/mod-download/</id>
+		<content type="html">&lt;p&gt;Thanks to @timoreo it is now possible to download individual mods from both curseforge and modrinth. This pull request is the first of many big changes coming to PolyMC.&lt;/p&gt;
+&lt;p&gt;Screenshots of the new feature:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/81902668/152801619-8d826540-2467-4973-9488-f6afcb7ba804.png&quot; alt=&quot;ModInstallBlack&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/81902668/152801625-e7ad87f7-464f-49a2-ab4f-116f592acec1.png&quot; alt=&quot;ModInstallWhite&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>New maintainers and step down.</title>
+		<link href="https://catgang42.github.io/v1/news/new-maintainers/"/>
+		<updated>2022-02-06T00:00:00Z</updated>
+		<id>https://catgang42.github.io/v1/news/new-maintainers/</id>
+		<content type="html">&lt;p&gt;Based off recent controversies, and for the project&#39;s best interest, Swirl has stepped down from his role as maintainer. LennyMcLennington is now the head maintainer of PolyMC and has established a new core group of maintainers to keep the project healthy and active.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Swirl Stated&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;@here Based on recent controversies, and in thinking of the general future of this project, I believe it to be best if I step down from my leadership position in PolyMC.&lt;/p&gt;
+&lt;p&gt;Lenny will now be maintaining PolyMC and all its related services, and will be establishing a core team to help with development resources and community management.&lt;/p&gt;
+&lt;p&gt;Additionally, due to mental health and other personal reasons, I will be taking a break from--and generally will be unavailable for--contributing to the project.&lt;/p&gt;
+&lt;p&gt;Thank you all for providing me a great community to work with. I pray for PolyMC to have a good future and for all of you to continue to do good for the Free Software community.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Quote in news: &lt;a href=&quot;https://discordapp.com/channels/923671181020766230/923672379144671263/939731859431100416&quot;&gt;Discord&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Swirl contributed a lot to PolyMC, and we hope to see more contributions in the future.&lt;/p&gt;
+&lt;p&gt;In lighter news, congratulations to our new Core Team consisting of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LennyMcLennington&lt;/li&gt;
+&lt;li&gt;Scrumplex&lt;/li&gt;
+&lt;li&gt;timoreo&lt;/li&gt;
+&lt;li&gt;txtsd&lt;/li&gt;
+&lt;li&gt;dada513&lt;/li&gt;
+&lt;li&gt;Ezekiel Smith&lt;/li&gt;
+&lt;li&gt;cozyGalvinism&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will be maintaining the PolyMC project and repositories. We hope to see great contributions and continued development of PolyMC.&lt;/p&gt;
+&lt;p&gt;~ PolyMC Team&lt;/p&gt;
+</content>
+	</entry>
+</feed>
